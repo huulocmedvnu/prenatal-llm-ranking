@@ -1,0 +1,20 @@
+{
+ "title": "Code and data: large language models for gene prioritisation from fetal ultrasound findings",
+ "upload_type": "software",
+ "license": "MIT",
+ "creators": [
+  {
+   "name": "Tran, Thai Huu Loc",
+   "affiliation": "Hong Hung Hospital",
+   "orcid": "0009-0009-1810-010X"
+  }
+ ],
+ "description": "Scripts, extracted data, stored model answers, Exomiser results and a notebook that reproduces every reported number of the study comparing large language models with Exomiser and HPO semantic similarity for gene prioritisation from fetal ultrasound findings.",
+ "keywords": [
+  "prenatal exome sequencing",
+  "gene prioritisation",
+  "large language models",
+  "Human Phenotype Ontology",
+  "Exomiser"
+ ]
+}
