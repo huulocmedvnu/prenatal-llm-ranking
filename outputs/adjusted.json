@@ -21,6 +21,7 @@
     ],
     "p": 0.00023423677311461955
    },
+   "covariates": "log_terms + mean_ic + exact_frac + log_gene_terms + log_gene_freq + exo_top50",
    "adjusted_no_exomiser_term": {
     "OR": 0.28,
     "ci": [
@@ -47,6 +48,7 @@
     ],
     "p": 0.0009751584061742946
    },
+   "covariates": "log_terms + mean_ic + exact_frac + log_gene_terms + log_gene_freq + exo_top50",
    "adjusted_no_exomiser_term": {
     "OR": 0.29,
     "ci": [
@@ -73,6 +75,7 @@
     ],
     "p": 0.007088354951179327
    },
+   "covariates": "log_terms + mean_ic + exact_frac + log_gene_terms + log_gene_freq + exo_top50",
    "adjusted_no_exomiser_term": {
     "OR": 0.35,
     "ci": [
@@ -92,13 +95,14 @@
     "p": 0.09606616047551811
    },
    "adjusted": {
-    "OR": 2.15,
+    "OR": 0.54,
     "ci": [
-     0.57,
-     8.06
+     0.22,
+     1.29
     ],
-    "p": 0.2574450481953231
+    "p": 0.16478900716971923
    },
+   "covariates": "log_terms + mean_ic + exact_frac + log_gene_terms + log_gene_freq",
    "adjusted_no_exomiser_term": {
     "OR": 0.54,
     "ci": [
@@ -125,6 +129,7 @@
     ],
     "p": 0.8127063166264143
    },
+   "covariates": "log_terms + mean_ic + exact_frac + log_gene_terms + log_gene_freq + exo_top50",
    "adjusted_no_exomiser_term": {
     "OR": 0.5,
     "ci": [
@@ -165,11 +170,11 @@
   },
   "exomiser_hiphive": {
    "post": 5.9,
-   "matched_pre": 3.9,
-   "diff": 2.0,
+   "matched_pre": 12.1,
+   "diff": -6.2,
    "ci": [
-    -2.0,
-    5.9
+    -11.1,
+    -0.7
    ]
   },
   "resnik": {

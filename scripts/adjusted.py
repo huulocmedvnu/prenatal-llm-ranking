@@ -26,6 +26,10 @@ D["log_terms"] = np.log(D.n_terms.clip(lower=1))
 D["log_gene_terms"] = np.log1p(D.gene_n_terms)
 D["log_gene_freq"] = np.log1p(D.gene_freq_other)
 COV = "log_terms + mean_ic + exact_frac + log_gene_terms + log_gene_freq + exo_top50"
+COV5 = COV.replace(" + exo_top50", "")
+# Exomiser's own outcome is not adjusted or matched for its own top-50 rank: every top-10 gene is also in the
+# top 50, so that term would condition the outcome on itself (quasi-complete separation).
+cov_for = lambda y: COV5 if y == "exomiser_hiphive" else COV
 out = {"n": D.post.value_counts().to_dict(), "models": {}}
 
 
@@ -38,21 +42,25 @@ def fit(y, cov):
 
 
 for y in ["opus_r1", "sonnet_r1", "haiku_r1", "exomiser_hiphive", "resnik"]:
-    out["models"][y] = {"unadjusted": fit(y, ""), "adjusted": fit(y, COV)}
-    cov_noexo = COV.replace(" + exo_top50", "")
-    out["models"][y]["adjusted_no_exomiser_term"] = fit(y, cov_noexo)
+    out["models"][y] = {"unadjusted": fit(y, ""), "adjusted": fit(y, cov_for(y)), "covariates": cov_for(y)}
+    out["models"][y]["adjusted_no_exomiser_term"] = fit(y, COV5)
 
 # propensity matching: post fetus -> 2 nearest pre fetuses on the logit of P(post | features)
-ps = smf.glm(f"post ~ {COV}", D, family=sm.families.Binomial()).fit()
-D["lp"] = np.log(ps.fittedvalues / (1 - ps.fittedvalues))
-pre, post = D[D.post == 0], D[D.post == 1]
-nn = NearestNeighbors(n_neighbors=2).fit(pre[["lp"]].values)
-_, idx = nn.kneighbors(post[["lp"]].values)
-matched_pre = pre.iloc[idx.ravel()]
+def match(cov):
+    ps = smf.glm(f"post ~ {cov}", D, family=sm.families.Binomial()).fit()
+    lp = np.log(ps.fittedvalues / (1 - ps.fittedvalues))
+    pre_, post_ = D[D.post == 0].assign(lp=lp), D[D.post == 1].assign(lp=lp)
+    _, idx = NearestNeighbors(n_neighbors=2).fit(pre_[["lp"]].values).kneighbors(post_[["lp"]].values)
+    return post_, pre_.iloc[idx.ravel()]
+
+
+MATCH = {c: match(c) for c in (COV, COV5)}
+post, matched_pre = MATCH[COV]; pre = D[D.post == 0]
 rng = np.random.default_rng(1)
 mt = {}
 for y in ["opus_r1", "sonnet_r1", "haiku_r1", "exomiser_hiphive", "resnik"]:
-    a, b = post[y].values, matched_pre[y].values.reshape(-1, 2).mean(1)
+    post_y, pre_y = MATCH[cov_for(y)]
+    a, b = post_y[y].values, pre_y[y].values.reshape(-1, 2).mean(1)
     boots = []
     for _ in range(4000):
         i = rng.integers(0, len(a), len(a)); boots.append(a[i].mean() - b[i].mean())
