@@ -1,0 +1,1694 @@
+{
+ "1": {
+  "genes": [
+   "ARX"
+  ],
+  "variants": [
+   "NM_139058.2:c.994C>G"
+  ],
+  "sex": "MALE"
+ },
+ "2": {
+  "genes": [
+   "CHD7"
+  ],
+  "variants": [
+   "NM_017780.3:c.7879C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "3": {
+  "genes": [
+   "TUBA1A"
+  ],
+  "variants": [
+   "NM_006009.3:c.781C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "4": {
+  "genes": [
+   "NFIA"
+  ],
+  "variants": [
+   "NM_001145512.1:c.1112C>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "5": {
+  "genes": [
+   "TUBB2B"
+  ],
+  "variants": [
+   "NM_178012.4:c.538G>A"
+  ],
+  "sex": "MALE"
+ },
+ "7": {
+  "genes": [
+   "EZH2"
+  ],
+  "variants": [
+   "NM_004456.4:c.2050C>T"
+  ],
+  "sex": "MALE"
+ },
+ "8 #": {
+  "genes": [
+   "CHD4"
+  ],
+  "variants": [
+   "NM_001273.3:c.2960A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "10": {
+  "genes": [
+   "ANKRD11"
+  ],
+  "variants": [
+   "NM_013275.5:c.1903_1907delAAACA"
+  ],
+  "sex": "MALE"
+ },
+ "11": {
+  "genes": [
+   "ANKRD11"
+  ],
+  "variants": [
+   "NM_013275.5:c.1903_1907delAAACA"
+  ],
+  "sex": "FEMALE"
+ },
+ "12": {
+  "genes": [
+   "PPP2R1A"
+  ],
+  "variants": [
+   "NM_014225.5:c.775G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "13": {
+  "genes": [
+   "AHDC1"
+  ],
+  "variants": [
+   "NM_001029882.2:c.1759C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "14": {
+  "genes": [
+   "PAFAH1B1"
+  ],
+  "variants": [
+   "NM_000430.3:c.714_722delTATGGTACG"
+  ],
+  "sex": "FEMALE"
+ },
+ "16": {
+  "genes": [
+   "COL4A1"
+  ],
+  "variants": [
+   "NM_001845.5:c.3556G>A"
+  ],
+  "sex": "MALE"
+ },
+ "17": {
+  "genes": [
+   "PAFAH1B1"
+  ],
+  "variants": [
+   "NM_000430.3:c.41_42dupCT"
+  ],
+  "sex": "FEMALE"
+ },
+ "19": {
+  "genes": [
+   "NFIA"
+  ],
+  "variants": [
+   "NM_001145512.1:c.483A>C"
+  ],
+  "sex": "MALE"
+ },
+ "20": {
+  "genes": [
+   "ARID1B"
+  ],
+  "variants": [
+   "NM_001346813.1:c.5145+1G>T"
+  ],
+  "sex": "MALE"
+ },
+ "21": {
+  "genes": [
+   "ADNP"
+  ],
+  "variants": [
+   "NM_015339.4:c.2161C>T"
+  ],
+  "sex": "MALE"
+ },
+ "22": {
+  "genes": [
+   "ARID1B"
+  ],
+  "variants": [
+   "NM_001346813.1:c.5932C>T"
+  ],
+  "sex": "MALE"
+ },
+ "23": {
+  "genes": [
+   "COL4A1"
+  ],
+  "variants": [
+   "NM_001845.5:c.3034_3041delinsCC"
+  ],
+  "sex": "MALE"
+ },
+ "24": {
+  "genes": [
+   "FGFR2"
+  ],
+  "variants": [
+   "NM_000141.4:c.1052C>G"
+  ],
+  "sex": "MALE"
+ },
+ "26": {
+  "genes": [
+   "DLL1"
+  ],
+  "variants": [
+   "NM_005618.3:c.1407C>A"
+  ],
+  "sex": "MALE"
+ },
+ "27": {
+  "genes": [
+   "PDHA1"
+  ],
+  "variants": [
+   "NM_000284.4:c.1142_1145dupATCA"
+  ],
+  "sex": "FEMALE"
+ },
+ "29": {
+  "genes": [
+   "FLNA"
+  ],
+  "variants": [
+   "NM_001110556.1:c.4265dupA"
+  ],
+  "sex": "FEMALE"
+ },
+ "30": {
+  "genes": [
+   "PPP2R1A"
+  ],
+  "variants": [
+   "NM_014225.5:c.544C>T"
+  ],
+  "sex": "MALE"
+ },
+ "31": {
+  "genes": [
+   "ZMYM2"
+  ],
+  "variants": [
+   "NM_003453.4:c.534dupA"
+  ],
+  "sex": "MALE"
+ },
+ "33": {
+  "genes": [
+   "PTCH1"
+  ],
+  "variants": [
+   "NM_000264.3:c.114delG"
+  ],
+  "sex": "MALE"
+ },
+ "34": {
+  "genes": [
+   "COL11A1"
+  ],
+  "variants": [
+   "NM_080629.2:c.3449G>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "35": {
+  "genes": [
+   "ARHGAP29"
+  ],
+  "variants": [
+   "NM_004815.4:c.1920+1G>A"
+  ],
+  "sex": "MALE"
+ },
+ "36": {
+  "genes": [
+   "IRF6"
+  ],
+  "variants": [
+   "NM_006147.3:c.181G>T"
+  ],
+  "sex": "MALE"
+ },
+ "37": {
+  "genes": [
+   "IRF6"
+  ],
+  "variants": [
+   "NM_006147.3:c.439_442delGAAG"
+  ],
+  "sex": "FEMALE"
+ },
+ "38": {
+  "genes": [
+   "KCNK9"
+  ],
+  "variants": [
+   "NM_001282534.1:c.706G>C"
+  ],
+  "sex": "MALE"
+ },
+ "39": {
+  "genes": [
+   "FOXC2"
+  ],
+  "variants": [
+   "NM_005251.2:c.122_123insGACA"
+  ],
+  "sex": "FEMALE"
+ },
+ "40": {
+  "genes": [
+   "CRYAA"
+  ],
+  "variants": [
+   "NM_000394.3:c.34C>T"
+  ],
+  "sex": "MALE"
+ },
+ "41": {
+  "genes": [
+   "RUNX2"
+  ],
+  "variants": [
+   "NM_001024630.3:c.659C>T"
+  ],
+  "sex": "MALE"
+ },
+ "42": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.15673C>T"
+  ],
+  "sex": "MALE"
+ },
+ "43": {
+  "genes": [
+   "TCOF1"
+  ],
+  "variants": [
+   "NM_001135243.1:c.2286dupT"
+  ],
+  "sex": "FEMALE"
+ },
+ "44": {
+  "genes": [
+   "SIX3"
+  ],
+  "variants": [
+   "NM_005413.3:c.595delC"
+  ],
+  "sex": "FEMALE"
+ },
+ "45": {
+  "genes": [
+   "EYA1"
+  ],
+  "variants": [
+   "NM_000503.5:c.1081C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "46": {
+  "genes": [
+   "ADNP"
+  ],
+  "variants": [
+   "NM_015339.4:c.2156dupA"
+  ],
+  "sex": "MALE"
+ },
+ "47": {
+  "genes": [
+   "PTPN11"
+  ],
+  "variants": [
+   "NM_002834.3:c.1510A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "48": {
+  "genes": [
+   "CHD7"
+  ],
+  "variants": [
+   "NM_017780.3:c.2176_2177delGA"
+  ],
+  "sex": "MALE"
+ },
+ "49": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.8994dupT"
+  ],
+  "sex": "MALE"
+ },
+ "50": {
+  "genes": [
+   "FBN1"
+  ],
+  "variants": [
+   "NM_000138.4:c.6497A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "51": {
+  "genes": [
+   "PTPN11"
+  ],
+  "variants": [
+   "NM_002834.3:c.166A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "52": {
+  "genes": [
+   "SMARCA4"
+  ],
+  "variants": [
+   "NM_001128849.1:c.3460C>T"
+  ],
+  "sex": "MALE"
+ },
+ "53": {
+  "genes": [
+   "ZEB2"
+  ],
+  "variants": [
+   "NM_014795.3:c.1200T>A"
+  ],
+  "sex": "MALE"
+ },
+ "54": {
+  "genes": [
+   "FLNA"
+  ],
+  "variants": [
+   "NM_001110556.1:c.7757-2A>C"
+  ],
+  "sex": "FEMALE"
+ },
+ "55": {
+  "genes": [
+   "SHOC2"
+  ],
+  "variants": [
+   "NM_007373.3:c.4A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "56": {
+  "genes": [
+   "BRAF"
+  ],
+  "variants": [
+   "NM_001374258.1:c.1575G>C"
+  ],
+  "sex": "MALE"
+ },
+ "57": {
+  "genes": [
+   "HRAS"
+  ],
+  "variants": [
+   "NM_005343.3:c.34G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "58": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.12522_12523delinsCCCCAGG"
+  ],
+  "sex": "MALE"
+ },
+ "59": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.12823C>T"
+  ],
+  "sex": "MALE"
+ },
+ "60": {
+  "genes": [
+   "MYH7"
+  ],
+  "variants": [
+   "NM_000257.3:c.2330G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "61": {
+  "genes": [
+   "NONO"
+  ],
+  "variants": [
+   "NM_007363.4:c.1096C>T"
+  ],
+  "sex": "MALE"
+ },
+ "63": {
+  "genes": [
+   "TSC2"
+  ],
+  "variants": [
+   "NM_000548.5:c.880G>A"
+  ],
+  "sex": "MALE"
+ },
+ "64": {
+  "genes": [
+   "TSC2"
+  ],
+  "variants": [
+   "NM_000548.4:c.2410T>C"
+  ],
+  "sex": "FEMALE"
+ },
+ "65 #": {
+  "genes": [
+   "MAPK1"
+  ],
+  "variants": [
+   "NM_002745.4:c.1061T>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "66": {
+  "genes": [
+   "TSC2"
+  ],
+  "variants": [
+   "NM_000548.4:c.5238_5255delCATCAAGCGGCTCCGCCA"
+  ],
+  "sex": "FEMALE"
+ },
+ "67": {
+  "genes": [
+   "KDM6A"
+  ],
+  "variants": [
+   "NM_001291415.1:c.3510_3512delTCT"
+  ],
+  "sex": "MALE"
+ },
+ "68": {
+  "genes": [
+   "TSC2"
+  ],
+  "variants": [
+   "NM_000548.4:c.1831C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "69": {
+  "genes": [
+   "TSC1"
+  ],
+  "variants": [
+   "NM_000368.4:c.2773G>T"
+  ],
+  "sex": "MALE"
+ },
+ "70": {
+  "genes": [
+   "CDH2"
+  ],
+  "variants": [
+   "NM_001792.3:c.713A>G"
+  ],
+  "sex": "MALE"
+ },
+ "71": {
+  "genes": [
+   "TPM1"
+  ],
+  "variants": [
+   "NM_001018005.1:c.122A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "72": {
+  "genes": [
+   "TSC2"
+  ],
+  "variants": [
+   "NM_000548.4:c.2742+2T>G"
+  ],
+  "sex": "MALE"
+ },
+ "73": {
+  "genes": [
+   "FBN1"
+  ],
+  "variants": [
+   "NM_000138.4:c.5788+5G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "74": {
+  "genes": [
+   "PTPN11"
+  ],
+  "variants": [
+   "NM_002834.3:c.922A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "75": {
+  "genes": [
+   "EFTUD2"
+  ],
+  "variants": [
+   "NM_004247.3:c.1064dupA"
+  ],
+  "sex": "FEMALE"
+ },
+ "76": {
+  "genes": [
+   "PTPN11"
+  ],
+  "variants": [
+   "NM_002834.3:c.854T>C"
+  ],
+  "sex": "FEMALE"
+ },
+ "77": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.11695C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "78": {
+  "genes": [
+   "TSC2"
+  ],
+  "variants": [
+   "NM_000548.4:c.3685C>T"
+  ],
+  "sex": "MALE"
+ },
+ "79": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.1583delC"
+  ],
+  "sex": "MALE"
+ },
+ "80": {
+  "genes": [
+   "MYH7"
+  ],
+  "variants": [
+   "NM_000257.3:c.2779G>A"
+  ],
+  "sex": "MALE"
+ },
+ "82": {
+  "genes": [
+   "NR2F2"
+  ],
+  "variants": [
+   "NM_021005.3:c.265A>G"
+  ],
+  "sex": "MALE"
+ },
+ "83 #": {
+  "genes": [
+   "FOXF1"
+  ],
+  "variants": [
+   "NM_001451.2:c.231C>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "84": {
+  "genes": [
+   "CDKN1C"
+  ],
+  "variants": [
+   "NM_000076.2:c.694C>T"
+  ],
+  "sex": "MALE"
+ },
+ "85": {
+  "genes": [
+   "UMOD"
+  ],
+  "variants": [
+   "NM_001278614.1:c.1416dupA"
+  ],
+  "sex": "MALE"
+ },
+ "86": {
+  "genes": [
+   "HNF1B"
+  ],
+  "variants": [
+   "NM_000458.2:c.188_191dupATAC"
+  ],
+  "sex": "FEMALE"
+ },
+ "87": {
+  "genes": [
+   "PKD1"
+  ],
+  "variants": [
+   "NM_001009944.2:c.6894G>C"
+  ],
+  "sex": "FEMALE"
+ },
+ "88": {
+  "genes": [
+   "JAG1"
+  ],
+  "variants": [
+   "NM_000214.2:c.205G>A"
+  ],
+  "sex": "MALE"
+ },
+ "91": {
+  "genes": [
+   "PKD2"
+  ],
+  "variants": [
+   "NM_000297.3:c.2020-4_2024delACAGAATAT"
+  ],
+  "sex": "FEMALE"
+ },
+ "92": {
+  "genes": [
+   "HNF1B"
+  ],
+  "variants": [
+   "NM_000458.2:c.716G>T"
+  ],
+  "sex": "MALE"
+ },
+ "93": {
+  "genes": [
+   "PKD2"
+  ],
+  "variants": [
+   "NM_000297.3:c.959G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "94": {
+  "genes": [
+   "HNF1B"
+  ],
+  "variants": [
+   "NM_000458.2:c.1397_1412delTGGCAGCCCTGCAGCC"
+  ],
+  "sex": "FEMALE"
+ },
+ "95": {
+  "genes": [
+   "HNF1B"
+  ],
+  "variants": [
+   "NM_000458.2:c.544+1G>A"
+  ],
+  "sex": "MALE"
+ },
+ "98": {
+  "genes": [
+   "PKD1"
+  ],
+  "variants": [
+   "NM_001009944.2:c.11888G>A"
+  ],
+  "sex": "MALE"
+ },
+ "99": {
+  "genes": [
+   "ACTG2"
+  ],
+  "variants": [
+   "NM_001615.3:c.770G>A"
+  ],
+  "sex": "MALE"
+ },
+ "100": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.4:c.742C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "101": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1118A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "102": {
+  "genes": [
+   "GDF5"
+  ],
+  "variants": [
+   "NM_000557.5:c.1335T>G"
+  ],
+  "sex": "MALE"
+ },
+ "103": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.2596G>A"
+  ],
+  "sex": "MALE"
+ },
+ "104": {
+  "genes": [
+   "SHOX"
+  ],
+  "variants": [
+   "NM_000451.3:c.517C>T"
+  ],
+  "sex": "MALE"
+ },
+ "105": {
+  "genes": [
+   "FLNB"
+  ],
+  "variants": [
+   "NM_001457.4:c.535G>A"
+  ],
+  "sex": "MALE"
+ },
+ "106": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1620C>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "108": {
+  "genes": [
+   "EZH2"
+  ],
+  "variants": [
+   "NM_004456.4:c.47G>A"
+  ],
+  "sex": "MALE"
+ },
+ "109": {
+  "genes": [
+   "COL1A2"
+  ],
+  "variants": [
+   "NM_000089.3:c.577G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "110": {
+  "genes": [
+   "PUF60"
+  ],
+  "variants": [
+   "NM_078480.2:c.24+3A>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "111": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1138G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "112": {
+  "genes": [
+   "COL2A1"
+  ],
+  "variants": [
+   "NM_001844.4:c.1365+1G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "114": {
+  "genes": [
+   "ZC4H2"
+  ],
+  "variants": [
+   "NM_018684.3:c.562-1G>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "115": {
+  "genes": [
+   "TNNI2"
+  ],
+  "variants": [
+   "NM_003282.3:c.499_501delGAG"
+  ],
+  "sex": "MALE"
+ },
+ "116": {
+  "genes": [
+   "SMAD4"
+  ],
+  "variants": [
+   "NM_005359.5:c.1498A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "117": {
+  "genes": [
+   "EBP"
+  ],
+  "variants": [
+   "NM_006579.2:c.187C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "118": {
+  "genes": [
+   "TPM2"
+  ],
+  "variants": [
+   "NM_003289.4:c.463G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "119": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.11041C>T"
+  ],
+  "sex": "MALE"
+ },
+ "120": {
+  "genes": [
+   "ASXL3"
+  ],
+  "variants": [
+   "NM_030632.2:c.3039+1G>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "121": {
+  "genes": [
+   "TRPV4"
+  ],
+  "variants": [
+   "NM_021625.4:c.2353T>C"
+  ],
+  "sex": "FEMALE"
+ },
+ "123": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.2569G>T"
+  ],
+  "sex": "MALE"
+ },
+ "124": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1138G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "125": {
+  "genes": [
+   "COL1A2"
+  ],
+  "variants": [
+   "NM_000089.3:c.2405G>A"
+  ],
+  "sex": "MALE"
+ },
+ "127": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.742C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "128": {
+  "genes": [
+   "COL2A1"
+  ],
+  "variants": [
+   "NM_001844.4:c.872G>T"
+  ],
+  "sex": "MALE"
+ },
+ "129": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1138G>A"
+  ],
+  "sex": "MALE"
+ },
+ "130": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.3118G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "131": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1138G>A"
+  ],
+  "sex": "MALE"
+ },
+ "132": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1138G>A"
+  ],
+  "sex": "MALE"
+ },
+ "133": {
+  "genes": [
+   "COL2A1"
+  ],
+  "variants": [
+   "NM_001844.4:c.1654G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "134": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.1751G>A"
+  ],
+  "sex": "MALE"
+ },
+ "135": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.4249-3_4249-2delCA"
+  ],
+  "sex": "FEMALE"
+ },
+ "136": {
+  "genes": [
+   "COL2A1"
+  ],
+  "variants": [
+   "NM_001844.4:c.1475G>A"
+  ],
+  "sex": "MALE"
+ },
+ "138": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.2362G>A"
+  ],
+  "sex": "MALE"
+ },
+ "139": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.1678G>A"
+  ],
+  "sex": "MALE"
+ },
+ "140": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1949A>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "143": {
+  "genes": [
+   "TP63"
+  ],
+  "variants": [
+   "NM_003722.4:c.946A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "144": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.1084G>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "145": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.3407G>C"
+  ],
+  "sex": "MALE"
+ },
+ "146": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1138G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "147": {
+  "genes": [
+   "DYNC2H1"
+  ],
+  "variants": [
+   "NM_001080463.1:c.5984C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "148": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1948A>G"
+  ],
+  "sex": "MALE"
+ },
+ "149": {
+  "genes": [
+   "COL2A1"
+  ],
+  "variants": [
+   "NM_001844.4:c.2717G>A"
+  ],
+  "sex": "MALE"
+ },
+ "150": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.3470G>T"
+  ],
+  "sex": "MALE"
+ },
+ "151": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.986G>T"
+  ],
+  "sex": "MALE"
+ },
+ "153": {
+  "genes": [
+   "ARSE"
+  ],
+  "variants": [
+   "NM_000047.3:c.331C>TT"
+  ],
+  "sex": "MALE"
+ },
+ "155": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1138G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "156": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1138G>A"
+  ],
+  "sex": "MALE"
+ },
+ "157": {
+  "genes": [
+   "COL1A2"
+  ],
+  "variants": [
+   "NM_000089.3:c.1684G>A"
+  ],
+  "sex": "MALE"
+ },
+ "158": {
+  "genes": [
+   "COL2A1"
+  ],
+  "variants": [
+   "NM_001844.4:c.2213G>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "159": {
+  "genes": [
+   "BRPF1"
+  ],
+  "variants": [
+   "NM_001003694.1:c.1723-1G>C"
+  ],
+  "sex": "FEMALE"
+ },
+ "160": {
+  "genes": [
+   "COL1A1"
+  ],
+  "variants": [
+   "NM_000088.3:c.3854A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "163": {
+  "genes": [
+   "KAT6A"
+  ],
+  "variants": [
+   "NM_006766.4:c.751C>T"
+  ],
+  "sex": "MALE"
+ },
+ "164": {
+  "genes": [
+   "NIPBL"
+  ],
+  "variants": [
+   "NM_133433.3:c.7789delC"
+  ],
+  "sex": "FEMALE"
+ },
+ "165": {
+  "genes": [
+   "PTPN11"
+  ],
+  "variants": [
+   "NM_002834.3:c.1507G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "167": {
+  "genes": [
+   "SETD5"
+  ],
+  "variants": [
+   "NM_001080517.2:c.2476+1G>A"
+  ],
+  "sex": "MALE"
+ },
+ "168": {
+  "genes": [
+   "PTPN11"
+  ],
+  "variants": [
+   "NM_002834.3:c.854T>C"
+  ],
+  "sex": "MALE"
+ },
+ "169": {
+  "genes": [
+   "KMT2C"
+  ],
+  "variants": [
+   "NM_170606.2:c.12906delT"
+  ],
+  "sex": "MALE"
+ },
+ "170": {
+  "genes": [
+   "KCNT1"
+  ],
+  "variants": [
+   "NM_020822.2:c.1420C>T"
+  ],
+  "sex": "MALE"
+ },
+ "171": {
+  "genes": [
+   "HRAS"
+  ],
+  "variants": [
+   "NM_005343.3:c.38G>A"
+  ],
+  "sex": "MALE"
+ },
+ "172": {
+  "genes": [
+   "NFIB"
+  ],
+  "variants": [
+   "NM_001190737.1:c.376A>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "173": {
+  "genes": [
+   "RAF1"
+  ],
+  "variants": [
+   "NM_002880.3:c.770C>T"
+  ],
+  "sex": "MALE"
+ },
+ "174": {
+  "genes": [
+   "FLNB"
+  ],
+  "variants": [
+   "NM_001164317.1:c.7213C>A"
+  ],
+  "sex": "MALE"
+ },
+ "175": {
+  "genes": [
+   "FLNA"
+  ],
+  "variants": [
+   "NM_001110556.1:c.583G>A"
+  ],
+  "sex": "MALE"
+ },
+ "176": {
+  "genes": [
+   "L1CAM"
+  ],
+  "variants": [
+   "NM_000425.4:c.3166+1G>A"
+  ],
+  "sex": "MALE"
+ },
+ "177": {
+  "genes": [
+   "EFTUD2"
+  ],
+  "variants": [
+   "NM_004247.3:c.1705C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "178": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.10756_10758delAAG"
+  ],
+  "sex": "FEMALE"
+ },
+ "179": {
+  "genes": [
+   "SPECC1L"
+  ],
+  "variants": [
+   "NM_015330.4:c.1247C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "181": {
+  "genes": [
+   "MID1"
+  ],
+  "variants": [
+   "NM_033290.3:c.1222G>T"
+  ],
+  "sex": "MALE"
+ },
+ "182": {
+  "genes": [
+   "CHD7"
+  ],
+  "variants": [
+   "NM_017780.3:c.7252C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "183": {
+  "genes": [
+   "MYH7"
+  ],
+  "variants": [
+   "NM_000257.3:c.2135G>A"
+  ],
+  "sex": "MALE"
+ },
+ "184": {
+  "genes": [
+   "NEK8"
+  ],
+  "variants": [
+   "NM_178170.2:c.1418-1G>A"
+  ],
+  "sex": "MALE"
+ },
+ "185": {
+  "genes": [
+   "FGFR2"
+  ],
+  "variants": [
+   "NM_022970.3:c.755C>G"
+  ],
+  "sex": "FEMALE"
+ },
+ "188": {
+  "genes": [
+   "FGFR2"
+  ],
+  "variants": [
+   "NM_022970.3:c.833G>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "189": {
+  "genes": [
+   "UBA1"
+  ],
+  "variants": [
+   "NM_153280.2:c.1617G>T"
+  ],
+  "sex": "MALE"
+ },
+ "190": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.15604delG"
+  ],
+  "sex": "FEMALE"
+ },
+ "191": {
+  "genes": [
+   "NIPBL"
+  ],
+  "variants": [
+   "NM_133433.3:c.7012G>C"
+  ],
+  "sex": "FEMALE"
+ },
+ "192": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.4223G>A"
+  ],
+  "sex": "MALE"
+ },
+ "193": {
+  "genes": [
+   "NIPBL"
+  ],
+  "variants": [
+   "NM_133433.3:c.3855+5G>C"
+  ],
+  "sex": "MALE"
+ },
+ "194": {
+  "genes": [
+   "USP9X"
+  ],
+  "variants": [
+   "NM_001039590.2:c.4607delG"
+  ],
+  "sex": "FEMALE"
+ },
+ "195": {
+  "genes": [
+   "FGFR2"
+  ],
+  "variants": [
+   "NM_022970.3:c.755C>G"
+  ],
+  "sex": "MALE"
+ },
+ "196": {
+  "genes": [
+   "KMT2D"
+  ],
+  "variants": [
+   "NM_003482.3:c.10394dupG"
+  ],
+  "sex": "FEMALE"
+ },
+ "197": {
+  "genes": [
+   "NIPBL"
+  ],
+  "variants": [
+   "NM_133433.3:c.6983C>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "200": {
+  "genes": [
+   "SOX9"
+  ],
+  "variants": [
+   "NM_000346.3:c.1005G>A"
+  ],
+  "sex": "MALE"
+ },
+ "201": {
+  "genes": [
+   "FGFR3"
+  ],
+  "variants": [
+   "NM_000142.5:c.1138G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "202": {
+  "genes": [
+   "RAF1"
+  ],
+  "variants": [
+   "NM_002880.3:c.770C>T"
+  ],
+  "sex": "MALE"
+ },
+ "203": {
+  "genes": [
+   "MAGEL2"
+  ],
+  "variants": [
+   "NM_019066.4:c.2138C>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "208": {
+  "genes": [
+   "RET"
+  ],
+  "variants": [
+   "NM_020975.4:c.3148C>T"
+  ],
+  "sex": "MALE"
+ },
+ "213": {
+  "genes": [
+   "ACTA1"
+  ],
+  "variants": [
+   "NM_001100.3:c.110T>G"
+  ],
+  "sex": "MALE"
+ },
+ "214": {
+  "genes": [
+   "MID1"
+  ],
+  "variants": [
+   "NM_000381.4:c.1798dupC"
+  ],
+  "sex": "MALE"
+ },
+ "215": {
+  "genes": [
+   "FLNA"
+  ],
+  "variants": [
+   "NM_001110556.1:c.1538_1539 delGGinsTA"
+  ],
+  "sex": "MALE"
+ },
+ "218": {
+  "genes": [
+   "MTOR"
+  ],
+  "variants": [
+   "NM_004958.3:c.7255G>A"
+  ],
+  "sex": "FEMALE"
+ },
+ "219": {
+  "genes": [
+   "KMT2A"
+  ],
+  "variants": [
+   "NM_001197104.1:c.4219-1G>A"
+  ],
+  "sex": "MALE"
+ },
+ "221": {
+  "genes": [
+   "ARID1A"
+  ],
+  "variants": [
+   "NM_006015.4:c.5853dupC"
+  ],
+  "sex": "MALE"
+ },
+ "222": {
+  "genes": [
+   "FGFR2"
+  ],
+  "variants": [
+   "NM_000141.4:c.1019A>G"
+  ],
+  "sex": "MALE"
+ },
+ "223": {
+  "genes": [
+   "MYH3"
+  ],
+  "variants": [
+   "NM_002470.3:c.727_729delTCC"
+  ],
+  "sex": "FEMALE"
+ },
+ "224": {
+  "genes": [
+   "KRAS"
+  ],
+  "variants": [
+   "NM_033360.3:c.101C>T"
+  ],
+  "sex": "FEMALE"
+ },
+ "225": {
+  "genes": [
+   "CSNK2A1"
+  ],
+  "variants": [
+   "NM_001895.3:c.838C>T"
+  ],
+  "sex": "MALE"
+ },
+ "226": {
+  "genes": [
+   "PBX1"
+  ],
+  "variants": [
+   "NM_002585.3:c.973_974delTC"
+  ],
+  "sex": "FEMALE"
+ },
+ "227": {
+  "genes": [
+   "CDKN1C"
+  ],
+  "variants": [
+   "NM_000076.2:c.827_828delinsAA"
+  ],
+  "sex": "FEMALE"
+ },
+ "228": {
+  "genes": [
+   "ZEB2"
+  ],
+  "variants": [
+   "NM_014795.3:c.436G>T"
+  ],
+  "sex": "MALE"
+ },
+ "229": {
+  "genes": [
+   "CLCN5"
+  ],
+  "variants": [
+   "NM_001127898.3:c.934-1G>T"
+  ],
+  "sex": "MALE"
+ }
+}

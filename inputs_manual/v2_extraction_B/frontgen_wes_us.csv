@@ -1,0 +1,96 @@
+cohort,source_location,case,genes,inheritance,finding,hpo_id,hpo_name,map_rule,gestational_age,transcript,hgvs_c,zygosity,origin
+frontgen_wes_us,"Table 2, row 1",1,FGF8,AD,Cleft lip,HP:0410030,Cleft lip,exact label,,,c.559_573del,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 1",1,FGF8,AD,cleft palate,HP:0000175,Cleft palate,exact label,,,c.559_573del,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 1",1,FGF8,AD,oral cleft,HP:0000202,Orofacial cleft,synonym,,,c.559_573del,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 2",2,OBSL1,AR,Intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.458dupG,Hom,Paternal/Maternal (het)
+frontgen_wes_us,"Table 2, row 3",3,TSC2,AD,Intracranial multiple hyperechoic nodules,HP:0012443,Abnormal brain morphology,manual,,,c.1750_1754dup,Het,Denovo
+frontgen_wes_us,"Table 2, row 3",3,TSC2,AD,cardiac rhabdomyoma,HP:0009729,Cardiac rhabdomyoma,exact label,,,c.1750_1754dup,Het,Denovo
+frontgen_wes_us,"Table 2, row 3",3,TSC2,AD,cortical tubercle,HP:0009717,Cortical tubers,manual,,,c.1750_1754dup,Het,Denovo
+frontgen_wes_us,"Table 2, row 4",4,AGK,AR,Cataract,HP:0000518,Cataract,exact label,,,c.424–2A > C;c.1047-1G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 4",4,AGK,AR,subependymal cysts,HP:0002416,Subependymal cysts,exact label,,,c.424–2A > C;c.1047-1G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 5",5,PLD1,AR,Tetralogy of fallot,HP:0001636,Tetralogy of Fallot,exact label,,,c.2197C > T;c.1171C > T,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 5",5,PLD1,AR,tricuspid regurgitation,HP:0005180,Tricuspid regurgitation,exact label,,,c.2197C > T;c.1171C > T,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 5",5,PLD1,AR,ventricular hypertrophy,HP:0001714,Ventricular hypertrophy,exact label,,,c.2197C > T;c.1171C > T,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 5",5,PLD1,AR,pericardial effusion,HP:0001698,Pericardial effusion,exact label,,,c.2197C > T;c.1171C > T,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 6",6,PKD1,AD,Renal cyst,HP:0000107,Renal cyst,exact label,,,c.12391_12393del,Het,Unknown
+frontgen_wes_us,"Table 2, row 7",7,COL4A1,AD,Hydrocephalus,HP:0000238,Hydrocephalus,exact label,,,c.1181G > A,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 7",7,COL4A1,AD,inferior vermis hypoplasia,HP:0007068,Inferior cerebellar vermis hypoplasia,synonym,,,c.1181G > A,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 8",8,SNAP25,AD,Thickened nuchal skin Fold,HP:0000474,Thickened nuchal skin fold,manual,,,c.593G > C,Het,Denovo
+frontgen_wes_us,"Table 2, row 8",8,SNAP25,AD,talipes equinovarus,HP:0001762,Talipes equinovarus,exact label,,,c.593G > C,Het,Denovo
+frontgen_wes_us,"Table 2, row 8",8,SNAP25,AD,flexion contracture,HP:0001371,Flexion contracture,exact label,,,c.593G > C,Het,Denovo
+frontgen_wes_us,"Table 2, row 8",8,SNAP25,AD,pleural effusion,HP:0002202,Pleural effusion,exact label,,,c.593G > C,Het,Denovo
+frontgen_wes_us,"Table 2, row 9",9,DNMT3A,AD,Intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.541C > T,Het,Denovo
+frontgen_wes_us,"Table 2, row 10",10,KMT2D,AD,Ventriculomegaly,HP:0002119,Ventriculomegaly,exact label,,,c.6547_6560del,Het,Denovo
+frontgen_wes_us,"Table 2, row 10",10,KMT2D,AD,renal cortical cysts,HP:0000803,Renal cortical cysts,exact label,,,c.6547_6560del,Het,Denovo
+frontgen_wes_us,"Table 2, row 10",10,KMT2D,AD,hyperechogenic kidneys,HP:0004719,Hyperechogenic kidneys,manual,,,c.6547_6560del,Het,Denovo
+frontgen_wes_us,"Table 2, row 10",10,KMT2D,AD,Dilatation of the renal pelvis,HP:0010946,Dilatation of the renal pelvis,exact label,,,c.6547_6560del,Het,Denovo
+frontgen_wes_us,"Table 2, row 10",10,KMT2D,AD,oligohydramnios,HP:0001562,Oligohydramnios,exact label,,,c.6547_6560del,Het,Denovo
+frontgen_wes_us,"Table 2, row 11",11,DUOX2,AR,Atrial septal defect,HP:0001631,Atrial septal defect,exact label,,,c.1588A > T,Hom,Paternal/Maternal (het)
+frontgen_wes_us,"Table 2, row 11",11,DUOX2,AR,abnormal heart morphology,HP:0001627,Abnormal heart morphology,exact label,,,c.1588A > T,Hom,Paternal/Maternal (het)
+frontgen_wes_us,"Table 2, row 12",12,SOX5,AD,Intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.501delA,Het,Maternal (het)
+frontgen_wes_us,"Table 2, row 12",12,SOX5,AD,aplasia of the nasal bone,HP:0010941,Aplasia of the nasal bone,exact label,,,c.501delA,Het,Maternal (het)
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,Overgrowth,HP:0001548,Overgrowth,exact label,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,increased head circumference,HP:0040194,Increased head circumference,exact label,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,abnormality of neuronal migration,HP:0002269,Abnormality of neuronal migration,exact label,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,abnormal morphology of the great vessels,HP:0030962,Abnormal morphology of the great vessels,exact label,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,dilation oflateralventricles,HP:0006956,Lateral ventricle dilatation,manual,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,thin corpus callosum,HP:0033725,Thin corpus callosum,exact label,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 14",14,EFTUD2,AD,Cleft palate,HP:0000175,Cleft palate,exact label,,,c.1304_1305delTG,Het,Denovo
+frontgen_wes_us,"Table 2, row 14",14,EFTUD2,AD,thickened nuchal skin fold,HP:0000474,Thickened nuchal skin fold,manual,,,c.1304_1305delTG,Het,Denovo
+frontgen_wes_us,"Table 2, row 14",14,EFTUD2,AD,decreased head circumference,HP:0040195,Decreased head circumference,exact label,,,c.1304_1305delTG,Het,Denovo
+frontgen_wes_us,"Table 2, row 14",14,EFTUD2,AD,talipesequinovarus,HP:0001762,Talipes equinovarus,manual,,,c.1304_1305delTG,Het,Denovo
+frontgen_wes_us,"Table 2, row 15",15,HBA1;HBA2,AR,Hydrops fetalis,HP:0001789,Hydrops fetalis,exact label,,,--SEA/--SEA,Hom,Unknown
+frontgen_wes_us,"Table 2, row 15",15,HBA1;HBA2,AR,pericardial effusion,HP:0001698,Pericardial effusion,exact label,,,--SEA/--SEA,Hom,Unknown
+frontgen_wes_us,"Table 2, row 15",15,HBA1;HBA2,AR,right atrial enlargement,HP:0030718,Right atrial enlargement,exact label,,,--SEA/--SEA,Hom,Unknown
+frontgen_wes_us,"Table 2, row 15",15,HBA1;HBA2,AR,oligohydramnios,HP:0001562,Oligohydramnios,exact label,,,--SEA/--SEA,Hom,Unknown
+frontgen_wes_us,"Table 2, row 15",15,HBA1;HBA2,AR,talipes,HP:0001883,Talipes,exact label,,,--SEA/--SEA,Hom,Unknown
+frontgen_wes_us,"Table 2, row 15",15,HBA1;HBA2,AR,abnormal heart morphology,HP:0001627,Abnormal heart morphology,exact label,,,--SEA/--SEA,Hom,Unknown
+frontgen_wes_us,"Table 2, row 16",16,CREBBP,AD,Cleft lip,HP:0410030,Cleft lip,exact label,,,c.4614delC,Het,Denovo
+frontgen_wes_us,"Table 2, row 16",16,CREBBP,AD,cleft palate,HP:0000175,Cleft palate,exact label,,,c.4614delC,Het,Denovo
+frontgen_wes_us,"Table 2, row 16",16,CREBBP,AD,orofacialcleft,HP:0000202,Orofacial cleft,manual,,,c.4614delC,Het,Denovo
+frontgen_wes_us,"Table 2, row 17",17,FGFR3,AD,Short long bone,HP:0003026,Short long bone,exact label,,,c.1118A > G,Het,Unknown
+frontgen_wes_us,"Table 2, row 17",17,FGFR3,AD,limb undergrowth,HP:0009826,Limb undergrowth,exact label,,,c.1118A > G,Het,Unknown
+frontgen_wes_us,"Table 2, row 17",17,FGFR3,AD,intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.1118A > G,Het,Unknown
+frontgen_wes_us,"Table 2, row 18",18,ALPL,AR,Flexioncontracture,HP:0001371,Flexion contracture,manual,,,c.532T > C;c.655A > G,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 18",18,ALPL,AR,fetal akinesia sequence),HP:0001989,Fetal akinesia sequence,manual,,,c.532T > C;c.655A > G,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 19",19,MCPH1,AR,Microcephaly,HP:0000252,Microcephaly,exact label,,,c.233 + 2T > G;c.229G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 19",19,MCPH1,AR,cortical dysplasia,HP:0002539,Cortical dysplasia,exact label,,,c.233 + 2T > G;c.229G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 19",19,MCPH1,AR,abnormal cortical gyration,HP:0002536,Abnormal cortical gyration,exact label,,,c.233 + 2T > G;c.229G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 19",19,MCPH1,AR,abnormality of neuronal migration,HP:0002269,Abnormality of neuronal migration,exact label,,,c.233 + 2T > G;c.229G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 19",19,MCPH1,AR,aplasia/Hypoplasia of the cerebellar vermis),HP:0006817,Aplasia/Hypoplasia of the cerebellar vermis,manual,,,c.233 + 2T > G;c.229G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 20",20,SLC12A1,AR,Polyhydramnios,HP:0001561,Polyhydramnios,exact label,,,c.1411C > T,Het,Maternal (het)
+frontgen_wes_us,"Table 2, row 20",20,SLC12A1,AR,hydrops,HP:0000969,Edema,synonym,,,c.1411C > T,Het,Maternal (het)
+frontgen_wes_us,"Table 2, row 21",21,PTPN11,AD,Aplasia/Hypoplasia of the cerebellum,HP:0007360,Aplasia/Hypoplasia of the cerebellum,exact label,,,c.182A > G,Het,Denovo
+frontgen_wes_us,"Table 2, row 21",21,PTPN11,AD,talipes,HP:0001883,Talipes,exact label,,,c.182A > G,Het,Denovo
+frontgen_wes_us,"Table 2, row 22",22,EPHB4,AD,Dilatation of the renal pelvis,HP:0010946,Dilatation of the renal pelvis,exact label,,,c.2590C > T,Het,Denovo
+frontgen_wes_us,"Table 2, row 22",22,EPHB4,AD,echogenic intracardiac focus,HP:0010942,Echogenic intracardiac focus,exact label,,,c.2590C > T,Het,Denovo
+frontgen_wes_us,"Table 2, row 22",22,EPHB4,AD,aplasia of the gallbladder,HP:0011467,Absent gallbladder,synonym,,,c.2590C > T,Het,Denovo
+frontgen_wes_us,"Table 2, row 23",23,ZIC3,XLR,Truncus arteriosus,HP:0001660,Truncus arteriosus,exact label,,,c.102_124del,Het,Maternal
+frontgen_wes_us,"Table 2, row 24",24,GREB1L,AD,Fetal bowel dilatation,HP:4000140,Fetal bowel dilatation,exact label,,,c.2913delC,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 24",24,GREB1L,AD,echogenic fetal bowel,HP:0010943,Echogenic fetal bowel,exact label,,,c.2913delC,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 24",24,GREB1L,AD,abnormal bladder morphology,HP:0025487,Abnormal bladder morphology,exact label,,,c.2913delC,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 24",24,GREB1L,AD,anal atresia,HP:0002023,Anal atresia,exact label,,,c.2913delC,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 24",24,GREB1L,AD,cloacal abnormality,HP:0012620,Cloacal abnormality,exact label,,,c.2913delC,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 25",25,BBS1,AR,Polycystic kidney,HP:0000113,Polycystic kidney dysplasia,manual,,,c.1177C > T,Hom,Paternal/Maternal (het)
+frontgen_wes_us,"Table 2, row 25",25,BBS1,AR,oligohydramnios,HP:0001562,Oligohydramnios,exact label,,,c.1177C > T,Hom,Paternal/Maternal (het)
+frontgen_wes_us,"Table 2, row 26",26,BBS2,AR,Hyperechogenic Kidneys,HP:0004719,Hyperechogenic kidneys,manual,,,c.1814C > G;c.534 + 1G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 26",26,BBS2,AR,enlarged kidneys,HP:0000105,Enlarged kidney,manual,,,c.1814C > G;c.534 + 1G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 26",26,BBS2,AR,oligohydramnios,HP:0001562,Oligohydramnios,exact label,,,c.1814C > G;c.534 + 1G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 27",27,FAM111A,AD,Short long bones,HP:0003026,Short long bone,manual,,,c.1020_1022del,Het,Unknown
+frontgen_wes_us,"Table 2, row 27",27,FAM111A,AD,bowing of the long bones,HP:0006487,Bowing of the long bones,exact label,,,c.1020_1022del,Het,Unknown
+frontgen_wes_us,"Table 2, row 27",27,FAM111A,AD,abnormality of calvarial morphology,HP:0002683,Abnormal calvaria morphology,manual,,,c.1020_1022del,Het,Unknown
+frontgen_wes_us,"Table 2, row 27",27,FAM111A,AD,intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.1020_1022del,Het,Unknown
+frontgen_wes_us,"Table 2, row 27",27,FAM111A,AD,coarctation of aorta,HP:0001680,Coarctation of aorta,exact label,,,c.1020_1022del,Het,Unknown
+frontgen_wes_us,"Table 2, row 28",28,KDM1A,AD,Abnormality of the vertebral column,HP:0000925,Abnormality of the vertebral column,exact label,,,c.1167 + 1G > A,Het,Unknown
+frontgen_wes_us,"Table 2, row 28",28,KDM1A,AD,dilation of lateral ventricles,HP:0006956,Lateral ventricle dilatation,synonym,,,c.1167 + 1G > A,Het,Unknown
+frontgen_wes_us,"Table 2, row 29",29,COL1A1,AD,Left femur curvature,HP:0002980,Femoral bowing,manual,,,c.1615-1G > T,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 30",30,PEX10,AR,Right ventricular double outlet,HP:0001719,Double outlet right ventricle,manual,,,c.814_815del;c.928T > C,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 30",30,PEX10,AR,ventricular septal defect,HP:0001629,Ventricular septal defect,exact label,,,c.814_815del;c.928T > C,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 30",30,PEX10,AR,pulmonary stenosis,HP:0001642,Pulmonic stenosis,synonym,,,c.814_815del;c.928T > C,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 30",30,PEX10,AR,absence of pulmonary valve,HP:0005134,Absence of the pulmonary valve,manual,,,c.814_815del;c.928T > C,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 31",31,RARS2,AR,Intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.474_477del;c.1564G > A,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 31",31,RARS2,AR,subependymal cysts,HP:0002416,Subependymal cysts,exact label,,,c.474_477del;c.1564G > A,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 31",31,RARS2,AR,cerebellar hypoplasia,HP:0001321,Cerebellar hypoplasia,exact label,,,c.474_477del;c.1564G > A,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 31",31,RARS2,AR,bilateral talipes equinovarus,HP:0001776,Bilateral talipes equinovarus,exact label,,,c.474_477del;c.1564G > A,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 33",33,TP63,AD,Bipedal cleft deformity,HP:0001839,Split foot,manual,,,c.728G > A,Het,Unknown
+frontgen_wes_us,"Table 2, row 33",33,TP63,AD,left hand cleft deformity,HP:0001171,Split hand,manual,,,c.728G > A,Het,Unknown

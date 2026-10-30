@@ -1,0 +1,12 @@
+v1_rerank_haiku-5-5 llm_rerank top1 133 vs exomiser 123 gain 31 loss 21 p 0.21
+v1_rerank_haiku-5-5 llm_rerank top5 178 vs exomiser 172 gain 10 loss 4 p 0.18
+v1_rerank_haiku-5-5 fusion top1 157 vs exomiser 123 gain 35 loss 1 p 1.1e-09
+v1_rerank_haiku-5-5 fusion top5 179 vs exomiser 172 gain 8 loss 1 p 0.039
+v1_rerank_opus-5-5 llm_rerank top1 151 vs exomiser 123 gain 40 loss 12 p 0.00013
+v1_rerank_opus-5-5 llm_rerank top5 182 vs exomiser 172 gain 12 loss 2 p 0.013
+v1_rerank_opus-5-5 fusion top1 161 vs exomiser 123 gain 40 loss 2 p 4.1e-10
+v1_rerank_opus-5-5 fusion top5 182 vs exomiser 172 gain 10 loss 0 p 0.002
+v1_rerank_sonnet-5-5 llm_rerank top1 141 vs exomiser 123 gain 35 loss 17 p 0.018
+v1_rerank_sonnet-5-5 llm_rerank top5 183 vs exomiser 172 gain 12 loss 1 p 0.0034
+v1_rerank_sonnet-5-5 fusion top1 160 vs exomiser 123 gain 38 loss 1 p 1.5e-10
+v1_rerank_sonnet-5-5 fusion top5 182 vs exomiser 172 gain 10 loss 0 p 0.002

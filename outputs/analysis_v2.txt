@@ -1,0 +1,102 @@
+TOP-10 (all / post-cutoff)
+  exomiser_all                   34/335    6/75  top1 4
+  exomiser_human                 42/335    9/75  top1 3
+  resnik                         43/335    7/75  top1 1
+  B1_popularity                  52/335   16/75  top1 6
+  B2_popularity_system           14/335    7/75  top1 0
+  haiku-5-5_N1p1                 17/335    4/75  top1 6
+  haiku-5-5_N1p2                 26/335    7/75  top1 7
+  haiku-5-5_N1p3                 20/335    4/75  top1 2
+  haiku-5-5_N1p4                 18/335    4/75  top1 2
+  haiku-5-5_N1p5                 18/335    5/75  top1 6
+  haiku-5-5_S2_hpolabel         139/335   33/75  top1 57
+  haiku-5-5_T2                    6/335    1/75  top1 3
+  haiku-5-5_T3a_order           138/335   30/75  top1 58
+  haiku-5-5_T3b_synonym         131/335   30/75  top1 54
+  haiku-5-5_T3c_hpoid            85/335   19/75  top1 23
+  haiku-5-5_r1                  135/335   33/75  top1 55
+  haiku-5-5_r2                  138/335   31/75  top1 57
+  haiku-5-5_r3                  134/335   28/75  top1 56
+  opus-5-5_N1p1                  15/335    2/75  top1 4
+  opus-5-5_S2_hpolabel          157/335   33/75  top1 61
+  opus-5-5_T2                    79/335   10/75  top1 6
+  opus-5-5_T3a_order            159/335   36/75  top1 63
+  opus-5-5_T3b_synonym          157/335   33/75  top1 64
+  opus-5-5_T3c_hpoid            157/335   29/75  top1 67
+  opus-5-5_r1                   161/335   35/75  top1 64
+  opus-5-5_r2                   157/335   30/75  top1 63
+  opus-5-5_r3                   161/335   35/75  top1 64
+  sonnet-5-5_T2                  85/335   14/75  top1 10
+  sonnet-5-5_r1                 159/335   34/75  top1 69
+  sonnet-5-5_r2                 159/335   31/75  top1 70
+  sonnet-5-5_r3                 155/335   30/75  top1 70
+  open_gemma3_12b                43/335    7/75  top1 9
+  open_gpt-oss_20b               80/335   17/75  top1 23
+  open_llama3_1_8b               47/335    8/75  top1 14
+  open_qwen3_14b                 74/335   12/75  top1 18
+PRIMARY (top-10 difference vs Exomiser hiPHIVE, pct points)
+  haiku-5-5_r1|post        diff 36.0 CI [24.8, 46.6] p 1.49e-08 holm 4.470348358154297e-08 geneboot [np.float64(23.0), np.float64(49.3)]
+  haiku-5-5_r1|all         diff 30.1 CI [24.8, 35.4] p 5.15e-25 holm  geneboot [np.float64(21.3), np.float64(38.5)]
+  sonnet-5-5_r1|post       diff 37.3 CI [26.0, 48.0] p 7.45e-09 holm 2.2351741790771484e-08 geneboot [np.float64(23.3), np.float64(50.7)]
+  sonnet-5-5_r1|all        diff 37.3 CI [31.7, 42.7] p 1.65e-32 holm  geneboot [np.float64(27.5), np.float64(45.9)]
+  opus-5-5_r1|post         diff 38.7 CI [27.2, 49.3] p 3.73e-09 holm 1.1175870895385742e-08 geneboot [np.float64(25.0), np.float64(52.0)]
+  opus-5-5_r1|all          diff 37.9 CI [32.3, 43.3] p 4.45e-33 holm  geneboot [np.float64(28.1), np.float64(46.3)]
+ANNOTATION GAP {
+"none": {
+"exomiser_all": "1/74",
+"exomiser_human": "1/74",
+"resnik": "0/74",
+"B1_popularity": "6/74",
+"B2_popularity_system": "2/74",
+"haiku-5-5_S2_hpolabel": "14/74",
+"haiku-5-5_T2": "0/74",
+"haiku-5-5_T3a_order": "10/74",
+"haiku-5-5_T3b_synonym": "12/74",
+"haiku-5-5_T3c_hpoid": "11/74",
+"haiku-5-5_r1": "13/74",
+"haiku-5-5_r2": "12/74",
+"haiku-5-5_r3": "9/74",
+"opus-5-5_N1p1": "0/74",
+"opus-5-5_S2_hpolabel": "15/74",
+"opus-5-5_T2": "5/74",
+"opus-5-5_T3a_order": "17/74",
+"opus-5-5_T3b_synonym": "16/74",
+"opus-5-5_T3c_hpoid": "13/74",
+"opus-5-5_r1": "15/74",
+"opus-5-5_r2": "15/74",
+"opus-5-5_r3": "18/74",
+"sonnet-5-5_T2": "9/74",
+"sonnet-5-5_r1": "13/74",
+"sonnet-5-5_r2": "13/74",
+"sonnet-5-5_r3": "13/74",
+"open_gemma3_12b": "4/74",
+"open_gpt-oss_20b": "8/74",
+"open_llama3_1_8b": "4/74",
+"open_qwen3_14b": "8/74"
+},
+"some": {
+"exomiser_all": "10/141",
+"exomiser_human": "10/141",
+"resnik": "9/141",
+"B1_popularity": "28/141",
+"B2_popularity_system": "8/141",
+"haiku-5-5_S2_hpolabel": "59/141",
+"haiku-5-5_T2": "4/141",
+"haiku-5-5_T3a_order": "60/141",
+"haiku-5-5_T3b_synonym": "54/141",
+"haiku-5-5_T3c_hpoid": "37/141",
+"haiku-5-5_r1": "56/141",
+"haiku-5-5_r2": "62/141",
+"haiku-5-5_r3": "58/141",
+"opus-5-5_N1p1": "11/141",
+"opus-5-5_S2_hpolabel": "66/141",
+"opus-5-5_T2": "34/141",
+"opus-5-5_T3a_order": "66/141",
+"opus-5-5_T3b_synonym": "65/141",
+"opus-5-5_T3c_hpoid": "69/141",
+"opus-5-5_r1": "67/141",
+"opus-5-5_r2": "68/141",
+"opus-5-5_r3": "66/141",
+"sonnet-5-5_T2": "33/141",
+"so
+REPLICATES {'haiku': {'top10_each': [135, 138, 134], 'all3_agree_pct': np.float64(89.3), 'any_rep_top10': 155, 'all_reps_top10': 119}, 'sonnet': {'top10_each': [159, 159, 155], 'all3_agree_pct': np.float64(95.8), 'any_rep_top10': 165, 'all_reps_top10': 151}, 'opus': {'top10_each': [161, 157, 161], 'all3_agree_pct': np.float64(92.5), 'any_rep_top10': 172, 'all_reps_top10': 147}}

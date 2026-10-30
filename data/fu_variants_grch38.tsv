@@ -1,0 +1,268 @@
+case	gene	hgvs	chrom	pos	ref	alt	zygosity	origin	variant_type
+1	ARX	NM_139058.2:c.994C>G	X	25013001	G	C	hemi	Mat	missense
+2	CHD7	NM_017780.3:c.7879C>T	8	60862244	C	T	Het	De novo	nonsense
+3	TUBA1A	NM_006009.3:c.781C>T	12	49185585	G	A	Het	De novo	missense
+4	NFIA	NM_001145512.1:c.1112C>A	1	61383267	C	A	Het	De novo	nonsense
+5	TUBB2B	NM_178012.4:c.538G>A	6	3225551	C	T	Het	De novo	missense
+6	ASPM	NM_018136.4:c.7782_7783delGA	1	197101467	TTC	T	Het	Pat	frameshift
+6		c.1789C>T					Het	Mat	nonsense
+7	EZH2	NM_004456.4:c.2050C>T	7	148809370	G	A	Het	De novo	missense
+8 #	CHD4	NM_001273.3:c.2960A>G	12	6592046	T	C	Het	De novo	missense
+9	CSPP1	NM_024790.6:c.1641_1642insA	8	67118780	T	TA	Het	Pat	frameshift
+9		c.3127C>T					Het	Mat	nonsense
+10	ANKRD11	NM_013275.5:c.1903_1907delAAACA	16	89284634	GTGTTT	G	Het	De novo	frameshift
+11	ANKRD11	NM_013275.5:c.1903_1907delAAACA	16	89284634	GTGTTT	G	Het	De novo	frameshift
+12	PPP2R1A	NM_014225.5:c.775G>A	19	52213078	G	A	Het	De novo	missense
+13	AHDC1	NM_001029882.2:c.1759C>T	1	27550357	G	A	Het	De novo	nonsense
+14	PAFAH1B1	NM_000430.3:c.714_722delTATGGTACG	17	2674095	GGGTACGTAT	G	Het	De novo	In-frame
+15	AP4M1	NM_004722.3:c.300delG	7	100102905	AG	A	Het	Mat	frameshift
+15		c.1025+4A>T**					Het	Pat	splice region
+16	COL4A1	NM_001845.5:c.3556G>A	13	110172720	C	T	Het	De novo	missense
+17	PAFAH1B1	NM_000430.3:c.41_42dupCT	17	2665379	G	GCT	Het	De novo	frameshift
+18	ARV1	NM_022786.3:c.409delG	1	230990222	AG	A	Het	Pat	frameshift
+18		c.518dupA					Het	Mat	frameshift
+19	NFIA	NM_001145512.1:c.483A>C	1	61088469	A	C	Het	De novo	missense
+20	ARID1B	NM_001346813.1:c.5145+1G>T	6	157203997	G	T	Het	De novo	splice donor
+21	ADNP	NM_015339.4:c.2161C>T	20	50892553	G	A	Het	De novo	nonsense
+22	ARID1B	NM_001346813.1:c.5932C>T	6	157206953	C	T	Het	De novo	nonsense
+23	COL4A1	NM_001845.5:c.3034_3041delinsCC	13	110176441	CCAACAGA	GG	Het	De novo	In-frame
+24	FGFR2	NM_000141.4:c.1052C>G	10	121517351	G	C	Het	De novo	missense
+25	CC2D2A	NM_001378615.1:c.2161C>A	4	15540994	C	A	Het	Mat	missense
+25		c.4465_4468delGACA					Het	Pat	frameshift
+26	DLL1	NM_005618.3:c.1407C>A	6	170283872	G	T	Het	De novo	nonsense
+27	PDHA1	NM_000284.4:c.1142_1145dupATCA	X	19359619	C	CCAAT	Het	De novo	frameshift
+28	EPG5	NM_020964.2:c.3877C>T	18	45912396	G	A	Het	Pat	missense
+28		c.3481C>T					Het	Mat	nonsense
+29	FLNA	NM_001110556.1:c.4265dupA	X	154359283	G	GT	Het	De novo	frameshift
+30	PPP2R1A	NM_014225.5:c.544C>T	19	52212726	C	T	Het	De novo	missense
+31	ZMYM2	NM_003453.4:c.534dupA	13	19993605	C	CA	Het	De novo	missense
+32	ASPM	NM_018136.4:c.3385A>T	1	197124115	T	A	Het	Pat	nonsense
+32		c.1761_1762delAG**					Het	Mat	frameshift
+33	PTCH1	NM_000264.3:c.114delG	9	95508247	GC	G	Het	Pat(Unknown)	frameshift
+34	COL11A1	NM_080629.2:c.3449G>T	1	102939060	C	A	Het	De novo	missense
+35	ARHGAP29	NM_004815.4:c.1920+1G>A	1	94185341	C	T	Het	Mat(affected)	splice donor
+36	IRF6	NM_006147.3:c.181G>T	1	209796546	C	A	Het	De novo	missense
+37	IRF6	NM_006147.3:c.439_442delGAAG	1	209795355	TCTTC	T	Het	Pat(affected)	frameshift
+38	KCNK9	NM_001282534.1:c.706G>C	8	139618677	C	G	Het	De novo	missense
+39	FOXC2	NM_005251.2:c.122_123insGACA	16	86567456	T	TAGAC	Het	Mat(affected)	frameshift
+40	CRYAA	NM_000394.3:c.34C>T	21	43169133	C	T	Het	Pat(affected)	missense
+41	RUNX2	NM_001024630.3:c.659C>T	6	45438025	C	T	Het	De novo	missense
+42	KMT2D	NM_003482.3:c.15673C>T	12	49026293	G	A	Het	De novo	missense
+43	TCOF1	NM_001135243.1:c.2286dupT	5	150376565	C	CT	Het	De novo	frameshift
+44	SIX3	NM_005413.3:c.595delC	2	44942698	GC	G	Het	Mat(affected)	frameshift
+45	EYA1	NM_000503.5:c.1081C>T	8	71244662	G	A	Het	De novo	nonsense
+46	ADNP	NM_015339.4:c.2156dupA	20	50892557	G	GT	Het	De novo	frameshift
+47	PTPN11	NM_002834.3:c.1510A>G	12	112489086	A	G	Het	De novo	missense
+48	CHD7	NM_017780.3:c.2176_2177delGA	8	60795063	CAG	C	Het	De novo	frameshift
+49	KMT2D	NM_003482.3:c.8994dupT	12	49038361	C	CA	Het	De novo	frameshift
+50	FBN1	NM_000138.4:c.6497A>G	15	48434713	T	C	Het	De novo	missense
+51	PTPN11	NM_002834.3:c.166A>G	12	112450346	A	G	Het	De novo	missense
+52	SMARCA4	NM_001128849.1:c.3460C>T	19	11030807	C	T	Het	De novo	missense
+53	ZEB2	NM_014795.3:c.1200T>A	2	144399987	A	T	Het	De novo	nonsense
+54	FLNA	NM_001110556.1:c.7757-2A>C	X	154349038	T	G	Het	De novo	splice acceptor
+55	SHOC2	NM_007373.3:c.4A>G	10	110964362	A	G	Het	De novo	missense
+56	BRAF	NM_001374258.1:c.1575G>C	7	140778053	C	G	Het	De novo	missense
+57	HRAS	NM_005343.3:c.34G>A	11	534289	C	T	Het	De novo	missense
+58	KMT2D	NM_003482.3:c.12522_12523delinsCCCCAGG	12	49032182	GT	CCTGGGG	Het	De novo	frameshift
+59	KMT2D	NM_003482.3:c.12823C>T	12	49031882	G	A	Het	De novo	nonsense
+60	MYH7	NM_000257.3:c.2330G>A	14	23425375	C	T	Het	De novo	missense
+61	NONO	NM_007363.4:c.1096C>T	X	71297903	C	T	Hemi	De novo	nonsense
+62	EVC2	NM_147127.4:c.2335G>T	4	5622703	C	A	Het	Mat	nonsense
+62		c.2965_2967delCTC					Het	Pat	In-frame
+63	TSC2	NM_000548.5:c.880G>A	16	2058778	G	A	Het	Pat(affected)	missense
+64	TSC2	NM_000548.4:c.2410T>C	16	2074254	T	C	Het	De novo	missense
+65 #	MAPK1	NM_002745.4:c.1061T>G	22	21769226	A	C	Het	De novo	missense
+66	TSC2	NM_000548.4:c.5238_5255delCATCAAGCGGCTCCGCCA	16	2088292	CCGGCTCCGCCACATCAAG	C	Het	Mat(affected)	In-frame
+67	KDM6A	NM_001291415.1:c.3510_3512delTCT	X	45083525	ATCT	A	Hemi	De novo	In-frame
+68	TSC2	NM_000548.4:c.1831C>T	16	2070570	C	T	Het	De novo	missense
+69	TSC1	NM_000368.4:c.2773G>T	9	132897463	C	A	Het	De novo	nonsense
+70	CDH2	NM_001792.3:c.713A>G	18	28005983	T	C	Het	De novo	missense
+71	TPM1	NM_001018005.1:c.122A>G	15	63044034	A	G	Het	De novo	missense
+72	TSC2	NM_000548.4:c.2742+2T>G	16	2076172	T	G	Het	De novo	splice donor
+73	FBN1	NM_000138.4:c.5788+5G>A	15	48446701	C	T	Het	De novo	splice region
+74	PTPN11	NM_002834.3:c.922A>G	12	112477719	A	G	Het	Mat(affected)	missense
+75	EFTUD2	NM_004247.3:c.1064dupA	17	44867891	C	CT	Het	De novo	frameshift
+76	PTPN11	NM_002834.3:c.854T>C	12	112477651	T	C	Het	De novo	missense
+77	KMT2D	NM_003482.3:c.11695C>T	12	49033010	G	A	Het	De novo	nonsense
+78	TSC2	NM_000548.4:c.3685C>T	16	2081669	C	T	Het	De novo	nonsense
+79	KMT2D	NM_003482.3:c.1583delC	12	49052099	TG	T	Het	De novo	frameshift
+80	MYH7	NM_000257.3:c.2779G>A	14	23424050	C	T	Het	De novo	missense
+81	LZTR1	NM_006767.3:c.593+2T>C	22	20988874	T	C	Het	Pat	splice donor
+81		c.1785+1G>A					Het	Mat	splice donor
+82	NR2F2	NM_021005.3:c.265A>G	15	96332370	A	G	Het	De novo	missense
+83 #	FOXF1	NM_001451.2:c.231C>G	16	86510800	C	G	Het	De novo	missense
+84	CDKN1C	NM_000076.2:c.694C>T	11	2884796	G	A	Het	De novo	nonsense
+85	UMOD	NM_001278614.1:c.1416dupA	16	20344037	G	GT	Het	De novo	frameshift
+86	HNF1B	NM_000458.2:c.188_191dupATAC	17	37744693	A	AGTAT	Het	De novo	frameshift
+87	PKD1	NM_001009944.2:c.6894G>C	16	2108273	C	G	Het	Mat(affected)	missense
+88	JAG1	NM_000214.2:c.205G>A	20	10672883	C	T	Het	De novo	missense
+89	ACE	NM_000789.3:c.418-2A>G	17	63479005	A	G	Het	Pat	splice acceptor
+89		c.1028G>A					Het	Mat	nonsense
+90	SRD5A2	NM_000348.3:c.680G>A	2	31529325	C	T	Het	Mat	missense
+90		c.16C>T					Het	Pat	nonsense
+91	PKD2	NM_000297.3:c.2020-4_2024delACAGAATAT	4	88061901	AACAGAATAT	A	Het	De novo	splice acceptor
+92	HNF1B	NM_000458.2:c.716G>T	17	37733650	C	A	Het	De novo	missense
+93	PKD2	NM_000297.3:c.959G>A	4	88038366	G	A	Het	Mat(affected)	missense
+94	HNF1B	NM_000458.2:c.1397_1412delTGGCAGCCCTGCAGCC	17	37701104	GGGCTGCAGGGCTGCCA	G	Het	Mat(asymptomatic)	frameshift
+95	HNF1B	NM_000458.2:c.544+1G>A	17	37739439	C	T	Het	Mat(affected)	splice donor
+96	PKHD1	NM_138694.3:c.4742A>T	6	52025068	T	A	Het	Pat	missense
+96		c.2341C>T					Het	Mat	nonsense
+97	PKHD1	NM_138694.3:c.5869G>A	6	51959909	C	T	Het	Pat	missense
+97		c.107C>T					Het	Mat	missense
+98	PKD1	NM_001009944.2:c.11888G>A	16	2090999	C	T	Het	Pat(affected)	nonsense
+99	ACTG2	NM_001615.3:c.770G>A	2	73914836	G	A	Het	Mat(asymptomatic)	missense
+100	FGFR3	NM_000142.4:c.742C>T	4	1801837	C	T	Het	De novo	missense
+101	FGFR3	NM_000142.5:c.1118A>G	4	1804372	A	G	Het	De novo	missense
+102	GDF5	NM_000557.5:c.1335T>G	20	35434080	A	C	Het	De novo	missense
+103	COL1A1	NM_000088.3:c.2596G>A	17	50189876	C	T	Het	De novo	missense
+104	SHOX	NM_000451.3:c.517C>T	X	640851	C	T	Het	De novo	missense
+105	FLNB	NM_001457.4:c.535G>A	3	58077288	G	A	Het	De novo	missense
+106	FGFR3	NM_000142.5:c.1620C>G	4	1805644	C	G	Het	De novo	missense
+107	SCN4A	NM_000334.4:c.3502delC	17	63945577	AG	A	Het	Mat	frameshift
+107		c.3395G>C**					Het	De novo	missense
+108	EZH2	NM_004456.4:c.47G>A	7	148847252	C	T	Het	De novo	missense
+109	COL1A2	NM_000089.3:c.577G>A	7	94406286	G	A	Het	De novo	missense
+110	PUF60	NM_078480.2:c.24+3A>T	8	143829277	T	A	Het	De novo	splice region
+111	FGFR3	NM_000142.5:c.1138G>A	4	1804392	G	A	Het	De novo	missense
+112	COL2A1	NM_001844.4:c.1365+1G>A	12	47987077	C	T	Het	De novo	splice donor
+113	GNPTAB	NM_024312.4:c.1284+1G>T	12	101770020	C	A	Het	Pat	splice donor
+113		c.1090C>T					Het	Mat	nonsense
+114	ZC4H2	NM_018684.3:c.562-1G>T	X	64917897	C	A	Het	De novo	splice acceptor
+115	TNNI2	NM_003282.3:c.499_501delGAG	11	1841497	CGAG	C	Het	Pat(affected)	In-frame
+116	SMAD4	NM_005359.5:c.1498A>G	18	51078306	A	G	Het	De novo	missense
+117	EBP	NM_006579.2:c.187C>T	X	48523958	C	T	Het	De novo	nonsense
+118	TPM2	NM_003289.4:c.463G>A	9	35685463	C	T	Het	Mat(affected)	missense
+119	KMT2D	NM_003482.3:c.11041C>T	12	49033664	G	A	Het	De novo	nonsense
+120	ASXL3	NM_030632.2:c.3039+1G>T	18	33740444	G	T	Het	De novo	splice donor
+121	TRPV4	NM_021625.4:c.2353T>C	12	109784421	A	G	Het	De novo	missense
+122	COL6A1	NM_001848.2:c.525delT	21	45986621	CT	C	Het	Mat	frameshift
+122		c.1057-2A>G**					Het	De novo	splice acceptor
+123	COL1A1	NM_000088.3:c.2569G>T	17	50189903	C	A	Het	De novo	missense
+124	FGFR3	NM_000142.5:c.1138G>A	4	1804392	G	A	Het	De novo	missense
+125	COL1A2	NM_000089.3:c.2405G>A	7	94422958	G	A	Het	De novo	missense
+126	ATRX	1035 bp deletion**					Hemi	Mat	structural variant
+127	FGFR3	NM_000142.5:c.742C>T	4	1801837	C	T	Het	De novo	missense
+128	COL2A1	NM_001844.4:c.872G>T	12	47993861	C	A	Het	De novo	missense
+129	FGFR3	NM_000142.5:c.1138G>A	4	1804392	G	A	Het	De novo	missense
+130	COL1A1	NM_000088.3:c.3118G>A	17	50188619	C	T	Het	De novo	missense
+131	FGFR3	NM_000142.5:c.1138G>A	4	1804392	G	A	Het	De novo	missense
+132	FGFR3	NM_000142.5:c.1138G>A	4	1804392	G	A	Het	De novo	missense
+133	COL2A1	NM_001844.4:c.1654G>A	12	47985754	C	T	Het	De novo	missense
+134	COL1A1	NM_000088.3:c.1751G>A	17	50193959	C	T	Het	De novo	missense
+135	COL1A1	NM_000088.3:c.4249-3_4249-2delCA	17	50185649	CTG	C	Het	De novo	splice acceptor
+136	COL2A1	NM_001844.4:c.1475G>A	12	47986388	C	T	Het	De novo	missense
+137	COL1A2	NM_000089:c.3305G>A					Het	De novo	missense
+138	COL1A1	NM_000088.3:c.2362G>A	17	50190578	C	T	Het	Pat(asymptomatic)	missense
+139	COL1A1	NM_000088.3:c.1678G>A	17	50194032	C	T	Het	Mat(affected)	missense
+140	FGFR3	NM_000142.5:c.1949A>T	4	1806163	A	T	Het	De novo	missense
+141	OBSL1	NM_015311.2:c.1283-1G>A	2	219567970	C	T	Het	Mat	splice acceptor
+141		c.409C>T**					Het	Pat	nonsense
+142	ALPL	NM_000478.5:c.18delA	1	21554098	TA	T	Het	Pat	frameshift
+142		c.346G>A					Het	Mat	missense
+143	TP63	NM_003722.4:c.946A>G	3	189867896	A	G	Het	Mat(affected)	missense
+144	COL1A1	NM_000088.3:c.1084G>T	17	50195638	C	A	Het	De novo	missense
+145	COL1A1	NM_000088.3:c.3407G>C	17	50187500	C	G	Het	De novo	missense
+146	FGFR3	NM_000142.5:c.1138G>A	4	1804392	G	A	Het	De novo	missense
+147	DYNC2H1	NM_001080463.1:c.5984C>T	11	103177665	C	T	Homo	Mat+Pat	missense
+148	FGFR3	NM_000142.5:c.1948A>G	4	1806162	A	G	Het	De novo	missense
+149	COL2A1	NM_001844.4:c.2717G>A	12	47979527	C	T	Het	De novo	missense
+150	COL1A1	NM_000088.3:c.3470G>T	17	50187076	C	A	Het	Mat(affected)	missense
+151	COL1A1	NM_000088.3:c.986G>T	17	50196171	C	A	Het	Mat(affected)	missense
+152	ECEL1	NM_004826.3:c.110_155del46	2	232486498	CAGCCCGGACCGGGCCCCGGTGGCGCTGCGCGCAGCGCCCAACGGGA	C	Het	Mat	frameshift
+152		c.633G>C**					Het	Pat	missense
+153	ARSE	NM_000047.3:c.331C>TT	X	2953242	G	AA	Hemi	Mat	missense
+154	KLHL40	NM_152393.3:c.602G>A	3	42686220	G	A	Het	Pat	nonsense
+154		c.1516A>C					Het	Mat	missense
+155	FGFR3	NM_000142.5:c.1138G>A	4	1804392	G	A	Het	De novo	missense
+156	FGFR3	NM_000142.5:c.1138G>A	4	1804392	G	A	Het	De novo	missense
+157	COL1A2	NM_000089.3:c.1684G>A	7	94414240	G	A	Het	Mat(affected)	missense
+158	COL2A1	NM_001844.4:c.2213G>T	12	47982590	C	A	Het	De novo	missense
+159	BRPF1	NM_001003694.1:c.1723-1G>C	3	9741307	G	C	Het	De novo	splice acceptor
+160	COL1A1	NM_000088.3:c.3854A>G	17	50186468	T	C	Het	Mat(affected)	missense
+161	EVC	NM_153717.2:c.101T>C	4	5711481	T	C	Het	Mat	missense
+161		c.2014C>T					Het	Pat	nonsense
+162	SHOX	13.5 kb deletion (X1)**					Het	Mat(affected)	structural variant
+163	KAT6A	NM_006766.4:c.751C>T	8	41981913	G	A	Het	De novo	nonsense
+164	NIPBL	NM_133433.3:c.7789delC	5	37060945	TC	T	Het	De novo	frameshift
+165	PTPN11	NM_002834.3:c.1507G>A	12	112489083	G	A	Het	De novo	missense
+166	RYR1	NM_000540.2:c.844C>T	19	38448398	C	T	Het	Mat	missense
+166		c.6158delC**					Het	Pat	frameshift
+167	SETD5	NM_001080517.2:c.2476+1G>A	3	9453869	G	A	Het	De novo	splice donor
+168	PTPN11	NM_002834.3:c.854T>C	12	112477651	T	C	Het	De novo	missense
+169	KMT2C	NM_170606.2:c.12906delT	7	152149020	CA	C	Het	De novo	frameshift
+170	KCNT1	NM_020822.2:c.1420C>T	9	135768847	C	T	Het	De novo	missense
+171	HRAS	NM_005343.3:c.38G>A	11	534285	C	T	Het	De novo	missense
+172	NFIB	NM_001190737.1:c.376A>G	9	14307175	T	C	Het	De novo	missense
+173	RAF1	NM_002880.3:c.770C>T	3	12604200	G	A	Het	De novo	missense
+174	FLNB	NM_001164317.1:c.7213C>A	3	58163252	C	A	Het	De novo	missense
+175	FLNA	NM_001110556.1:c.583G>A	X	154367881	C	T	Hemi	Mat	missense
+176	L1CAM	NM_000425.4:c.3166+1G>A	X	153864584	C	T	Hemi	Mat	splice donor
+177	EFTUD2	NM_004247.3:c.1705C>T	17	44860446	G	A	Het	De novo	nonsense
+178	KMT2D	NM_003482.3:c.10756_10758delAAG	12	49033946	CCTT	C	Het	De novo	In-frame
+179	SPECC1L	NM_015330.4:c.1247C>T	22	24322227	C	T	Het	De novo	missense
+180	MRPS22	NM_020191.2:c.732+1G>A	3	139351061	G	A	Het	Mat	splice donor
+180		c.1009C>T					Het	Pat	nonsense
+181	MID1	NM_033290.3:c.1222G>T	X	10469760	C	A	Hemi	Mat	nonsense
+182	CHD7	NM_017780.3:c.7252C>T	8	60856532	C	T	Het	De novo	nonsense
+183	MYH7	NM_000257.3:c.2135G>A	14	23425991	C	T	Het	De novo	missense
+184	NEK8	NM_178170.2:c.1418-1G>A	17	28740462	G	A	Homo	Pat+Mat	splice acceptor
+185	FGFR2	NM_022970.3:c.755C>G	10	121520163	G	C	Het	De novo	missense
+186	BBS7	NM_176824.2:c.1611delA	4	121833295	CT	C	Het	Mat	frameshift
+186		c.1002delT					Het	Pat	frameshift
+187	FRAS1	NM_025074.6:c.3563+1G>A	4	78379997	G	A	Het	Mat	splice donor
+187		c.10597C>T					Het	Pat	nonsense
+188	FGFR2	NM_022970.3:c.833G>T	10	121520085	C	A	Het	De novo	missense
+189	UBA1	NM_153280.2:c.1617G>T	X	47205989	G	T	Hemi	Mat	missense
+190	KMT2D	NM_003482.3:c.15604delG	12	49026361	GC	G	Het	De novo	frameshift
+191	NIPBL	NM_133433.3:c.7012G>C	5	37051836	G	C	Het	De novo	missense
+192	KMT2D	NM_003482.3:c.4223G>A	12	49047978	C	T	Het	De novo	missense
+193	NIPBL	NM_133433.3:c.3855+5G>C	5	37003352	G	C	Het	De novo	splice region
+194	USP9X	NM_001039590.2:c.4607delG	X	41201062	TG	T	Het	De novo	frameshift
+195	FGFR2	NM_022970.3:c.755C>G	10	121520163	G	C	Het	De novo	missense
+196	KMT2D	NM_003482.3:c.10394dupG	12	49034627	T	TC	Het	De novo	frameshift
+197	NIPBL	NM_133433.3:c.6983C>A	5	37051807	C	A	Het	De novo	missense
+198	CEP290	NM_025114.3:c.5011C>T	12	88083032	G	A	Het	Mat	nonsense
+198		c.4156delA					Het	Pat	frameshift
+199	CEP290	NM_025114.3:c.4220G>A	12	88086473	C	T	Het	Pat	nonsense
+199		c.2340_2341delGA					Het	Mat	frameshift
+200	SOX9	NM_000346.3:c.1005G>A	17	72123862	G	A	Het	De novo	nonsense
+201	FGFR3	NM_000142.5:c.1138G>A	4	1804392	G	A	Het	De novo	missense
+202	RAF1	NM_002880.3:c.770C>T	3	12604200	G	A	Het	De novo	missense
+203	MAGEL2	NM_019066.4:c.2138C>A	15	23645605	G	T	Het	De novo	nonsense
+204	ABCA12	NM_173076.2:c.6858delT	2	214949143	CA	C	Het	Pat	frameshift
+204		c.3456G>A					Het	Mat	synonymous
+205	TMEM231	NM_001077416.2:c.733C>T	16	75545360	G	A	Het	Mat	nonsense
+205		c.597+1G>A					Het	Pat	splice donor
+206	PLOD3	NM_001084.4:c.1890T>G	7	101207623	A	C	Het	Mat	nonsense
+206		c.1354C>T					Het	Pat	nonsense
+207	CRB2	NM_173689.6:c.3307T>C	9	123373838	T	C	Het	Mat	missense
+207		c.3548T>A**					Het	Pat	nonsense
+208	RET	NM_020975.4:c.3148C>T	10	43126683	C	T	Het	Pat(asymptomatic)	nonsense
+209	BBS7	NM_176824.2:c.1002delT	4	121847438	TA	T	Het	Pat	frameshift
+209		c.849+1G>C**					Het	Mat	splice donor
+210	WDR60	NM_018051.4:c.1925G>A	7	158922380	G	A	Het	Pat	missense
+210		c.2095-1G>A**					Het	Mat	splice acceptor
+211	BBS2	NM_031885.3:c.2107C>T	16	56484820	G	A	Het	Pat	nonsense
+211		c.534+1G>T					Het	Mat	splice donor
+212	RAPSN	NM_005055.5:c.280G>A	11	47448063	C	T	Het	Pat	missense
+212		c.149_153delinsAGATGGGCCGCTACAAGGAGATGG**					Het	Mat	frameshift
+213	ACTA1	NM_001100.3:c.110T>G	1	229433006	A	C	Het	De novo	missense
+214	MID1	NM_000381.4:c.1798dupC	X	10449573	T	TG	Hemi	Mat(affected)	frameshift
+215	FLNA	NM_001110556.1:c.1538_1539 delGGinsTA	X	154365377	CC	TA	Hemi	Mat	In-frame
+216	GBA	NM_000157.4:c.1448T>C(Sanger sequencing)					Het	Mat	missense
+216		c.521A>G					Het	Pat	missense
+217	FANCI	NM_001113378.1:c.3015G>C	15	89303872	G	C	Het	Pat	missense
+217		c.3187-2A>G**					Het	Mat	splice acceptor
+218	MTOR	NM_004958.3:c.7255G>A	1	11114363	C	T	Het	De novo	missense
+219	KMT2A	NM_001197104.1:c.4219-1G>A	11	118484861	G	A	Het	De novo	splice acceptor
+220	PEX1	NM_000466.2:c.1585delC	7	92510945	TG	T	Het	Mat	frameshift
+220		c.5G>A					Het	Pat	nonsense
+221	ARID1A	NM_006015.4:c.5853dupC	1	26779750	A	AC	Het	De novo	missense
+222	FGFR2	NM_000141.4:c.1019A>G	10	121517384	T	C	Het	De novo	missense
+223	MYH3	NM_002470.3:c.727_729delTCC	17	10648562	GGGA	G	Het	De novo	In-frame
+224	KRAS	NM_033360.3:c.101C>T	12	25245284	G	A	Het	De novo	missense
+225	CSNK2A1	NM_001895.3:c.838C>T	20	487562	G	A	Het	De novo	nonsense
+226	PBX1	NM_002585.3:c.973_974delTC	1	164812123	ACT	A	Het	De novo	frameshift
+227	CDKN1C	NM_000076.2:c.827_828delinsAA	11	2884127	GA	TT	Het	Mat(asymptomatic)	frameshift
+228	ZEB2	NM_014795.3:c.436G>T	2	144404992	C	A	Het	De novo	nonsense
+229	CLCN5	NM_001127898.3:c.934-1G>T	X	50085979	G	T	Hemi	Mat	splice acceptor

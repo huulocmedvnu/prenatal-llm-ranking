@@ -1,0 +1,22 @@
+cohort,source_location,case,genes,inheritance,finding,hpo_id,hpo_name,map_rule,gestational_age,transcript,hgvs_c,zygosity,origin
+jcla_karyo_wes,Table 8 row 1; Discussion (NOTCH1 cases),X113,NOTCH1,AD,LVOTO,HP:0032092,Left ventricular outflow tract obstruction,manual,,,c.4699delG,het,paternal
+jcla_karyo_wes,Table 8 row 1; Discussion (NOTCH1 cases),X113,NOTCH1,AD,aortic atresia,HP:0010883,Aortic valve atresia,synonym,,,c.4699delG,het,paternal
+jcla_karyo_wes,Table 8 row 1; Discussion (NOTCH1 cases),X113,NOTCH1,AD,hypoplasia of the ascending aorta and aortic arch,HP:0031935,Ascending aorta hypoplasia,manual,,,c.4699delG,het,paternal
+jcla_karyo_wes,Table 8 row 1; Discussion (NOTCH1 cases),X113,NOTCH1,AD,hypoplasia of the ascending aorta and aortic arch,HP:0012304,Hypoplastic aortic arch,manual,,,c.4699delG,het,paternal
+jcla_karyo_wes,Table 8 row 1; Discussion (NOTCH1 cases),X113,NOTCH1,AD,hypoplastic left-sided heart syndrome,HP:0004383,Hypoplastic left ventricle,manual,,,c.4699delG,het,paternal
+jcla_karyo_wes,Table 8 row 2; Results 3.4 text,X168,MYH7,AD,LVOTO,HP:0032092,Left ventricular outflow tract obstruction,manual,,,c.427C>T,het,maternal
+jcla_karyo_wes,Table 8 row 2; Results 3.4 text,X168,MYH7,AD,fetal left ventricular non-compaction,HP:0030682,Left ventricular noncompaction,manual,,,c.427C>T,het,maternal
+jcla_karyo_wes,"Table 8, row 3",X218,PTPN11,AD,CTD,HP:0001710,Conotruncal defect,manual,,,c.1510A>G,het,
+jcla_karyo_wes,Table 8 row 4; Discussion (NOTCH1 cases),X203,NOTCH1,AD,SV/Complex SV,HP:0001750,Single ventricle,manual,,,c.3082C>T,het,
+jcla_karyo_wes,Table 8 row 4; Discussion (NOTCH1 cases),X203,NOTCH1,AD,aortic atresia,HP:0010883,Aortic valve atresia,synonym,,,c.3082C>T,het,
+jcla_karyo_wes,Table 8 row 4; Discussion (NOTCH1 cases),X203,NOTCH1,AD,hypoplasia of the ascending aorta and aortic arch,HP:0031935,Ascending aorta hypoplasia,manual,,,c.3082C>T,het,
+jcla_karyo_wes,Table 8 row 4; Discussion (NOTCH1 cases),X203,NOTCH1,AD,hypoplasia of the ascending aorta and aortic arch,HP:0012304,Hypoplastic aortic arch,manual,,,c.3082C>T,het,
+jcla_karyo_wes,Table 8 row 4; Discussion (NOTCH1 cases),X203,NOTCH1,AD,hypoplastic left-sided heart syndrome,HP:0004383,Hypoplastic left ventricle,manual,,,c.3082C>T,het,
+jcla_karyo_wes,"Table 8, row 5",X166,MAP3K7,AD,CTD,HP:0001710,Conotruncal defect,manual,,,c.1535C>T,het,
+jcla_karyo_wes,"Table 8, row 5",X166,MAP3K7,AD,Nervous system anomalies,HP:0000707,Abnormality of the nervous system,manual,,,c.1535C>T,het,
+jcla_karyo_wes,"Table 8, row 5",X166,MAP3K7,AD,Skeletal system anomalies,HP:0000924,Abnormality of the skeletal system,manual,,,c.1535C>T,het,
+jcla_karyo_wes,"Table 8, row 6",X183,UBA2,AD,CTD,HP:0001710,Conotruncal defect,manual,,,c.771 + 1G>A,het,
+jcla_karyo_wes,"Table 8, row 7",X112,SMAD6,AD,Septal defects,HP:0001671,Abnormal cardiac septum morphology,manual,,,c.834dupC,het,
+jcla_karyo_wes,"Table 8, row 7",X112,SMAD6,AD,Urinary system anomalies,HP:0000079,Abnormality of the urinary system,manual,,,c.834dupC,het,
+jcla_karyo_wes,"Table 8, row 8",X116,ANKRD11,AD,RVOTO,HP:4000143,Abnormal fetal heart outflow tract,manual,,,c.988A>T,het,maternal
+jcla_karyo_wes,"Table 8, row 8",X116,ANKRD11,AD,Nervous system anomalies,HP:0000707,Abnormality of the nervous system,manual,,,c.988A>T,het,maternal

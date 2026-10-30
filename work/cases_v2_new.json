@@ -1,0 +1,1702 @@
+[
+{
+"cohort": "ajogmfm_nihf_gs",
+"case": "1",
+"genes": [
+"HBA2",
+"HBA1"
+],
+"findings": [
+"Pleural effusion",
+"pericardial effusion",
+"ascites",
+"skin edema",
+"elevated MCA Doppler",
+"cardiomegaly",
+"enlarged right atrium",
+"hyperplastic myocardium",
+"tricuspid regurgitation",
+"aortic arch hypoplasia"
+],
+"resnik_rank": 248.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_ep300",
+"case": "1",
+"genes": [
+"EP300"
+],
+"findings": [
+"Exencephaly"
+],
+"resnik_rank": 214.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_ep300",
+"case": "2",
+"genes": [
+"EP300"
+],
+"findings": [
+"Rhabdomyoma"
+],
+"resnik_rank": 445.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_ep300",
+"case": "3",
+"genes": [
+"EP300"
+],
+"findings": [
+"Bilateral talipes equinovarus",
+"FL: M - 2.1SD",
+"HL: M - 3.1SD",
+"Bilateral thick plantar surfaces"
+],
+"resnik_rank": 148.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "1",
+"genes": [
+"FGF8"
+],
+"findings": [
+"Cleft lip",
+"cleft palate",
+"oral cleft"
+],
+"resnik_rank": 91.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "10",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"Ventriculomegaly",
+"renal cortical cysts",
+"hyperechogenic kidneys",
+"Dilatation of the renal pelvis",
+"oligohydramnios"
+],
+"resnik_rank": 47.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "11",
+"genes": [
+"DUOX2"
+],
+"findings": [
+"Atrial septal defect",
+"abnormal heart morphology"
+],
+"resnik_rank": 2144.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "12",
+"genes": [
+"SOX5"
+],
+"findings": [
+"Intrauterine growth retardation",
+"aplasia of the nasal bone"
+],
+"resnik_rank": 1974.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "13",
+"genes": [
+"AKT1"
+],
+"findings": [
+"Overgrowth",
+"increased head circumference",
+"abnormality of neuronal migration",
+"abnormal morphology of the great vessels",
+"dilation oflateralventricles",
+"thin corpus callosum"
+],
+"resnik_rank": 9.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "14",
+"genes": [
+"EFTUD2"
+],
+"findings": [
+"Cleft palate",
+"thickened nuchal skin fold",
+"decreased head circumference",
+"talipesequinovarus"
+],
+"resnik_rank": 1109.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "16",
+"genes": [
+"CREBBP"
+],
+"findings": [
+"Cleft lip",
+"cleft palate",
+"orofacialcleft"
+],
+"resnik_rank": 287.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "17",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"Short long bone",
+"limb undergrowth",
+"intrauterine growth retardation"
+],
+"resnik_rank": 151.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "18",
+"genes": [
+"ALPL"
+],
+"findings": [
+"Flexioncontracture",
+"fetal akinesia sequence"
+],
+"resnik_rank": 717.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "19",
+"genes": [
+"MCPH1"
+],
+"findings": [
+"Microcephaly",
+"cortical dysplasia",
+"abnormal cortical gyration",
+"abnormality of neuronal migration",
+"aplasia/Hypoplasia of the cerebellar vermis"
+],
+"resnik_rank": 324.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "2",
+"genes": [
+"OBSL1"
+],
+"findings": [
+"Intrauterine growth retardation"
+],
+"resnik_rank": 285.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "20",
+"genes": [
+"SLC12A1"
+],
+"findings": [
+"Polyhydramnios",
+"hydrops"
+],
+"resnik_rank": 281.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "21",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"Aplasia/Hypoplasia of the cerebellum",
+"talipes"
+],
+"resnik_rank": 2146.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "22",
+"genes": [
+"EPHB4"
+],
+"findings": [
+"Dilatation of the renal pelvis",
+"echogenic intracardiac focus",
+"aplasia of the gallbladder"
+],
+"resnik_rank": 1198.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "23",
+"genes": [
+"ZIC3"
+],
+"findings": [
+"Truncus arteriosus"
+],
+"resnik_rank": 247.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "24",
+"genes": [
+"GREB1L"
+],
+"findings": [
+"Fetal bowel dilatation",
+"echogenic fetal bowel",
+"abnormal bladder morphology",
+"anal atresia",
+"cloacal abnormality"
+],
+"resnik_rank": 374.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "25",
+"genes": [
+"BBS1"
+],
+"findings": [
+"Polycystic kidney",
+"oligohydramnios"
+],
+"resnik_rank": 629.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "26",
+"genes": [
+"BBS2"
+],
+"findings": [
+"Hyperechogenic Kidneys",
+"enlarged kidneys",
+"oligohydramnios"
+],
+"resnik_rank": 992.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "27",
+"genes": [
+"FAM111A"
+],
+"findings": [
+"Short long bones",
+"bowing of the long bones",
+"abnormality of calvarial morphology",
+"intrauterine growth retardation",
+"coarctation of aorta"
+],
+"resnik_rank": 365.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "28",
+"genes": [
+"KDM1A"
+],
+"findings": [
+"Abnormality of the vertebral column",
+"dilation of lateral ventricles"
+],
+"resnik_rank": 57.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "29",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"Left femur curvature"
+],
+"resnik_rank": 24.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "3",
+"genes": [
+"TSC2"
+],
+"findings": [
+"Intracranial multiple hyperechoic nodules",
+"cardiac rhabdomyoma",
+"cortical tubercle"
+],
+"resnik_rank": 2.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "30",
+"genes": [
+"PEX10"
+],
+"findings": [
+"Right ventricular double outlet",
+"ventricular septal defect",
+"pulmonary stenosis",
+"absence of pulmonary valve"
+],
+"resnik_rank": 741.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "31",
+"genes": [
+"RARS2"
+],
+"findings": [
+"Intrauterine growth retardation",
+"subependymal cysts",
+"cerebellar hypoplasia",
+"bilateral talipes equinovarus"
+],
+"resnik_rank": 1348.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "33",
+"genes": [
+"TP63"
+],
+"findings": [
+"Bipedal cleft deformity",
+"left hand cleft deformity"
+],
+"resnik_rank": 5.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "4",
+"genes": [
+"AGK"
+],
+"findings": [
+"Cataract",
+"subependymal cysts"
+],
+"resnik_rank": 1184.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "5",
+"genes": [
+"PLD1"
+],
+"findings": [
+"Tetralogy of fallot",
+"tricuspid regurgitation",
+"ventricular hypertrophy",
+"pericardial effusion"
+],
+"resnik_rank": 48.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "6",
+"genes": [
+"PKD1"
+],
+"findings": [
+"Renal cyst"
+],
+"resnik_rank": 130.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "7",
+"genes": [
+"COL4A1"
+],
+"findings": [
+"Hydrocephalus",
+"inferior vermis hypoplasia"
+],
+"resnik_rank": 63.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "8",
+"genes": [
+"SNAP25"
+],
+"findings": [
+"Thickened nuchal skin Fold",
+"talipes equinovarus",
+"flexion contracture",
+"pleural effusion"
+],
+"resnik_rank": 798.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "frontgen_wes_us",
+"case": "9",
+"genes": [
+"DNMT3A"
+],
+"findings": [
+"Intrauterine growth retardation"
+],
+"resnik_rank": 285.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jcla_karyo_wes",
+"case": "X112",
+"genes": [
+"SMAD6"
+],
+"findings": [
+"Septal defects",
+"Urinary system anomalies"
+],
+"resnik_rank": 1054.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jcla_karyo_wes",
+"case": "X113",
+"genes": [
+"NOTCH1"
+],
+"findings": [
+"LVOTO",
+"aortic atresia",
+"hypoplasia of the ascending aorta and aortic arch",
+"hypoplastic left-sided heart syndrome"
+],
+"resnik_rank": 8.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jcla_karyo_wes",
+"case": "X116",
+"genes": [
+"ANKRD11"
+],
+"findings": [
+"RVOTO",
+"Nervous system anomalies"
+],
+"resnik_rank": 139.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jcla_karyo_wes",
+"case": "X166",
+"genes": [
+"MAP3K7"
+],
+"findings": [
+"CTD",
+"Nervous system anomalies",
+"Skeletal system anomalies"
+],
+"resnik_rank": 332.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jcla_karyo_wes",
+"case": "X168",
+"genes": [
+"MYH7"
+],
+"findings": [
+"LVOTO",
+"left ventricular non-compaction"
+],
+"resnik_rank": 6.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jcla_karyo_wes",
+"case": "X183",
+"genes": [
+"UBA2"
+],
+"findings": [
+"CTD"
+],
+"resnik_rank": 4354.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jcla_karyo_wes",
+"case": "X203",
+"genes": [
+"NOTCH1"
+],
+"findings": [
+"SV/Complex SV",
+"aortic atresia",
+"hypoplasia of the ascending aorta and aortic arch",
+"hypoplastic left-sided heart syndrome"
+],
+"resnik_rank": 10.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jcla_karyo_wes",
+"case": "X218",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"CTD"
+],
+"resnik_rank": 359.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jml_romania",
+"case": "2",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"Single umbilical artery",
+"Cardiac complex malformation: apex is formed by right ventricle",
+"hypoplastic left heart",
+"fetal posterior fossa malformation: communication between the fourth ventricle and the cisterna magna"
+],
+"resnik_rank": 12.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jml_romania",
+"case": "3",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"Asymmetric shortening of the long bones <1st percentile"
+],
+"resnik_rank": 133.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jml_romania",
+"case": "4",
+"genes": [
+"COL1A2"
+],
+"findings": [
+"Fetal skeletal dysplasia involving both upper and lower limbs"
+],
+"resnik_rank": 1489.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jml_romania",
+"case": "5",
+"genes": [
+"CC2D2A"
+],
+"findings": [
+"Encephalocele",
+"polycystic kidneys",
+"polydactyly"
+],
+"resnik_rank": 27.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "jml_romania",
+"case": "6",
+"genes": [
+"NBAS"
+],
+"findings": [
+"Absent nasal bone",
+"long philtrum",
+"cleft palate",
+"intrauterine growth restriction"
+],
+"resnik_rank": 712.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "pd_rnu4atac",
+"case": "2",
+"genes": [
+"RNU4ATAC"
+],
+"findings": [
+"IUGR",
+"ACC",
+"Lissencephaly",
+"Intracranial cyst",
+"Cerebellar vermis agenesis/hypoplasia",
+"Microcephaly",
+"Micrognathia",
+"Microencephaly",
+"Dilated cisterna magna"
+],
+"resnik_rank": 12.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "pd_rnu4atac",
+"case": "3",
+"genes": [
+"RNU4ATAC"
+],
+"findings": [
+"IUGR",
+"Hypoplastic frontal lobes",
+"Intracranial cyst",
+"Cerebellar vermis agenesis/hypoplasia",
+"Agenesis of corpus callosum (ACC)",
+"Microcephaly",
+"Micrognathia",
+"Club foot (left)",
+"right hand fixated with ulnar deviation",
+"Hyperechogenic bowl",
+"Microencephaly"
+],
+"resnik_rank": 11.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "pd_rnu4atac",
+"case": "4",
+"genes": [
+"RNU4ATAC"
+],
+"findings": [
+"IUGR",
+"Lissencephaly",
+"Agenesis of corpus callosum (ACC)",
+"Microcephaly",
+"Microencephaly"
+],
+"resnik_rank": 11.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "pd_rnu4atac",
+"case": "5",
+"genes": [
+"RNU4ATAC"
+],
+"findings": [
+"IUGR",
+"echogenic focus",
+"Lissencephaly",
+"Intracranial cyst",
+"Cerebellar vermis agenesis/hypoplasia",
+"Agenesis of corpus callosum (ACC)",
+"Microcephaly",
+"Micrognathia",
+"Mild dilated renal pelvis (4.1 mm)",
+"Microencephaly",
+"Dilated cisterna magna"
+],
+"resnik_rank": 7.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY001",
+"genes": [
+"NR2F1"
+],
+"findings": [
+"Large For Gestational Age and Polyhydramnios"
+],
+"resnik_rank": 2246.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY002",
+"genes": [
+"SMC1A"
+],
+"findings": [
+"Posterior fossa cyst",
+"ventriculomegaly",
+"Holoprosencephaly"
+],
+"resnik_rank": 55.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY004",
+"genes": [
+"HNRNPH2"
+],
+"findings": [
+"Unspecified Slow Fetal Growth"
+],
+"resnik_rank": 1124.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY005",
+"genes": [
+"EZH2"
+],
+"findings": [
+"Blocked Tear Ducts"
+],
+"resnik_rank": 748.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY007",
+"genes": [
+"AMER1"
+],
+"findings": [
+"Borderline ventriculomegaly (9-11)",
+"6.3mm increased NT",
+"brachycephaly",
+"potentially absent stomach",
+"polyhydramnios",
+"Femur less than 10th centile"
+],
+"resnik_rank": 315.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY009",
+"genes": [
+"CDK13"
+],
+"findings": [
+"Unexplained IUGR"
+],
+"resnik_rank": 285.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY010",
+"genes": [
+"WDR62"
+],
+"findings": [
+"Left Renal Cyst - spontaneously resolved"
+],
+"resnik_rank": 632.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY011",
+"genes": [
+"NONO"
+],
+"findings": [
+"Unexplained IUGR",
+"asymmetrical growth",
+"reduced movement"
+],
+"resnik_rank": 1487.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY014",
+"genes": [
+"PIEZO2"
+],
+"findings": [
+"Bilateral Talipes",
+"oliogohydramnios",
+"growth restriction",
+"placental insufficiency"
+],
+"resnik_rank": 847.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY018",
+"genes": [
+"WT1"
+],
+"findings": [
+"Left microcystic lung lesion (resolved spontaneously at 29+4)"
+],
+"resnik_rank": 575.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY021",
+"genes": [
+"MEF2C"
+],
+"findings": [
+"Low Amniotic Fluid"
+],
+"resnik_rank": 2645.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY026",
+"genes": [
+"AUTS2"
+],
+"findings": [
+"IUGR at end of Pregnancy"
+],
+"resnik_rank": 285.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY027",
+"genes": [
+"HK1"
+],
+"findings": [
+"Agenesis of Corpus Callosum"
+],
+"resnik_rank": 491.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY032",
+"genes": [
+"KAT6A"
+],
+"findings": [
+"Left sided large diaphragmatic hernia with polyhydramnios"
+],
+"resnik_rank": 2127.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY033",
+"genes": [
+"ITPR1"
+],
+"findings": [
+"Queries over Increased Size"
+],
+"resnik_rank": 1015.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY034",
+"genes": [
+"CTNNB1"
+],
+"findings": [
+"Small for gestational Age"
+],
+"resnik_rank": 129.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY035",
+"genes": [
+"ZIC3"
+],
+"findings": [
+"Situs Invertus - Stomach on incorrect side",
+"Increased NT",
+"Short femur",
+"Abnormal 4 heart chamber with possible VSD",
+"Complex cardiac double outlet right ventricle"
+],
+"resnik_rank": 1.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY045",
+"genes": [
+"NRAS"
+],
+"findings": [
+"Cystic Hygroma and Pleural Effusion",
+"Ascites",
+"Hydrops Fetalis not due to Haemolytic disease",
+"Abnormal echocardiogram"
+],
+"resnik_rank": 16.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY047",
+"genes": [
+"CREBBP"
+],
+"findings": [
+"Cystic Hygroma",
+"Increased NT >10mm"
+],
+"resnik_rank": 428.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY053",
+"genes": [
+"POMT2"
+],
+"findings": [
+"Moderate bilateral vetriculomegaly (14-15mm) became aysmmetrical 43mm left side",
+"moderately dilated 3rd ventricle",
+"head circumference above 90th percentile",
+"midline pushed to the side",
+"small hepatic cyst",
+"few dilated loops of bowel"
+],
+"resnik_rank": 378.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY057",
+"genes": [
+"SOX10"
+],
+"findings": [
+"Unspecified Fetal Oedema"
+],
+"resnik_rank": 3372.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY058",
+"genes": [
+"MID1"
+],
+"findings": [
+"Cleft lip and Palate (Difficult to diagnose)"
+],
+"resnik_rank": 91.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY061",
+"genes": [
+"ARID1B"
+],
+"findings": [
+"Abnormal cavum septum pellucidum",
+"absent corpus callosum",
+"venticulomegaly (3rd ventricle - 7mm)"
+],
+"resnik_rank": 179.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY063",
+"genes": [
+"KMT2C"
+],
+"findings": [
+"Severe hydrocephalus",
+"third ventricle dilated",
+"severe bilateral ventriculomegaly >15mm"
+],
+"resnik_rank": 641.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY064",
+"genes": [
+"SMCHD1"
+],
+"findings": [
+"Abnormal eyes",
+"Flat facial profile",
+"nasal bone not visible"
+],
+"resnik_rank": 1424.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY065",
+"genes": [
+"TRAF7"
+],
+"findings": [
+"Cleft Palate"
+],
+"resnik_rank": 1440.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY067",
+"genes": [
+"SMC3"
+],
+"findings": [
+"Alobar Holoprosencephaly"
+],
+"resnik_rank": 1204.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY069",
+"genes": [
+"ZIC2"
+],
+"findings": [
+"Holoprosencephaly"
+],
+"resnik_rank": 39.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY071",
+"genes": [
+"CDK8"
+],
+"findings": [
+"mild left ventriculomegaly",
+"Absent left AV valve",
+"single ventricle",
+"double outlet ventricle"
+],
+"resnik_rank": 265.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY073",
+"genes": [
+"CREBBP"
+],
+"findings": [
+"Congenital diaphragmatic hernia, left side contains stomach",
+"right kidney abnormal"
+],
+"resnik_rank": 336.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY074",
+"genes": [
+"PIK3CA"
+],
+"findings": [
+"Prominent forehead",
+"Thorax lymph oedema",
+"partial agenesis of corpus callosum",
+"polyhydramnios",
+"severe ventriculomegaly",
+"frontal bossing",
+"hypercirculation in middle cerebral artery which would be in keeping with findings of lymphangioma"
+],
+"resnik_rank": 2.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY075",
+"genes": [
+"OFD1"
+],
+"findings": [
+"Lemon Shaped head",
+"severe ventriculomegaly >15mm",
+"cerebellum abnormal shape inferiorly",
+"lemon shaped cranium",
+"absent corpus callosum",
+"congenital diaphragmatic hernia",
+"stomach not visible",
+"Dandy Walker malformation"
+],
+"resnik_rank": 106.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY082",
+"genes": [
+"PPP2R1A"
+],
+"findings": [
+"Borderline Ventriculomegaly"
+],
+"resnik_rank": 786.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY084",
+"genes": [
+"LZTR1"
+],
+"findings": [
+"Large for Gestational Age"
+],
+"resnik_rank": 2005.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY087",
+"genes": [
+"SLC6A1"
+],
+"findings": [
+"IUGR"
+],
+"resnik_rank": 3352.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY088",
+"genes": [
+"SLC6A1"
+],
+"findings": [
+"IUGR"
+],
+"resnik_rank": 3352.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY095",
+"genes": [
+"UBA5"
+],
+"findings": [
+"Septal Defect",
+"Moderate Ascites (12mm)",
+"Bright kidneys",
+"Minimal pyelcatasis both sides",
+"Small bladder with surrounding ascites",
+"Hydroureter",
+"hydronephrosis both sites with blunted calyces",
+"some pressure on thorax due to increasing size of abdomen"
+],
+"resnik_rank": 2446.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY102",
+"genes": [
+"EP300"
+],
+"findings": [
+"Complex Cardiac - Unspecified"
+],
+"resnik_rank": 692.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY107",
+"genes": [
+"NYX"
+],
+"findings": [
+"IUGR"
+],
+"resnik_rank": 3352.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY109",
+"genes": [
+"BBS10"
+],
+"findings": [
+"Bilateral enlarged kidneys with dilated collecting systems",
+"bilateral larger hydroureter",
+"hydronephrosis and AVSD"
+],
+"resnik_rank": 229.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY112",
+"genes": [
+"CHD7"
+],
+"findings": [
+"Tetraology of Fallot"
+],
+"resnik_rank": 81.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "uog_odyssey",
+"case": "ODSY118",
+"genes": [
+"CTNND1"
+],
+"findings": [
+"Some IUGR - Likely placental insufficiency"
+],
+"resnik_rank": 3427.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-003",
+"genes": [
+"HSPB1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 3502.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-004",
+"genes": [
+"BICD2"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 404.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-006",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 201.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-007",
+"genes": [
+"KLF1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 91.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-008",
+"genes": [
+"RAF1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 201.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-009",
+"genes": [
+"SUMF1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 722.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-011",
+"genes": [
+"NEU1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 91.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-012",
+"genes": [
+"RIT1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 201.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-017",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 201.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-018",
+"genes": [
+"PIEZO1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 31.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-020",
+"genes": [
+"AMER1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 1166.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF2-021",
+"genes": [
+"RYR1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 91.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-022",
+"genes": [
+"RRAS2"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 201.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-025",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 201.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-029",
+"genes": [
+"PUF60"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 1166.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF2-031",
+"genes": [
+"SOS1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 201.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-032",
+"genes": [
+"RIT1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 201.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF2-034",
+"genes": [
+"RYR1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 91.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-039",
+"genes": [
+"BLTP1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 4354.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-041",
+"genes": [
+"FLT4"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 31.5,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-045",
+"genes": [
+"RIT1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 201.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-046",
+"genes": [
+"LMOD2"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 4354.0,
+"period": "post",
+"source": "v2"
+},
+{
+"cohort": "hydrops",
+"case": "NIHF1-038",
+"genes": [
+"PIEZO1"
+],
+"findings": [
+"Nonimmune hydrops fetalis"
+],
+"resnik_rank": 31.5,
+"period": "post",
+"source": "v2"
+}
+]

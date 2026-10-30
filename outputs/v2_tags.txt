@@ -1,0 +1,1 @@
+haiku-5-5_T2 sonnet-5-5_T2 opus-5-5_T2 haiku-5-5_T3a_order opus-5-5_T3a_order haiku-5-5_T3b_synonym opus-5-5_T3b_synonym haiku-5-5_T3c_hpoid opus-5-5_T3c_hpoid haiku-5-5_S2_hpolabel opus-5-5_S2_hpolabel haiku-5-5_N1p1 haiku-5-5_N1p2 haiku-5-5_N1p3 haiku-5-5_N1p4 haiku-5-5_N1p5 opus-5-5_N1p1 sonnet-5-5_r2 opus-5-5_r2 sonnet-5-5_r3 opus-5-5_r3

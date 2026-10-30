@@ -1,0 +1,110 @@
+cohort,source_location,case,genes,inheritance,finding,hpo_id,hpo_name,map_rule,gestational_age,transcript,hgvs_c,zygosity,origin
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 2",ODSY002,SMC1A,,Posterior fossa cyst,HP:0007291,Posterior fossa cyst,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 2",ODSY002,SMC1A,,ventriculomegaly,HP:0002119,Ventriculomegaly,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 2",ODSY002,SMC1A,,Holoprosencephaly,HP:0001360,Holoprosencephaly,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 3",ODSY004,HNRNPH2,,Unspecified Slow Fetal Growth,HP:0001511,Intrauterine growth retardation,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,Borderline ventriculomegaly (9-11),HP:0010952,Mild fetal ventriculomegaly,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,6.3mm increased NT,HP:0010880,Increased nuchal translucency,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,Femur less than 10th centile,HP:0003097,Short femur,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,brachycephaly,HP:0000248,Brachycephaly,exact label,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,potentially absent stomach,HP:0010963,Absence of stomach bubble on fetal sonography,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,polyhydramnios,HP:0001561,Polyhydramnios,exact label,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 5",ODSY009,CDK13,,Unexplained IUGR,HP:0001511,Intrauterine growth retardation,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 6",ODSY011,NONO,,Unexplained IUGR,HP:0001511,Intrauterine growth retardation,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 6",ODSY011,NONO,,asymmetrical growth,HP:0001507,Growth abnormality,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 6",ODSY011,NONO,,reduced movement,HP:0001558,Decreased fetal movement,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 7",ODSY027,HK1,,Agenesis of Corpus Callosum,HP:0001274,Agenesis of corpus callosum,exact label,,,,Heterozyous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Situs Invertus - Stomach on incorrect side,HP:0003363,Abdominal situs inversus,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Increased NT,HP:0010880,Increased nuchal translucency,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Short femur,HP:0003097,Short femur,exact label,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Abnormal 4 heart chamber with possible VSD,HP:4000105,Abnormal four chamber view of the fetal heart,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Abnormal 4 heart chamber with possible VSD,HP:0001629,Ventricular septal defect,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Complex cardiac double outlet right ventricle,HP:0001719,Double outlet right ventricle,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 9",ODSY045,NRAS,,Cystic Hygroma and Pleural Effusion,HP:0000476,Cystic hygroma,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 9",ODSY045,NRAS,,Cystic Hygroma and Pleural Effusion,HP:0002202,Pleural effusion,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 9",ODSY045,NRAS,,Ascites,HP:0001541,Ascites,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 9",ODSY045,NRAS,,Abnormal echocardiogram,HP:0500015,Abnormal cardiac test,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 9",ODSY045,NRAS,,Hydrops Fetalis not due to Haemolytic disease,HP:0001790,Nonimmune hydrops fetalis,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,Moderate bilateral vetriculomegaly (14-15mm) became aysmmetrical 43mm left side,HP:0002119,Ventriculomegaly,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,Moderate bilateral vetriculomegaly (14-15mm) became aysmmetrical 43mm left side,HP:0100960,Lateral ventricular asymmetry,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,moderately dilated 3rd ventricle,HP:0007082,Dilated third ventricle,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,head circumference above 90th percentile,HP:0040194,Increased head circumference,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,midline pushed to the side,HP:0012443,Abnormal brain morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,small hepatic cyst,HP:0001407,Hepatic cysts,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,few dilated loops of bowel,HP:4000140,Fetal bowel dilatation,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 11",ODSY061,ARID1B,,Abnormal cavum septum pellucidum,HP:0007375,Abnormal septum pellucidum morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 11",ODSY061,ARID1B,,absent corpus callosum,HP:0001274,Agenesis of corpus callosum,synonym,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 11",ODSY061,ARID1B,,venticulomegaly (3rd ventricle - 7mm),HP:0002119,Ventriculomegaly,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 12",ODSY063,KMT2C,,Severe hydrocephalus,HP:0006882,Severe hydrocephalus,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 12",ODSY063,KMT2C,,third ventricle dilated,HP:0007082,Dilated third ventricle,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 12",ODSY063,KMT2C,,severe bilateral ventriculomegaly >15mm,HP:0002119,Ventriculomegaly,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 13",ODSY067,SMC3,,Alobar Holoprosencephaly,HP:0006988,Alobar holoprosencephaly,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 14",ODSY069,ZIC2,,Holoprosencephaly,HP:0001360,Holoprosencephaly,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 15",ODSY071,CDK8,,Absent left AV valve with single ventricle and double outlet ventricle,HP:0006705,Abnormal atrioventricular valve morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 15",ODSY071,CDK8,,Absent left AV valve with single ventricle and double outlet ventricle,HP:0001750,Single ventricle,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 15",ODSY071,CDK8,,Absent left AV valve with single ventricle and double outlet ventricle,HP:4000143,Abnormal fetal heart outflow tract,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 15",ODSY071,CDK8,,mild left ventriculomegaly,HP:0010952,Mild fetal ventriculomegaly,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 16",ODSY073,CREBBP,,"Congenital diaphragmatic hernia, left side contains stomach",HP:0000776,Congenital diaphragmatic hernia,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 16",ODSY073,CREBBP,,right kidney abnormal,HP:0012210,Abnormal renal morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,Prominent forehead,HP:0011220,Prominent forehead,exact label,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,Thorax lymph oedema,HP:0001004,Lymphedema,manual,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,partial agenesis of corpus callosum,HP:0001338,Partial agenesis of the corpus callosum,synonym,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,polyhydramnios,HP:0001561,Polyhydramnios,exact label,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,severe ventriculomegaly,HP:0002119,Ventriculomegaly,manual,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,frontal bossing,HP:0002007,Frontal bossing,exact label,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,hypercirculation in middle cerebral artery which would be in keeping with findings of lymphangioma,HP:0034191,Elevated fetal middle cerebral artery peak systolic velocity,manual,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,Lemon Shaped head,HP:0032269,Lemon sign,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,severe ventriculomegaly >15mm,HP:0002119,Ventriculomegaly,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,cerebellum abnormal shape inferiorly,HP:0001317,Abnormal cerebellum morphology,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,lemon shaped cranium,HP:0032269,Lemon sign,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,absent corpus callosum,HP:0001274,Agenesis of corpus callosum,synonym,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,congenital diaphragmatic hernia,HP:0000776,Congenital diaphragmatic hernia,exact label,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,stomach not visible,HP:0010963,Absence of stomach bubble on fetal sonography,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,Dandy Walker malformation,HP:0001305,Dandy-Walker malformation,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 19",ODSY087,SLC6A1,,IUGR,HP:0001511,Intrauterine growth retardation,synonym,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 20",ODSY088,SLC6A1,,IUGR,HP:0001511,Intrauterine growth retardation,synonym,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Septal Defect,HP:0001671,Abnormal cardiac septum morphology,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Moderate Ascites (12mm),HP:0001541,Ascites,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Bright kidneys,HP:0004719,Hyperechogenic kidneys,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Minimal pyelcatasis both sides,HP:0011129,Bilateral fetal pyelectasis,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Small bladder with surrounding ascites,HP:0010476,Aplasia/Hypoplasia of the bladder,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Small bladder with surrounding ascites,HP:0001541,Ascites,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Hydroureter,HP:0000072,Hydroureter,exact label,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,hydronephrosis both sites with blunted calyces,HP:0000126,Hydronephrosis,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,some pressure on thorax due to increasing size of abdomen,HP:0003270,Abdominal distention,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 22",ODSY107,NYX,,IUGR,HP:0001511,Intrauterine growth retardation,synonym,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 23",ODSY109,BBS10,,Bilateral enlarged kidneys with dilated collecting systems,HP:0000105,Enlarged kidney,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 23",ODSY109,BBS10,,Bilateral enlarged kidneys with dilated collecting systems,HP:0004742,Abnormal renal collecting system morphology,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 23",ODSY109,BBS10,,bilateral larger hydroureter,HP:0000072,Hydroureter,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 23",ODSY109,BBS10,,hydronephrosis and AVSD,HP:0000126,Hydronephrosis,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 23",ODSY109,BBS10,,hydronephrosis and AVSD,HP:0006695,Atrioventricular canal defect,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 2",ODSY001,NR2F1,,Large For Gestational Age and Polyhydramnios,HP:0001520,Large for gestational age,manual,,,,Heterzoygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 2",ODSY001,NR2F1,,Large For Gestational Age and Polyhydramnios,HP:0001561,Polyhydramnios,manual,,,,Heterzoygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 3",ODSY005,EZH2,,Blocked Tear Ducts,HP:0000579,Nasolacrimal duct obstruction,manual,,,,Heterozygous,Not known
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 4",ODSY010,WDR62,,Left Renal Cyst - spontaneously resolved,HP:0000107,Renal cyst,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 5",ODSY014,PIEZO2,,Bilateral Talipes,HP:0001883,Talipes,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 5",ODSY014,PIEZO2,,oliogohydramnios,HP:0001562,Oligohydramnios,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 5",ODSY014,PIEZO2,,growth restriction,HP:0001511,Intrauterine growth retardation,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 5",ODSY014,PIEZO2,,placental insufficiency,HP:0001194,Abnormalities of placenta or umbilical cord,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 6",ODSY018,WT1,,Left microcystic lung lesion (resolved spontaneously at 29+4),HP:0002088,Abnormal lung morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 7",ODSY021,MEF2C,,Low Amniotic Fluid,HP:0001562,Oligohydramnios,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 8",ODSY026,AUTS2,,IUGR at end of Pregnancy,HP:0001511,Intrauterine growth retardation,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 9",ODSY032,KAT6A,,Left sided large diaphragmatic hernia with polyhydramnios,HP:0000776,Congenital diaphragmatic hernia,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 9",ODSY032,KAT6A,,Left sided large diaphragmatic hernia with polyhydramnios,HP:0001561,Polyhydramnios,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 10",ODSY033,ITPR1,,Queries over Increased Size,HP:0001520,Large for gestational age,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 11",ODSY034,CTNNB1,,Small for gestational Age,HP:0001518,Small for gestational age,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 12",ODSY047,CREBBP,,Cystic Hygroma,HP:0000476,Cystic hygroma,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 12",ODSY047,CREBBP,,Increased NT >10mm,HP:0010880,Increased nuchal translucency,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 13",ODSY057,SOX10,,Unspecified Fetal Oedema,HP:0000969,Edema,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 14",ODSY058,MID1,,Cleft lip and Palate (Difficult to diagnose),HP:0410030,Cleft lip,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 14",ODSY058,MID1,,Cleft lip and Palate (Difficult to diagnose),HP:0000175,Cleft palate,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 15",ODSY064,SMCHD1,,Abnormal eyes,HP:0012372,Abnormal eye morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 15",ODSY064,SMCHD1,,Flat facial profile,HP:0012368,Flat face,synonym,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 15",ODSY064,SMCHD1,,nasal bone not visible,HP:0025706,Absent fetal nasal bone,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 16",ODSY065,TRAF7,,Cleft Palate,HP:0000175,Cleft palate,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 17",ODSY082,PPP2R1A,,Borderline Ventriculomegaly,HP:0010952,Mild fetal ventriculomegaly,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 18",ODSY084,LZTR1,,Large for Gestational Age,HP:0001520,Large for gestational age,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 19",ODSY102,EP300,,Complex Cardiac - Unspecified,HP:0001627,Abnormal heart morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 20",ODSY112,CHD7,,Tetraology of Fallot,HP:0001636,Tetralogy of Fallot,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 21",ODSY118,CTNND1,,Some IUGR - Likely placental insufficiency,HP:0001511,Intrauterine growth retardation,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 21",ODSY118,CTNND1,,Some IUGR - Likely placental insufficiency,HP:0001194,Abnormalities of placenta or umbilical cord,manual,,,,Heterozygous,De Novo

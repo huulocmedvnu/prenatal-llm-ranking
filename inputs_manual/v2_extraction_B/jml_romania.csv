@@ -1,0 +1,14 @@
+cohort,source_location,case,genes,inheritance,finding,hpo_id,hpo_name,map_rule,gestational_age,transcript,hgvs_c,zygosity,origin
+jml_romania,"Table 1, row 2",2,KMT2D,AD,Single umbilical artery,HP:0001195,Single umbilical artery,exact label,22 weeks,,c.16342C>T,Het,
+jml_romania,"Table 1, row 2",2,KMT2D,AD,Cardiac complex malformation: apex is formed by right ventricle,HP:0001627,Abnormal heart morphology,manual,22 weeks,,c.16342C>T,Het,
+jml_romania,"Table 1, row 2",2,KMT2D,AD,hypoplastic left heart,HP:0004383,Hypoplastic left ventricle,manual,22 weeks,,c.16342C>T,Het,
+jml_romania,"Table 1, row 2",2,KMT2D,AD,fetal posterior fossa malformation: communication between the fourth ventricle and the cisterna magna,HP:0000932,Abnormal posterior cranial fossa morphology,manual,22 weeks,,c.16342C>T,Het,
+jml_romania,"Table 1, row 3",3,COL2A1,AD,Asymmetric shortening of the long bones <1st percentile,HP:0003026,Short long bone,manual,26 weeks,,c.3469_3486dup,Het,
+jml_romania,"Table 1, row 4",4,COL1A2,AD,Fetal skeletal dysplasia involving both upper and lower limbs,HP:0002652,Skeletal dysplasia,manual,17 weeks,,c.1971+1G>C,Het,
+jml_romania,"Table 1, row 5",5,CC2D2A,AR,Encephalocele,HP:0002084,Encephalocele,exact label,12 weeks,,c.4675-1G>C,Homozygous,
+jml_romania,"Table 1, row 5",5,CC2D2A,AR,polycystic kidneys,HP:0000113,Polycystic kidney dysplasia,synonym,12 weeks,,c.4675-1G>C,Homozygous,
+jml_romania,"Table 1, row 5",5,CC2D2A,AR,polydactyly,HP:0010442,Polydactyly,exact label,12 weeks,,c.4675-1G>C,Homozygous,
+jml_romania,"Table 1, row 6",6,NBAS,AR,Absent nasal bone,HP:0025706,Absent fetal nasal bone,manual,13 weeks,;NM_15909.4,c.[539_540delinsTG;619C>T];c.6573-1047A>G,Het;Het,parents each carry one of the NBAS variants (text)
+jml_romania,"Table 1, row 6",6,NBAS,AR,long philtrum,HP:0000343,Long philtrum,exact label,13 weeks,;NM_15909.4,c.[539_540delinsTG;619C>T];c.6573-1047A>G,Het;Het,parents each carry one of the NBAS variants (text)
+jml_romania,"Table 1, row 6",6,NBAS,AR,cleft palate,HP:0000175,Cleft palate,exact label,13 weeks,;NM_15909.4,c.[539_540delinsTG;619C>T];c.6573-1047A>G,Het;Het,parents each carry one of the NBAS variants (text)
+jml_romania,"Table 1, row 6",6,NBAS,AR,intrauterine growth restriction,HP:0001511,Intrauterine growth retardation,synonym,13 weeks,;NM_15909.4,c.[539_540delinsTG;619C>T];c.6573-1047A>G,Het;Het,parents each carry one of the NBAS variants (text)

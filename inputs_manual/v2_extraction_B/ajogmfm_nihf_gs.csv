@@ -1,0 +1,16 @@
+cohort,source_location,case,genes,inheritance,finding,hpo_id,hpo_name,map_rule,gestational_age,transcript,hgvs_c,zygosity,origin
+ajogmfm_nihf_gs,"Table 3, case 1 (rows 1-2)",1,HBA2;HBA1,AR,Pleural effusion,HP:0002202,Pleural effusion,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,in trans,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, case 1 (rows 1-2)",1,HBA2;HBA1,AR,pericardial effusion,HP:0001698,Pericardial effusion,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,in trans,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, case 1 (rows 1-2)",1,HBA2;HBA1,AR,ascites,HP:0001541,Ascites,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,in trans,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, case 1 (rows 1-2)",1,HBA2;HBA1,AR,skin edema,HP:0025672,Fetal skin edema,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,in trans,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, case 1 (rows 1-2)",1,HBA2;HBA1,AR,elevated MCA Doppler,HP:0034191,Elevated fetal middle cerebral artery peak systolic velocity,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,in trans,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, case 1 (rows 1-2)",1,HBA2;HBA1,AR,cardiomegaly,HP:0001640,Cardiomegaly,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,in trans,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, case 1 (rows 1-2)",1,HBA2;HBA1,AR,enlarged right atrium,HP:0030718,Right atrial enlargement,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,in trans,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, case 1 (rows 1-2)",1,HBA2;HBA1,AR,hyperplastic myocardium,HP:0001637,Abnormal myocardium morphology,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,in trans,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, case 1 (rows 1-2)",1,HBA2;HBA1,AR,tricuspid regurgitation,HP:0005180,Tricuspid regurgitation,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,in trans,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, case 1 (rows 1-2)",1,HBA2;HBA1,AR,aortic arch hypoplasia,HP:0012304,Hypoplastic aortic arch,synonym,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,in trans,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, case 2 (rows 3-4)",2,LARGE1,AR,Increased NT (7.8 mm),HP:0010880,Increased nuchal translucency,manual,,,NC_000022.11:33432146_33572171del;NC_000022.11:33761356_33761491del,compound heterozygous,maternal;paternal
+ajogmfm_nihf_gs,"Table 3, case 2 (rows 3-4)",2,LARGE1,AR,CH,HP:0000476,Cystic hygroma,manual,,,NC_000022.11:33432146_33572171del;NC_000022.11:33761356_33761491del,compound heterozygous,maternal;paternal
+ajogmfm_nihf_gs,"Table 3, case 2 (rows 3-4)",2,LARGE1,AR,abnormal skull shape,HP:0000929,Abnormal skull morphology,manual,,,NC_000022.11:33432146_33572171del;NC_000022.11:33761356_33761491del,compound heterozygous,maternal;paternal
+ajogmfm_nihf_gs,"Table 3, case 2 (rows 3-4)",2,LARGE1,AR,bilateral ventriculomegaly,HP:0002119,Ventriculomegaly,manual,,,NC_000022.11:33432146_33572171del;NC_000022.11:33761356_33761491del,compound heterozygous,maternal;paternal
+ajogmfm_nihf_gs,"Table 3, case 2 (rows 3-4)",2,LARGE1,AR,abnormal posterior fossa anatomy,HP:0000932,Abnormal posterior cranial fossa morphology,manual,,,NC_000022.11:33432146_33572171del;NC_000022.11:33761356_33761491del,compound heterozygous,maternal;paternal

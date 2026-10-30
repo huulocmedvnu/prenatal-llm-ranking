@@ -1,0 +1,4 @@
+qwen3_14b post n 153 top1 3 top10 11 (7.2%) vs exomiser diff 1.3 [-3.5, 6.3] p 0.77
+gpt-oss_20b post n 153 top1 6 top10 15 (9.8%) vs exomiser diff 3.9 [-0.6, 9.0] p 0.15
+gemma3_12b post n 153 top1 3 top10 9 (5.9%) vs exomiser diff 0.0 [-5.2, 5.2] p 1
+llama3_1_8b post n 153 top1 2 top10 10 (6.5%) vs exomiser diff 0.7 [-4.3, 5.7] p 1

@@ -1,0 +1,97 @@
+fetus	gene	transcript	hgvs	zygosity	chrom	pos	ref	alt
+ajogmfm_nihf_gs|1	HBA2		NC_000016.10:151619_182295del					
+ajogmfm_nihf_gs|1	HBA1	NM_000517.6	c.179G>A		16	173208	G	A
+frontgen_ep300|1	EP300		c.4795delC		22	41176261	CC	C
+frontgen_ep300|2	EP300		c.6816delT		22	41178526	CT	C
+frontgen_ep300|3	EP300		c.1111A>G		22	41127691	A	G
+frontgen_wes_us|1	FGF8		c.559_573del	Het	10	101770490	AGCCCTTGCGGGGCCG	A
+frontgen_wes_us|10	KMT2D		c.6547_6560del	Het	12	49041209	GGGCTCCAGGGGATA	G
+frontgen_wes_us|11	DUOX2		c.1588A > T	Hom	15	45107450	T	A
+frontgen_wes_us|12	SOX5		c.501delA	Het	12	23755704	GT	G
+frontgen_wes_us|13	AKT1		c.49G > A	Mosaic (51/147)	14	104780214	C	T
+frontgen_wes_us|14	EFTUD2		c.1304_1305delTG	Het	17	44863762	GCA	G
+frontgen_wes_us|16	CREBBP		c.4614delC	Het	16	3736149	AG	A
+frontgen_wes_us|17	FGFR3		c.1118A > G	Het	4	1804372	A	G
+frontgen_wes_us|18	ALPL		c.532T > C	Het	1	21564100	T	C
+frontgen_wes_us|18	ALPL		c.655A > G	Het	1	21568110	A	G
+frontgen_wes_us|19	MCPH1		c.233 + 2T > G	Het	8	6414885	T	G
+frontgen_wes_us|19	MCPH1		c.229G > T	Het	8	6414879	G	T
+frontgen_wes_us|2	OBSL1		c.458dupG	Hom	2	219570775	C	CC
+frontgen_wes_us|20	SLC12A1		c.1411C > T	Het	15	48244863	C	T
+frontgen_wes_us|21	PTPN11		c.182A > G	Het	12	112450362	A	G
+frontgen_wes_us|22	EPHB4		c.2590C > T	Het	7	100805589	G	A
+frontgen_wes_us|23	ZIC3		c.102_124del	Het	X	137566792	GCATGGGGCTGAATCCCTTCGGGG	G
+frontgen_wes_us|24	GREB1L		c.2913delC	Het	18	21490233	CC	C
+frontgen_wes_us|25	BBS1		c.1177C > T	Hom	11	66526189	C	T
+frontgen_wes_us|26	BBS2		c.1814C > G	Het	16	56497063	G	C
+frontgen_wes_us|26	BBS2		c.534 + 1G > T	Het	16	56510858	C	A
+frontgen_wes_us|27	FAM111A		c.1020_1022del	Het	11	59152687	ATTC	A
+frontgen_wes_us|28	KDM1A		c.1167 + 1G > A	Het	1	23059168	G	A
+frontgen_wes_us|29	COL1A1		c.1615-1G > T	Het	17	50194184	C	A
+frontgen_wes_us|3	TSC2		c.1750_1754dup	Het	16	2070488	C	CACGCG
+frontgen_wes_us|30	PEX10		c.814_815del	Het	1	2406580	CAG	C
+frontgen_wes_us|30	PEX10		c.928T > C	Het	1	2405819	A	G
+frontgen_wes_us|31	RARS2		c.474_477del	Het	6	87545673	CTTCT	C
+frontgen_wes_us|31	RARS2		c.1564G > A	Het	6	87516828	C	T
+frontgen_wes_us|33	TP63		c.728G > A	Het	3	189864380	G	A
+frontgen_wes_us|4	AGK		c.424–2A > C	Het				
+frontgen_wes_us|4	AGK		c.1047-1G > T	Het	7	141651524	G	T
+frontgen_wes_us|5	PLD1		c.2197C > T	Het	3	171674532	G	A
+frontgen_wes_us|5	PLD1		c.1171C > T	Het	3	171699801	G	A
+frontgen_wes_us|6	PKD1		c.12391_12393del	Het	16	2090335	ACTC	A
+frontgen_wes_us|7	COL4A1		c.1181G > A	Het	13	110198571	C	T
+frontgen_wes_us|8	SNAP25		c.593G > C	Het	20	10306169	G	C
+frontgen_wes_us|9	DNMT3A		c.541C > T	Het	2	25275039	G	A
+jcla_karyo_wes|X112	SMAD6		c.834dupC	het	15	66711683	C	CC
+jcla_karyo_wes|X113	NOTCH1		c.4699delG	het	9	136504991	TC	T
+jcla_karyo_wes|X116	ANKRD11	2.1	c.988A>T	het	16	89285554	T	A
+jcla_karyo_wes|X166	MAP3K7		c.1535C>T	het	6	90518552	G	A
+jcla_karyo_wes|X168	MYH7		c.427C>T	het	14	23432714	G	A
+jcla_karyo_wes|X183	UBA2		c.771 + 1G>A	het	19	34445122	G	A
+jcla_karyo_wes|X203	NOTCH1		c.3082C>T	het	9	136508959	G	A
+jcla_karyo_wes|X218	PTPN11		c.1510A>G	het	12	112489086	A	G
+jml_romania|2	KMT2D		c.16342C>T	Het	12	49022350	G	A
+jml_romania|3	COL2A1		c.3469_3486dup	Het	12	47976534	C	CAGGGCCAGAAGGACCAGC
+jml_romania|4	COL1A2		c.1971+1G>C	Het	7	94417832	G	C
+jml_romania|5	CC2D2A		c.4675-1G>C	Homozygous	4	15601236	G	C
+jml_romania|6	NBAS	NM_15909.4	c.[539_540delinsTG	Het				
+jml_romania|6	NBAS	NM_15909.4	619C>T]	Het				
+jml_romania|6	NBAS	NM_15909.4	c.6573-1047A>G	Het				
+pd_rnu4atac|2	RNU4ATAC	NR_023343.3	n.[51G > A]	homozygous				
+pd_rnu4atac|2	RNU4ATAC	NR_023343.3	n.[51G > A]	homozygous				
+pd_rnu4atac|3	RNU4ATAC	NR_023343.3	n.[51G > A]	homozygous				
+pd_rnu4atac|3	RNU4ATAC	NR_023343.3	n.[51G > A]	homozygous				
+pd_rnu4atac|4	RNU4ATAC	NR_023343.3	n.[30G > A]	compound heterozygous				
+pd_rnu4atac|4	RNU4ATAC	NR_023343.3	n.[55G > A]	compound heterozygous				
+pd_rnu4atac|5	RNU4ATAC	NR_023343.3	n.[51G > A]	compound heterozygous				
+pd_rnu4atac|5	RNU4ATAC	NR_023343.3	n.[55G > A]	compound heterozygous				
+hydrops|NIHF1-003	HSPB1	NM_001540.5	c.476_477del	Het	7	76304030	CCT	C
+hydrops|NIHF1-004	BICD2	NM_001003800.2	c.2081G>A	Het	9	92718564	C	T
+hydrops|NIHF1-006	PTPN11	NM_002834.5	c.923A>G	Het	12	112477720	A	G
+hydrops|NIHF1-007	KLF1	NM_006563.5	c.973G>A	Het	19	12885001	C	T
+hydrops|NIHF1-008	RAF1	NM_002880.4	c.779C>T	Het	3	12604191	G	A
+hydrops|NIHF1-009	SUMF1	NM_182760.4	c.691dup	Hom	3	4418043	C	CA
+hydrops|NIHF1-011	NEU1	NM_000434.4	c.238C>A	Het	6	31862113	G	T
+hydrops|NIHF1-011	NEU1	NM_000434.4	c.1230_1234delinsGCCAAA	Het	6	31859733	AGACA	TTTGGC
+hydrops|NIHF1-012	RIT1	NM_006912.6	c.270G>C	Het	1	155904470	C	G
+hydrops|NIHF1-017	KMT2D	NM_003482.4	c.15239_15240del	Het	12	49026725	CCA	C
+hydrops|NIHF1-018	PIEZO1	NM_001142864.4	c.6328C>T	Het	16	88719717	G	A
+hydrops|NIHF1-018	PIEZO1	NM_001142864.4	c.4556A>C	Het	16	88722949	T	G
+hydrops|NIHF1-020	AMER1	NM_152424.4	c.1000G>T	Hemi	X	64192287	C	A
+hydrops|NIHF2-021	RYR1	NM_000540.3	c.11778+1G>T	Hom	19	38543436	G	T
+hydrops|NIHF1-022	RRAS2	NM_012250.6	c.110A>T	Het				
+hydrops|NIHF1-025	KMT2D	NM_003482.4	c.16360C>T	Het	12	49022332	G	A
+hydrops|NIHF1-029	PUF60	NM_078480.3	c.24+1G>T	Het	8	143829279	C	A
+hydrops|NIHF2-031	SOS1	NM_005633.4	c.806T>C	Het	2	39051202	A	G
+hydrops|NIHF2-031	SOS1	NM_005633.4	c.2536G>A	Het	2	39007168	C	T
+hydrops|NIHF1-032	RIT1	NM_006912.6	c.245T>G	Het	1	155904495	A	C
+hydrops|NIHF2-034	RYR1	NM_000540.3	c.7361G>A	Het	19	38500643	G	A
+hydrops|NIHF2-034	RYR1	NM_000540.3	c.6619del	Het	19	38496283	CG	C
+hydrops|NIHF1-039	BLTP1	NM_001384125.1	c.4916+2T>C	Het	4	122244029	T	C
+hydrops|NIHF1-039	BLTP1	NM_001384125.1	c.10671-1G>C	Het				
+hydrops|NIHF1-041	FLT4	NM_182925.5	c.3181G>C	Het	5	180616405	C	G
+hydrops|NIHF1-045	RIT1	NM_006912.6	c.170C>G	Het	1	155904798	G	C
+hydrops|NIHF1-046	LMOD2	NM_207163.3	c.702del	Het	7	123662286	GA	G
+hydrops|NIHF1-046	LMOD2	NM_207163.3	c.1446_1453dup	Het	7	123663024	A	AAAAAAGGG
+hydrops|NIHF1-038	PIEZO1	NM_001142864.4	c.7117C>T	Het	16	88716210	G	A
+hydrops|NIHF1-038	PIEZO1	NM_001142864.4	c.3133del	Het	16	88731768	AG	A

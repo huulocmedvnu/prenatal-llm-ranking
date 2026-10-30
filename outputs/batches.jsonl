@@ -1,0 +1,43 @@
+{"tag": "haiku-5-5_r1", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_01BcMYUqByCuaJZzSJ2qRd7j", "n": 335, "submitted": "2026-10-30T03:33:25"}
+{"tag": "sonnet-5-5_r1", "model": "claude-sonnet-5-5", "rep": 1, "batch_id": "msgbatch_01BFQ4esvKeo31RLWJkRh47m", "n": 335, "submitted": "2026-10-30T03:33:29"}
+{"tag": "opus-5-5_r1", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_01UHi4x3vqcf8BomUzbGoSmC", "n": 335, "submitted": "2026-10-30T03:33:32"}
+{"tag": "haiku-5-5_r2", "model": "claude-haiku-5-5", "rep": 2, "batch_id": "msgbatch_01R1jSb4Ph1ufM1GPESXiF7s", "n": 335, "submitted": "2026-10-30T03:47:03"}
+{"tag": "haiku-5-5_r3", "model": "claude-haiku-5-5", "rep": 3, "batch_id": "msgbatch_01YBpJGZMXfuJNViLmCAam7G", "n": 335, "submitted": "2026-10-30T03:47:06"}
+{"tag": "haiku-5-5_T2", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_012GJP9DAKiJ3tu2rAkobTFE", "n": 335, "submitted": "2026-10-30T04:17:33"}
+{"tag": "sonnet-5-5_T2", "model": "claude-sonnet-5-5", "rep": 1, "batch_id": "msgbatch_01EUQxPzLm9zxAih7GT93zki", "n": 335, "submitted": "2026-10-30T04:17:35"}
+{"tag": "opus-5-5_T2", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_01HHQ3nCycYHhsHZq9RZaJWJ", "n": 335, "submitted": "2026-10-30T04:17:37"}
+{"tag": "haiku-5-5_T3a_order", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_01DYt6LMNE6bZfbQAvAXeWtR", "n": 335, "submitted": "2026-10-30T04:17:40"}
+{"tag": "opus-5-5_T3a_order", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_01TQSJuDLrW2RXe9SWsBg4VT", "n": 335, "submitted": "2026-10-30T04:17:42"}
+{"tag": "haiku-5-5_T3b_synonym", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_019MPHEJ1UcAR2XJJq7hkMBD", "n": 335, "submitted": "2026-10-30T04:17:45"}
+{"tag": "opus-5-5_T3b_synonym", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_01UykDXJxYZZ3u3XpYzcUCek", "n": 335, "submitted": "2026-10-30T04:17:47"}
+{"tag": "haiku-5-5_T3c_hpoid", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_01JxSNddAo9xFArzbmFpzzfX", "n": 335, "submitted": "2026-10-30T04:17:49"}
+{"tag": "opus-5-5_T3c_hpoid", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_01MJeFMBLA339zNSyTMt1Uqu", "n": 335, "submitted": "2026-10-30T04:17:52"}
+{"tag": "haiku-5-5_S2_hpolabel", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_01XVcN5THmMSYfcDRdNWhfr5", "n": 335, "submitted": "2026-10-30T04:17:54"}
+{"tag": "opus-5-5_S2_hpolabel", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_0148FQtXmWoqKjnnVqr43id9", "n": 335, "submitted": "2026-10-30T04:17:57"}
+{"tag": "haiku-5-5_N1p1", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_015Ej7eWqJHqKDvfjxc9bSWC", "n": 335, "submitted": "2026-10-30T04:17:59"}
+{"tag": "haiku-5-5_N1p2", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_01HNyWMu9GqyTXrJ6BiBNJkk", "n": 335, "submitted": "2026-10-30T04:18:01"}
+{"tag": "haiku-5-5_N1p3", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_019YU6wdmXFB6Hya3LA2opvu", "n": 335, "submitted": "2026-10-30T04:18:04"}
+{"tag": "haiku-5-5_N1p4", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_01KBN9vPUa41n2UyxvPo1MyA", "n": 335, "submitted": "2026-10-30T04:18:06"}
+{"tag": "haiku-5-5_N1p5", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_01JVKe98qdrB8nhqaRfWLhXk", "n": 335, "submitted": "2026-10-30T04:18:08"}
+{"tag": "opus-5-5_N1p1", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_0153aqX29PPsBF4X9F1ojANi", "n": 335, "submitted": "2026-10-30T04:18:11"}
+{"tag": "sonnet-5-5_r2", "model": "claude-sonnet-5-5", "rep": 2, "batch_id": "msgbatch_01JjGq91d9e3vTRNwWwrgc68", "n": 335, "submitted": "2026-10-30T04:18:13"}
+{"tag": "opus-5-5_r2", "model": "claude-opus-5-5", "rep": 2, "batch_id": "msgbatch_01DjyKQLAyQVzVisi5Tre9q7", "n": 335, "submitted": "2026-10-30T04:18:15"}
+{"tag": "sonnet-5-5_r3", "model": "claude-sonnet-5-5", "rep": 3, "batch_id": "msgbatch_01BwApJuhJAB2fAwhgsCNFUK", "n": 335, "submitted": "2026-10-30T04:18:18"}
+{"tag": "opus-5-5_r3", "model": "claude-opus-5-5", "rep": 3, "batch_id": "msgbatch_01W6saZ9SxYAsjoLifXHWGAq", "n": 335, "submitted": "2026-10-30T04:18:20"}
+{"tag": "opus-5-5_new_r1", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_018A8NBxDWAk2rZ1JqnFTDc1", "cases": "scripts/cases_v2_new.json", "n": 117, "submitted": "2026-10-30T05:08:03"}
+{"tag": "opus-5-5_new_r2", "model": "claude-opus-5-5", "rep": 2, "batch_id": "msgbatch_01EmmJADEjwY8Ldoi3o5gubv", "cases": "scripts/cases_v2_new.json", "n": 117, "submitted": "2026-10-30T05:08:06"}
+{"tag": "opus-5-5_new_r3", "model": "claude-opus-5-5", "rep": 3, "batch_id": "msgbatch_0137g5eaXZXhnvy7SkhUvKnW", "cases": "scripts/cases_v2_new.json", "n": 117, "submitted": "2026-10-30T05:08:09"}
+{"tag": "sonnet-5-5_new_r1", "model": "claude-sonnet-5-5", "rep": 1, "batch_id": "msgbatch_01AJVowEELaQ55KNRu1Hc4Wb", "cases": "scripts/cases_v2_new.json", "n": 117, "submitted": "2026-10-30T05:08:12"}
+{"tag": "haiku-5-5_new_r1", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_01BeibA2J83x2jjFq55QVCP4", "cases": "scripts/cases_v2_new.json", "n": 117, "submitted": "2026-10-30T05:08:15"}
+{"tag": "rag_dev_A_opus", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_01K1CJKoVXei6cxWA61uQCSe", "cases": "scripts/rag_dev_A.json", "n": 299, "submitted": "2026-10-30T05:45:28"}
+{"tag": "rag_dev_B_opus", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_01G4FABbrRrsjXWg9iL5NqVa", "cases": "scripts/rag_dev_B.json", "n": 299, "submitted": "2026-10-30T05:45:32"}
+{"tag": "rag_dev_C_opus", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_011AM8C5fSYbh8mFUdvuLvDn", "cases": "scripts/rag_dev_C.json", "n": 299, "submitted": "2026-10-30T05:45:35"}
+{"tag": "rag_test_A_opus", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_01DadpNA2S2WrcVYGGSwbok5", "cases": "scripts/rag_test_A.json", "n": 153, "submitted": "2026-10-30T05:50:04"}
+{"tag": "rag_test_A_sonnet", "model": "claude-sonnet-5-5", "rep": 1, "batch_id": "msgbatch_01Ry5mNsp3U14DqbGGjYXciE", "cases": "scripts/rag_test_A.json", "n": 153, "submitted": "2026-10-30T05:50:07"}
+{"tag": "rag_test_A_haiku", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_01BA3L1E3m8SRnvPCbPPf2vq", "cases": "scripts/rag_test_A.json", "n": 153, "submitted": "2026-10-30T05:50:10"}
+{"tag": "v1_rerank_opus-5-5", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_01UG7X1LNwwJuBSwM6Jgjiu2", "cases": "v1/rerank_cases.json", "n": 185, "submitted": "2026-10-30T06:29:05"}
+{"tag": "v1_rerank_sonnet-5-5", "model": "claude-sonnet-5-5", "rep": 1, "batch_id": "msgbatch_015b1ucUsSCddWzDBMuRtHyW", "cases": "v1/rerank_cases.json", "n": 185, "submitted": "2026-10-30T06:29:08"}
+{"tag": "v1_rerank_haiku-5-5", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_01TXD37gQS8RZ8Q2hPjvepUi", "cases": "v1/rerank_cases.json", "n": 185, "submitted": "2026-10-30T06:29:11"}
+{"tag": "v1p_rerank_opus-5-5", "model": "claude-opus-5-5", "rep": 1, "batch_id": "msgbatch_011HaXF8mW9dx6Rz5TRdY86Z", "cases": "v1p/rerank_cases.json", "n": 66, "submitted": "2026-10-30T07:59:04"}
+{"tag": "v1p_rerank_sonnet-5-5", "model": "claude-sonnet-5-5", "rep": 1, "batch_id": "msgbatch_01E7ehRZvVD5uNjP4e7JvPwp", "cases": "v1p/rerank_cases.json", "n": 66, "submitted": "2026-10-30T07:59:07"}
+{"tag": "v1p_rerank_haiku-5-5", "model": "claude-haiku-5-5", "rep": 1, "batch_id": "msgbatch_0145AXQKKbd7rSQHwa17h17H", "cases": "v1p/rerank_cases.json", "n": 66, "submitted": "2026-10-30T07:59:10"}

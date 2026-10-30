@@ -1,0 +1,21 @@
+post-cutoff fetuses: 153
+  exomiser_hiphive   top1   2 top10   9 (5.9%) top50 19
+  exomiser_human     top1   2 top10  12 (7.8%) top50 23
+  resnik             top1   1 top10  11 (7.2%) top50 27
+  opus_r1            top1  16 top10  33 (21.6%) top50 62
+  sonnet_r1          top1  15 top10  36 (23.5%) top50 56
+  haiku_r1           top1  12 top10  29 (19.0%) top50 49
+  opus_r2            top1  14 top10  30 (19.6%) top50 56
+  opus_r3            top1  15 top10  31 (20.3%) top50 57
+  PRIMARY sonnet_r1: diff 17.6 CI [11.5, 24.4] p 1.12e-07 holm 3.35e-07 boot [10.2, 25.5]
+  PRIMARY opus_r1: diff 15.7 CI [10.2, 22.0] p 1.19e-07 holm 3.35e-07 boot [9.8, 21.8]
+  PRIMARY haiku_r1: diff 13.1 CI [7.6, 19.3] p 1.10e-05 holm 1.10e-05 boot [7.6, 18.8]
+  ajogmfm_nihf_gs  opus    0/1 exo    0/1 resnik    0/1
+  aogs2026         opus  13/36 exo   2/36 resnik   3/36
+  frontgen_ep300   opus    0/3 exo    0/3 resnik    0/3
+  frontgen_wes_us  opus   6/31 exo   2/31 resnik   3/31
+  hydrops          opus   3/23 exo   0/23 resnik   0/23
+  jcla_karyo_wes   opus    3/8 exo    2/8 resnik    2/8
+  jml_romania      opus    3/5 exo    1/5 resnik    0/5
+  pd_rnu4atac      opus    0/4 exo    0/4 resnik    1/4
+  uog_odyssey      opus   5/42 exo   2/42 resnik   2/42

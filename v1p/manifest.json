@@ -1,0 +1,464 @@
+{
+ "frontgen_ep300_1": {
+  "key": "frontgen_ep300|1",
+  "genes": [
+   "EP300"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_ep300_2": {
+  "key": "frontgen_ep300|2",
+  "genes": [
+   "EP300"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_ep300_3": {
+  "key": "frontgen_ep300|3",
+  "genes": [
+   "EP300"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_1": {
+  "key": "frontgen_wes_us|1",
+  "genes": [
+   "FGF8"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_10": {
+  "key": "frontgen_wes_us|10",
+  "genes": [
+   "KMT2D"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_11": {
+  "key": "frontgen_wes_us|11",
+  "genes": [
+   "DUOX2"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_12": {
+  "key": "frontgen_wes_us|12",
+  "genes": [
+   "SOX5"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_13": {
+  "key": "frontgen_wes_us|13",
+  "genes": [
+   "AKT1"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_14": {
+  "key": "frontgen_wes_us|14",
+  "genes": [
+   "EFTUD2"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_16": {
+  "key": "frontgen_wes_us|16",
+  "genes": [
+   "CREBBP"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_17": {
+  "key": "frontgen_wes_us|17",
+  "genes": [
+   "FGFR3"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_18": {
+  "key": "frontgen_wes_us|18",
+  "genes": [
+   "ALPL"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_19": {
+  "key": "frontgen_wes_us|19",
+  "genes": [
+   "MCPH1"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_2": {
+  "key": "frontgen_wes_us|2",
+  "genes": [
+   "OBSL1"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_20": {
+  "key": "frontgen_wes_us|20",
+  "genes": [
+   "SLC12A1"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_21": {
+  "key": "frontgen_wes_us|21",
+  "genes": [
+   "PTPN11"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_22": {
+  "key": "frontgen_wes_us|22",
+  "genes": [
+   "EPHB4"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_23": {
+  "key": "frontgen_wes_us|23",
+  "genes": [
+   "ZIC3"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_24": {
+  "key": "frontgen_wes_us|24",
+  "genes": [
+   "GREB1L"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_25": {
+  "key": "frontgen_wes_us|25",
+  "genes": [
+   "BBS1"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_26": {
+  "key": "frontgen_wes_us|26",
+  "genes": [
+   "BBS2"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_27": {
+  "key": "frontgen_wes_us|27",
+  "genes": [
+   "FAM111A"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_28": {
+  "key": "frontgen_wes_us|28",
+  "genes": [
+   "KDM1A"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_29": {
+  "key": "frontgen_wes_us|29",
+  "genes": [
+   "COL1A1"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_3": {
+  "key": "frontgen_wes_us|3",
+  "genes": [
+   "TSC2"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_30": {
+  "key": "frontgen_wes_us|30",
+  "genes": [
+   "PEX10"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_31": {
+  "key": "frontgen_wes_us|31",
+  "genes": [
+   "RARS2"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_33": {
+  "key": "frontgen_wes_us|33",
+  "genes": [
+   "TP63"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_5": {
+  "key": "frontgen_wes_us|5",
+  "genes": [
+   "PLD1"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_6": {
+  "key": "frontgen_wes_us|6",
+  "genes": [
+   "PKD1"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_7": {
+  "key": "frontgen_wes_us|7",
+  "genes": [
+   "COL4A1"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_8": {
+  "key": "frontgen_wes_us|8",
+  "genes": [
+   "SNAP25"
+  ],
+  "background": "HG005"
+ },
+ "frontgen_wes_us_9": {
+  "key": "frontgen_wes_us|9",
+  "genes": [
+   "DNMT3A"
+  ],
+  "background": "HG005"
+ },
+ "jcla_karyo_wes_X112": {
+  "key": "jcla_karyo_wes|X112",
+  "genes": [
+   "SMAD6"
+  ],
+  "background": "HG005"
+ },
+ "jcla_karyo_wes_X113": {
+  "key": "jcla_karyo_wes|X113",
+  "genes": [
+   "NOTCH1"
+  ],
+  "background": "HG005"
+ },
+ "jcla_karyo_wes_X116": {
+  "key": "jcla_karyo_wes|X116",
+  "genes": [
+   "ANKRD11"
+  ],
+  "background": "HG005"
+ },
+ "jcla_karyo_wes_X166": {
+  "key": "jcla_karyo_wes|X166",
+  "genes": [
+   "MAP3K7"
+  ],
+  "background": "HG005"
+ },
+ "jcla_karyo_wes_X168": {
+  "key": "jcla_karyo_wes|X168",
+  "genes": [
+   "MYH7"
+  ],
+  "background": "HG005"
+ },
+ "jcla_karyo_wes_X183": {
+  "key": "jcla_karyo_wes|X183",
+  "genes": [
+   "UBA2"
+  ],
+  "background": "HG005"
+ },
+ "jcla_karyo_wes_X203": {
+  "key": "jcla_karyo_wes|X203",
+  "genes": [
+   "NOTCH1"
+  ],
+  "background": "HG005"
+ },
+ "jcla_karyo_wes_X218": {
+  "key": "jcla_karyo_wes|X218",
+  "genes": [
+   "PTPN11"
+  ],
+  "background": "HG005"
+ },
+ "jml_romania_2": {
+  "key": "jml_romania|2",
+  "genes": [
+   "KMT2D"
+  ],
+  "background": "HG002"
+ },
+ "jml_romania_3": {
+  "key": "jml_romania|3",
+  "genes": [
+   "COL2A1"
+  ],
+  "background": "HG002"
+ },
+ "jml_romania_4": {
+  "key": "jml_romania|4",
+  "genes": [
+   "COL1A2"
+  ],
+  "background": "HG002"
+ },
+ "jml_romania_5": {
+  "key": "jml_romania|5",
+  "genes": [
+   "CC2D2A"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-003": {
+  "key": "hydrops|NIHF1-003",
+  "genes": [
+   "HSPB1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-004": {
+  "key": "hydrops|NIHF1-004",
+  "genes": [
+   "BICD2"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-006": {
+  "key": "hydrops|NIHF1-006",
+  "genes": [
+   "PTPN11"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-007": {
+  "key": "hydrops|NIHF1-007",
+  "genes": [
+   "KLF1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-008": {
+  "key": "hydrops|NIHF1-008",
+  "genes": [
+   "RAF1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-009": {
+  "key": "hydrops|NIHF1-009",
+  "genes": [
+   "SUMF1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-011": {
+  "key": "hydrops|NIHF1-011",
+  "genes": [
+   "NEU1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-012": {
+  "key": "hydrops|NIHF1-012",
+  "genes": [
+   "RIT1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-017": {
+  "key": "hydrops|NIHF1-017",
+  "genes": [
+   "KMT2D"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-018": {
+  "key": "hydrops|NIHF1-018",
+  "genes": [
+   "PIEZO1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-020": {
+  "key": "hydrops|NIHF1-020",
+  "genes": [
+   "AMER1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF2-021": {
+  "key": "hydrops|NIHF2-021",
+  "genes": [
+   "RYR1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-025": {
+  "key": "hydrops|NIHF1-025",
+  "genes": [
+   "KMT2D"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-029": {
+  "key": "hydrops|NIHF1-029",
+  "genes": [
+   "PUF60"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF2-031": {
+  "key": "hydrops|NIHF2-031",
+  "genes": [
+   "SOS1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-032": {
+  "key": "hydrops|NIHF1-032",
+  "genes": [
+   "RIT1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF2-034": {
+  "key": "hydrops|NIHF2-034",
+  "genes": [
+   "RYR1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-041": {
+  "key": "hydrops|NIHF1-041",
+  "genes": [
+   "FLT4"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-045": {
+  "key": "hydrops|NIHF1-045",
+  "genes": [
+   "RIT1"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-046": {
+  "key": "hydrops|NIHF1-046",
+  "genes": [
+   "LMOD2"
+  ],
+  "background": "HG002"
+ },
+ "hydrops_NIHF1-038": {
+  "key": "hydrops|NIHF1-038",
+  "genes": [
+   "PIEZO1"
+  ],
+  "background": "HG002"
+ }
+}

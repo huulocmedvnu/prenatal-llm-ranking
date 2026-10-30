@@ -1,0 +1,309 @@
+cohort,source_location,case,genes,inheritance,finding,hpo_id,hpo_name,map_rule,gestational_age,transcript,hgvs_c,zygosity,origin
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,Pleural effusion,HP:0002202,Pleural effusion,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,pericardial effusion,HP:0001698,Pericardial effusion,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,ascites,HP:0001541,Ascites,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,skin edema,HP:0025672,Fetal skin edema,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,elevated MCA Doppler,HP:0034191,Elevated fetal middle cerebral artery peak systolic velocity,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,cardiomegaly,HP:0001640,Cardiomegaly,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,enlarged right atrium,HP:0030718,Right atrial enlargement,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,hyperplastic myocardium,HP:0001714,Ventricular hypertrophy,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,tricuspid regurgitation,HP:0005180,Tricuspid regurgitation,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,aortic arch hypoplasia,HP:0012304,Hypoplastic aortic arch,synonym,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+frontgen_ep300,"Table 1, row 1",1,EP300,AD,Exencephaly,HP:0030769,Exencephaly,exact label,12 weeks,,c.4795delC,,
+frontgen_ep300,"Table 1, row 2",2,EP300,AD,Rhabdomyoma,HP:0009730,Rhabdomyoma,exact label,24 weeks,,c.6816delT,,
+frontgen_ep300,"Table 1, row 3",3,EP300,AD,Bilateral talipes equinovarus,HP:0001776,Bilateral talipes equinovarus,exact label,27 weeks,,c.1111A>G,,
+frontgen_ep300,"Table 1, row 3; Table 2, row 3",3,EP300,AD,FL: M - 2.1SD,HP:0011428,Short fetal femur length,adjudicated (B),27 weeks,NM_001429.3,c.1111A>G,,de novo
+frontgen_ep300,"Table 1, row 3; Table 2, row 3",3,EP300,AD,HL: M - 3.1SD,HP:0011429,Short fetal humerus length,adjudicated (B),27 weeks,NM_001429.3,c.1111A>G,,de novo
+frontgen_ep300,"Table 1, row 3; Table 2, row 3",3,EP300,AD,Bilateral thick plantar surfaces,HP:0100872,Abnormality of the plantar skin of foot,adjudicated (B),27 weeks,NM_001429.3,c.1111A>G,,de novo
+frontgen_wes_us,"Table 2, row 1",1,FGF8,AD,Cleft lip,HP:0410030,Cleft lip,exact label,,,c.559_573del,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 1",1,FGF8,AD,cleft palate,HP:0000175,Cleft palate,exact label,,,c.559_573del,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 1",1,FGF8,AD,oral cleft,HP:0000202,Orofacial cleft,synonym,,,c.559_573del,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 10",10,KMT2D,AD,Ventriculomegaly,HP:0002119,Ventriculomegaly,exact label,,,c.6547_6560del,Het,Denovo
+frontgen_wes_us,"Table 2, row 10",10,KMT2D,AD,renal cortical cysts,HP:0000803,Renal cortical cysts,exact label,,,c.6547_6560del,Het,Denovo
+frontgen_wes_us,"Table 2, row 10",10,KMT2D,AD,hyperechogenic kidneys,HP:0004719,Hyperechogenic kidneys,exact label,,,c.6547_6560del,Het,Denovo
+frontgen_wes_us,"Table 2, row 10",10,KMT2D,AD,Dilatation of the renal pelvis,HP:0010946,Dilatation of the renal pelvis,exact label,,,c.6547_6560del,Het,Denovo
+frontgen_wes_us,"Table 2, row 10",10,KMT2D,AD,oligohydramnios,HP:0001562,Oligohydramnios,exact label,,,c.6547_6560del,Het,Denovo
+frontgen_wes_us,"Table 2, row 11",11,DUOX2,AR,Atrial septal defect,HP:0001631,Atrial septal defect,exact label,,,c.1588A > T,Hom,Paternal/Maternal (het)
+frontgen_wes_us,"Table 2, row 11",11,DUOX2,AR,abnormal heart morphology,HP:0001627,Abnormal heart morphology,exact label,,,c.1588A > T,Hom,Paternal/Maternal (het)
+frontgen_wes_us,"Table 2, row 12",12,SOX5,AD,Intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.501delA,Het,Maternal (het)
+frontgen_wes_us,"Table 2, row 12",12,SOX5,AD,aplasia of the nasal bone,HP:0010941,Aplasia of the nasal bone,exact label,,,c.501delA,Het,Maternal (het)
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,Overgrowth,HP:0001548,Overgrowth,exact label,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,increased head circumference,HP:0040194,Increased head circumference,exact label,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,abnormality of neuronal migration,HP:0002269,Abnormality of neuronal migration,exact label,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,abnormal morphology of the great vessels,HP:0030962,Abnormal morphology of the great vessels,exact label,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,dilation oflateralventricles,HP:0006956,Lateral ventricle dilatation,manual,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 13",13,AKT1,-,thin corpus callosum,HP:0033725,Thin corpus callosum,exact label,,,c.49G > A,Mosaic (51/147),Denovo
+frontgen_wes_us,"Table 2, row 14",14,EFTUD2,AD,Cleft palate,HP:0000175,Cleft palate,exact label,,,c.1304_1305delTG,Het,Denovo
+frontgen_wes_us,"Table 2, row 14",14,EFTUD2,AD,thickened nuchal skin fold,HP:0000474,Thickened nuchal skin fold,exact label,,,c.1304_1305delTG,Het,Denovo
+frontgen_wes_us,"Table 2, row 14",14,EFTUD2,AD,decreased head circumference,HP:0040195,Decreased head circumference,exact label,,,c.1304_1305delTG,Het,Denovo
+frontgen_wes_us,"Table 2, row 14",14,EFTUD2,AD,talipesequinovarus,HP:0001762,Talipes equinovarus,manual,,,c.1304_1305delTG,Het,Denovo
+frontgen_wes_us,"Table 2, row 16",16,CREBBP,AD,Cleft lip,HP:0410030,Cleft lip,exact label,,,c.4614delC,Het,Denovo
+frontgen_wes_us,"Table 2, row 16",16,CREBBP,AD,cleft palate,HP:0000175,Cleft palate,exact label,,,c.4614delC,Het,Denovo
+frontgen_wes_us,"Table 2, row 16",16,CREBBP,AD,orofacialcleft,HP:0000202,Orofacial cleft,manual,,,c.4614delC,Het,Denovo
+frontgen_wes_us,"Table 2, row 17",17,FGFR3,AD,Short long bone,HP:0003026,Short long bone,exact label,,,c.1118A > G,Het,Unknown
+frontgen_wes_us,"Table 2, row 17",17,FGFR3,AD,limb undergrowth,HP:0009826,Limb undergrowth,exact label,,,c.1118A > G,Het,Unknown
+frontgen_wes_us,"Table 2, row 17",17,FGFR3,AD,intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.1118A > G,Het,Unknown
+frontgen_wes_us,"Table 2, row 18",18,ALPL,AR,Flexioncontracture,HP:0001371,Flexion contracture,manual,,,c.532T > C;c.655A > G,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 18",18,ALPL,AR,fetal akinesia sequence,HP:0001989,Fetal akinesia sequence,exact label,,,c.532T > C;c.655A > G,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 19",19,MCPH1,AR,Microcephaly,HP:0000252,Microcephaly,exact label,,,c.233 + 2T > G;c.229G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 19",19,MCPH1,AR,cortical dysplasia,HP:0002539,Cortical dysplasia,exact label,,,c.233 + 2T > G;c.229G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 19",19,MCPH1,AR,abnormal cortical gyration,HP:0002536,Abnormal cortical gyration,exact label,,,c.233 + 2T > G;c.229G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 19",19,MCPH1,AR,abnormality of neuronal migration,HP:0002269,Abnormality of neuronal migration,exact label,,,c.233 + 2T > G;c.229G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 19",19,MCPH1,AR,aplasia/Hypoplasia of the cerebellar vermis,HP:0006817,Aplasia/Hypoplasia of the cerebellar vermis,exact label,,,c.233 + 2T > G;c.229G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 2",2,OBSL1,AR,Intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.458dupG,Hom,Paternal/Maternal (het)
+frontgen_wes_us,"Table 2, row 20",20,SLC12A1,AR,Polyhydramnios,HP:0001561,Polyhydramnios,exact label,,,c.1411C > T,Het,Maternal (het)
+frontgen_wes_us,"Table 2, row 20",20,SLC12A1,AR,hydrops,HP:0001789,Hydrops fetalis,adjudicated,,,c.1411C > T,Het,Maternal (het)
+frontgen_wes_us,"Table 2, row 21",21,PTPN11,AD,Aplasia/Hypoplasia of the cerebellum,HP:0007360,Aplasia/Hypoplasia of the cerebellum,exact label,,,c.182A > G,Het,Denovo
+frontgen_wes_us,"Table 2, row 21",21,PTPN11,AD,talipes,HP:0001883,Talipes,exact label,,,c.182A > G,Het,Denovo
+frontgen_wes_us,"Table 2, row 22",22,EPHB4,AD,Dilatation of the renal pelvis,HP:0010946,Dilatation of the renal pelvis,exact label,,,c.2590C > T,Het,Denovo
+frontgen_wes_us,"Table 2, row 22",22,EPHB4,AD,echogenic intracardiac focus,HP:0010942,Echogenic intracardiac focus,exact label,,,c.2590C > T,Het,Denovo
+frontgen_wes_us,"Table 2, row 22",22,EPHB4,AD,aplasia of the gallbladder,HP:0011467,Absent gallbladder,synonym,,,c.2590C > T,Het,Denovo
+frontgen_wes_us,"Table 2, row 23",23,ZIC3,XLR,Truncus arteriosus,HP:0001660,Truncus arteriosus,exact label,,,c.102_124del,Het,Maternal
+frontgen_wes_us,"Table 2, row 24",24,GREB1L,AD,Fetal bowel dilatation,HP:4000140,Fetal bowel dilatation,exact label,,,c.2913delC,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 24",24,GREB1L,AD,echogenic fetal bowel,HP:0010943,Echogenic fetal bowel,exact label,,,c.2913delC,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 24",24,GREB1L,AD,abnormal bladder morphology,HP:0025487,Abnormal bladder morphology,exact label,,,c.2913delC,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 24",24,GREB1L,AD,anal atresia,HP:0002023,Anal atresia,exact label,,,c.2913delC,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 24",24,GREB1L,AD,cloacal abnormality,HP:0012620,Cloacal abnormality,exact label,,,c.2913delC,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 25",25,BBS1,AR,Polycystic kidney,HP:0000113,Polycystic kidney dysplasia,manual,,,c.1177C > T,Hom,Paternal/Maternal (het)
+frontgen_wes_us,"Table 2, row 25",25,BBS1,AR,oligohydramnios,HP:0001562,Oligohydramnios,exact label,,,c.1177C > T,Hom,Paternal/Maternal (het)
+frontgen_wes_us,"Table 2, row 26",26,BBS2,AR,Hyperechogenic Kidneys,HP:0004719,Hyperechogenic kidneys,exact label,,,c.1814C > G;c.534 + 1G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 26",26,BBS2,AR,enlarged kidneys,HP:0000105,Enlarged kidney,manual,,,c.1814C > G;c.534 + 1G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 26",26,BBS2,AR,oligohydramnios,HP:0001562,Oligohydramnios,exact label,,,c.1814C > G;c.534 + 1G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 27",27,FAM111A,AD,Short long bones,HP:0003026,Short long bone,manual,,,c.1020_1022del,Het,Unknown
+frontgen_wes_us,"Table 2, row 27",27,FAM111A,AD,bowing of the long bones,HP:0006487,Bowing of the long bones,exact label,,,c.1020_1022del,Het,Unknown
+frontgen_wes_us,"Table 2, row 27",27,FAM111A,AD,abnormality of calvarial morphology,HP:0002683,Abnormal calvaria morphology,manual,,,c.1020_1022del,Het,Unknown
+frontgen_wes_us,"Table 2, row 27",27,FAM111A,AD,intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.1020_1022del,Het,Unknown
+frontgen_wes_us,"Table 2, row 27",27,FAM111A,AD,coarctation of aorta,HP:0001680,Coarctation of aorta,exact label,,,c.1020_1022del,Het,Unknown
+frontgen_wes_us,"Table 2, row 28",28,KDM1A,AD,Abnormality of the vertebral column,HP:0000925,Abnormality of the vertebral column,exact label,,,c.1167 + 1G > A,Het,Unknown
+frontgen_wes_us,"Table 2, row 28",28,KDM1A,AD,dilation of lateral ventricles,HP:0006956,Lateral ventricle dilatation,synonym,,,c.1167 + 1G > A,Het,Unknown
+frontgen_wes_us,"Table 2, row 29",29,COL1A1,AD,Left femur curvature,HP:0002980,Femoral bowing,manual,,,c.1615-1G > T,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 3",3,TSC2,AD,Intracranial multiple hyperechoic nodules,HP:0012443,Abnormal brain morphology,manual,,,c.1750_1754dup,Het,Denovo
+frontgen_wes_us,"Table 2, row 3",3,TSC2,AD,cardiac rhabdomyoma,HP:0009729,Cardiac rhabdomyoma,exact label,,,c.1750_1754dup,Het,Denovo
+frontgen_wes_us,"Table 2, row 3",3,TSC2,AD,cortical tubercle,HP:0009717,Cortical tubers,manual,,,c.1750_1754dup,Het,Denovo
+frontgen_wes_us,"Table 2, row 30",30,PEX10,AR,Right ventricular double outlet,HP:0001719,Double outlet right ventricle,manual,,,c.814_815del;c.928T > C,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 30",30,PEX10,AR,ventricular septal defect,HP:0001629,Ventricular septal defect,exact label,,,c.814_815del;c.928T > C,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 30",30,PEX10,AR,pulmonary stenosis,HP:0001642,Pulmonic stenosis,synonym,,,c.814_815del;c.928T > C,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 30",30,PEX10,AR,absence of pulmonary valve,HP:0005134,Absence of the pulmonary valve,manual,,,c.814_815del;c.928T > C,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 31",31,RARS2,AR,Intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.474_477del;c.1564G > A,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 31",31,RARS2,AR,subependymal cysts,HP:0002416,Subependymal cysts,exact label,,,c.474_477del;c.1564G > A,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 31",31,RARS2,AR,cerebellar hypoplasia,HP:0001321,Cerebellar hypoplasia,exact label,,,c.474_477del;c.1564G > A,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 31",31,RARS2,AR,bilateral talipes equinovarus,HP:0001776,Bilateral talipes equinovarus,exact label,,,c.474_477del;c.1564G > A,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 33",33,TP63,AD,Bipedal cleft deformity,HP:0001839,Split foot,manual,,,c.728G > A,Het,Unknown
+frontgen_wes_us,"Table 2, row 33",33,TP63,AD,left hand cleft deformity,HP:0001171,Split hand,manual,,,c.728G > A,Het,Unknown
+frontgen_wes_us,"Table 2, row 4",4,AGK,AR,Cataract,HP:0000518,Cataract,exact label,,,c.424–2A > C;c.1047-1G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 4",4,AGK,AR,subependymal cysts,HP:0002416,Subependymal cysts,exact label,,,c.424–2A > C;c.1047-1G > T,Het;Het,Paternal (het);Maternal (het)
+frontgen_wes_us,"Table 2, row 5",5,PLD1,AR,Tetralogy of fallot,HP:0001636,Tetralogy of Fallot,exact label,,,c.2197C > T;c.1171C > T,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 5",5,PLD1,AR,tricuspid regurgitation,HP:0005180,Tricuspid regurgitation,exact label,,,c.2197C > T;c.1171C > T,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 5",5,PLD1,AR,ventricular hypertrophy,HP:0001714,Ventricular hypertrophy,exact label,,,c.2197C > T;c.1171C > T,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 5",5,PLD1,AR,pericardial effusion,HP:0001698,Pericardial effusion,exact label,,,c.2197C > T;c.1171C > T,Het;Het,Maternal (het);Paternal (het)
+frontgen_wes_us,"Table 2, row 6",6,PKD1,AD,Renal cyst,HP:0000107,Renal cyst,exact label,,,c.12391_12393del,Het,Unknown
+frontgen_wes_us,"Table 2, row 7",7,COL4A1,AD,Hydrocephalus,HP:0000238,Hydrocephalus,exact label,,,c.1181G > A,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 7",7,COL4A1,AD,inferior vermis hypoplasia,HP:0007068,Inferior cerebellar vermis hypoplasia,synonym,,,c.1181G > A,Het,Paternal (het)
+frontgen_wes_us,"Table 2, row 8",8,SNAP25,AD,Thickened nuchal skin Fold,HP:0000474,Thickened nuchal skin fold,exact label,,,c.593G > C,Het,Denovo
+frontgen_wes_us,"Table 2, row 8",8,SNAP25,AD,talipes equinovarus,HP:0001762,Talipes equinovarus,exact label,,,c.593G > C,Het,Denovo
+frontgen_wes_us,"Table 2, row 8",8,SNAP25,AD,flexion contracture,HP:0001371,Flexion contracture,exact label,,,c.593G > C,Het,Denovo
+frontgen_wes_us,"Table 2, row 8",8,SNAP25,AD,pleural effusion,HP:0002202,Pleural effusion,exact label,,,c.593G > C,Het,Denovo
+frontgen_wes_us,"Table 2, row 9",9,DNMT3A,AD,Intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,exact label,,,c.541C > T,Het,Denovo
+jcla_karyo_wes,"Table 8, row 7 (Cardiac type)",X112,SMAD6,AD,Septal defects,HP:0001671,Abnormal cardiac septum morphology,synonym,,,c.834dupC,het,
+jcla_karyo_wes,"Table 8, row 7 (Extracardiac abnormalities)",X112,SMAD6,AD,Urinary system anomalies,HP:0000079,Abnormality of the urinary system,manual,,,c.834dupC,het,
+jcla_karyo_wes,"Table 8, row 1 (Cardiac type)",X113,NOTCH1,AD,LVOTO,HP:0032092,Left ventricular outflow tract obstruction,manual,,,c.4699delG,het,paternal
+jcla_karyo_wes,"Discussion, NOTCH1 paragraph (both NOTCH1 cases)",X113,NOTCH1,AD,aortic atresia,HP:0010883,Aortic valve atresia,synonym,,,c.4699delG,het,paternal
+jcla_karyo_wes,"Discussion, NOTCH1 paragraph (both NOTCH1 cases)",X113,NOTCH1,AD,hypoplasia of the ascending aorta and aortic arch,HP:0031935,Ascending aorta hypoplasia,manual,,,c.4699delG,het,paternal
+jcla_karyo_wes,"Discussion, NOTCH1 paragraph (both NOTCH1 cases)",X113,NOTCH1,AD,hypoplasia of the ascending aorta and aortic arch,HP:0012304,Hypoplastic aortic arch,manual,,,c.4699delG,het,paternal
+jcla_karyo_wes,"Discussion, NOTCH1 paragraph (both NOTCH1 cases)",X113,NOTCH1,AD,hypoplastic left-sided heart syndrome,HP:0004383,Hypoplastic left ventricle,manual,,,c.4699delG,het,paternal
+jcla_karyo_wes,"Table 8, row 8 (Cardiac type)",X116,ANKRD11,AD,RVOTO,HP:4000143,Abnormal fetal heart outflow tract,manual,,2.1,c.988A>T,het,maternal
+jcla_karyo_wes,"Table 8, row 8 (Extracardiac abnormalities)",X116,ANKRD11,AD,Nervous system anomalies,HP:0012639,Abnormal nervous system morphology,manual,,2.1,c.988A>T,het,maternal
+jcla_karyo_wes,"Table 8, row 5 (Cardiac type)",X166,MAP3K7,AD,CTD,HP:0001710,Conotruncal defect,manual,,,c.1535C>T,het,
+jcla_karyo_wes,"Table 8, row 5 (Extracardiac abnormalities)",X166,MAP3K7,AD,Nervous system anomalies,HP:0012639,Abnormal nervous system morphology,manual,,,c.1535C>T,het,
+jcla_karyo_wes,"Table 8, row 5 (Extracardiac abnormalities)",X166,MAP3K7,AD,Skeletal system anomalies,HP:0000924,Abnormality of the skeletal system,manual,,,c.1535C>T,het,
+jcla_karyo_wes,"Table 8, row 2 (Cardiac type)",X168,MYH7,AD,LVOTO,HP:0032092,Left ventricular outflow tract obstruction,manual,,,c.427C>T,het,maternal
+jcla_karyo_wes,"Results, trio-WES paragraph (recurrence in the current fetus)",X168,MYH7,AD,left ventricular non-compaction,HP:0030682,Left ventricular noncompaction,manual,,,c.427C>T,het,maternal
+jcla_karyo_wes,"Table 8, row 6 (Cardiac type)",X183,UBA2,AD,CTD,HP:0001710,Conotruncal defect,manual,,,c.771 + 1G>A,het,
+jcla_karyo_wes,"Table 8, row 4 (Cardiac type)",X203,NOTCH1,AD,SV/Complex SV,HP:0001750,Single ventricle,manual,,,c.3082C>T,het,
+jcla_karyo_wes,"Discussion, NOTCH1 paragraph (both NOTCH1 cases)",X203,NOTCH1,AD,aortic atresia,HP:0010883,Aortic valve atresia,synonym,,,c.3082C>T,het,
+jcla_karyo_wes,"Discussion, NOTCH1 paragraph (both NOTCH1 cases)",X203,NOTCH1,AD,hypoplasia of the ascending aorta and aortic arch,HP:0031935,Ascending aorta hypoplasia,manual,,,c.3082C>T,het,
+jcla_karyo_wes,"Discussion, NOTCH1 paragraph (both NOTCH1 cases)",X203,NOTCH1,AD,hypoplasia of the ascending aorta and aortic arch,HP:0012304,Hypoplastic aortic arch,manual,,,c.3082C>T,het,
+jcla_karyo_wes,"Discussion, NOTCH1 paragraph (both NOTCH1 cases)",X203,NOTCH1,AD,hypoplastic left-sided heart syndrome,HP:0004383,Hypoplastic left ventricle,manual,,,c.3082C>T,het,
+jcla_karyo_wes,"Table 8, row 3 (Cardiac type)",X218,PTPN11,AD,CTD,HP:0001710,Conotruncal defect,manual,,,c.1510A>G,het,
+jml_romania,"Table 1, row 2",2,KMT2D,AD,Single umbilical artery,HP:0001195,Single umbilical artery,exact label,22 weeks,,c.16342C>T,Het,
+jml_romania,"Table 1, row 2",2,KMT2D,AD,Cardiac complex malformation: apex is formed by right ventricle,HP:0001627,Abnormal heart morphology,manual,22 weeks,,c.16342C>T,Het,
+jml_romania,"Table 1, row 2",2,KMT2D,AD,hypoplastic left heart,HP:0004383,Hypoplastic left ventricle,manual,22 weeks,,c.16342C>T,Het,
+jml_romania,"Table 1, row 2",2,KMT2D,AD,fetal posterior fossa malformation: communication between the fourth ventricle and the cisterna magna,HP:0000932,Abnormal posterior cranial fossa morphology,manual,22 weeks,,c.16342C>T,Het,
+jml_romania,"Table 1, row 3",3,COL2A1,AD,Asymmetric shortening of the long bones <1st percentile,HP:0003026,Short long bone,manual,26 weeks,,c.3469_3486dup,Het,
+jml_romania,"Table 1, row 4",4,COL1A2,AD,Fetal skeletal dysplasia involving both upper and lower limbs,HP:0002652,Skeletal dysplasia,manual,17 weeks,,c.1971+1G>C,Het,
+jml_romania,"Table 1, row 5",5,CC2D2A,AR,Encephalocele,HP:0002084,Encephalocele,exact label,12 weeks,,c.4675-1G>C,Homozygous,
+jml_romania,"Table 1, row 5",5,CC2D2A,AR,polycystic kidneys,HP:0000113,Polycystic kidney dysplasia,synonym,12 weeks,,c.4675-1G>C,Homozygous,
+jml_romania,"Table 1, row 5",5,CC2D2A,AR,polydactyly,HP:0010442,Polydactyly,exact label,12 weeks,,c.4675-1G>C,Homozygous,
+jml_romania,"Table 1, row 6",6,NBAS,AR,Absent nasal bone,HP:0025706,Absent fetal nasal bone,manual,13 weeks,NM_15909.4,c.[539_540delinsTG;619C>T];c.6573-1047A>G,Het;Het,
+jml_romania,"Table 1, row 6",6,NBAS,AR,long philtrum,HP:0000343,Long philtrum,exact label,13 weeks,NM_15909.4,c.[539_540delinsTG;619C>T];c.6573-1047A>G,Het;Het,
+jml_romania,"Table 1, row 6",6,NBAS,AR,cleft palate,HP:0000175,Cleft palate,exact label,13 weeks,NM_15909.4,c.[539_540delinsTG;619C>T];c.6573-1047A>G,Het;Het,
+jml_romania,"Table 1, row 6",6,NBAS,AR,intrauterine growth restriction,HP:0001511,Intrauterine growth retardation,synonym,13 weeks,NM_15909.4,c.[539_540delinsTG;619C>T];c.6573-1047A>G,Het;Het,
+pd_rnu4atac,"Table 1, row 2 (Earliest detected ultrasound anomalies)",2,RNU4ATAC,AR,IUGR,HP:0001511,Intrauterine growth retardation,synonym,20 + 1 weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 1, row 2 (Earliest detected ultrasound anomalies)",2,RNU4ATAC,AR,ACC,HP:0001274,Agenesis of corpus callosum,manual,20 + 1 weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 2 column",2,RNU4ATAC,AR,Lissencephaly,HP:0001339,Lissencephaly,exact label,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 2 column",2,RNU4ATAC,AR,Intracranial cyst,HP:0010576,Intracranial cystic lesion,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 2 column",2,RNU4ATAC,AR,Cerebellar vermis agenesis/hypoplasia,HP:0006817,Aplasia/Hypoplasia of the cerebellar vermis,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 2 column",2,RNU4ATAC,AR,Microcephaly,HP:0000252,Microcephaly,exact label,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 2 column",2,RNU4ATAC,AR,Micrognathia,HP:0000347,Micrognathia,exact label,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, row ""Microencephaly"", Case 2",2,RNU4ATAC,AR,Microencephaly,HP:0007364,Aplasia/Hypoplasia of the cerebrum,adjudicated (B),20+ weeks,NR_023343.3;NR_023343.3,n.51G>A;n.51G>A,homozygous,
+pd_rnu4atac,"Table 2, row ""Others anomalies"", Case 2",2,RNU4ATAC,AR,Dilated cisterna magna,HP:0011427,Enlarged fetal cisterna magna,adjudicated (B),20+ weeks,NR_023343.3;NR_023343.3,n.51G>A;n.51G>A,homozygous,
+pd_rnu4atac,"Table 1, row 3 (Earliest detected ultrasound anomalies)",3,RNU4ATAC,AR,IUGR,HP:0001511,Intrauterine growth retardation,synonym,20 + 2 weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 3 column",3,RNU4ATAC,AR,Hypoplastic frontal lobes,HP:0007333,Hypoplasia of the frontal lobes,synonym,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 3 column",3,RNU4ATAC,AR,Intracranial cyst,HP:0010576,Intracranial cystic lesion,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 3 column",3,RNU4ATAC,AR,Cerebellar vermis agenesis/hypoplasia,HP:0006817,Aplasia/Hypoplasia of the cerebellar vermis,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 3 column",3,RNU4ATAC,AR,Agenesis of corpus callosum (ACC),HP:0001274,Agenesis of corpus callosum,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 3 column",3,RNU4ATAC,AR,Microcephaly,HP:0000252,Microcephaly,exact label,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 3 column",3,RNU4ATAC,AR,Micrognathia,HP:0000347,Micrognathia,exact label,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 3 column",3,RNU4ATAC,AR,Club foot (left),HP:0001762,Talipes equinovarus,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 3 column",3,RNU4ATAC,AR,right hand fixated with ulnar deviation,HP:0009487,Ulnar deviation of the hand,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, Case 3 column",3,RNU4ATAC,AR,Hyperechogenic bowl,HP:0010943,Echogenic fetal bowel,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[51G > A],homozygous,
+pd_rnu4atac,"Table 2, row ""Microencephaly"", Case 3",3,RNU4ATAC,AR,Microencephaly,HP:0007364,Aplasia/Hypoplasia of the cerebrum,adjudicated (B),20+ weeks,NR_023343.3;NR_023343.3,n.51G>A;n.51G>A,homozygous,
+pd_rnu4atac,"Table 1, row 4 (Earliest detected ultrasound anomalies)",4,RNU4ATAC,AR,IUGR,HP:0001511,Intrauterine growth retardation,synonym,23 + 1 weeks,NR_023343.3,n.[30G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, Case 4 column",4,RNU4ATAC,AR,Lissencephaly,HP:0001339,Lissencephaly,exact label,20+ weeks,NR_023343.3,n.[30G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, Case 4 column",4,RNU4ATAC,AR,Agenesis of corpus callosum (ACC),HP:0001274,Agenesis of corpus callosum,manual,20+ weeks,NR_023343.3,n.[30G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, Case 4 column",4,RNU4ATAC,AR,Microcephaly,HP:0000252,Microcephaly,exact label,20+ weeks,NR_023343.3,n.[30G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, row ""Microencephaly"", Case 4",4,RNU4ATAC,AR,Microencephaly,HP:0007364,Aplasia/Hypoplasia of the cerebrum,adjudicated (B),20+ weeks,NR_023343.3;NR_023343.3,n.30G>A;n.55G>A,compound heterozygous,
+pd_rnu4atac,"Table 1, row 5 (Earliest detected ultrasound anomalies)",5,RNU4ATAC,AR,IUGR,HP:0001511,Intrauterine growth retardation,synonym,18 + 2 weeks,NR_023343.3,n.[51G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 1, row 5 (Earliest detected ultrasound anomalies)",5,RNU4ATAC,AR,echogenic focus,HP:0010942,Echogenic intracardiac focus,manual,18 + 2 weeks,NR_023343.3,n.[51G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, Case 5 column",5,RNU4ATAC,AR,Lissencephaly,HP:0001339,Lissencephaly,exact label,20+ weeks,NR_023343.3,n.[51G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, Case 5 column",5,RNU4ATAC,AR,Intracranial cyst,HP:0010576,Intracranial cystic lesion,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, Case 5 column",5,RNU4ATAC,AR,Cerebellar vermis agenesis/hypoplasia,HP:0006817,Aplasia/Hypoplasia of the cerebellar vermis,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, Case 5 column",5,RNU4ATAC,AR,Agenesis of corpus callosum (ACC),HP:0001274,Agenesis of corpus callosum,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, Case 5 column",5,RNU4ATAC,AR,Microcephaly,HP:0000252,Microcephaly,exact label,20+ weeks,NR_023343.3,n.[51G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, Case 5 column",5,RNU4ATAC,AR,Micrognathia,HP:0000347,Micrognathia,exact label,20+ weeks,NR_023343.3,n.[51G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, Case 5 column",5,RNU4ATAC,AR,Mild dilated renal pelvis (4.1 mm),HP:0010946,Dilatation of the renal pelvis,manual,20+ weeks,NR_023343.3,n.[51G > A];n.[55G > A],compound heterozygous,
+pd_rnu4atac,"Table 2, row ""Microencephaly"", Case 5",5,RNU4ATAC,AR,Microencephaly,HP:0007364,Aplasia/Hypoplasia of the cerebrum,adjudicated (B),20+ weeks,NR_023343.3;NR_023343.3,n.51G>A;n.55G>A,compound heterozygous,
+pd_rnu4atac,"Table 2, row ""Others anomalies"", Case 5",5,RNU4ATAC,AR,Dilated cisterna magna,HP:0011427,Enlarged fetal cisterna magna,adjudicated (B),20+ weeks,NR_023343.3;NR_023343.3,n.51G>A;n.55G>A,compound heterozygous,
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 2",ODSY001,NR2F1,,Large For Gestational Age and Polyhydramnios,HP:0001520,Large for gestational age,manual,,,,Heterzoygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 2",ODSY001,NR2F1,,Large For Gestational Age and Polyhydramnios,HP:0001561,Polyhydramnios,manual,,,,Heterzoygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 2",ODSY002,SMC1A,,Posterior fossa cyst,HP:0007291,Posterior fossa cyst,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 2",ODSY002,SMC1A,,ventriculomegaly,HP:0002119,Ventriculomegaly,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 2",ODSY002,SMC1A,,Holoprosencephaly,HP:0001360,Holoprosencephaly,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 3",ODSY004,HNRNPH2,,Unspecified Slow Fetal Growth,HP:0001511,Intrauterine growth retardation,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 3",ODSY005,EZH2,,Blocked Tear Ducts,HP:0000579,Nasolacrimal duct obstruction,manual,,,,Heterozygous,Not known
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,Borderline ventriculomegaly (9-11),HP:0010952,Mild fetal ventriculomegaly,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,6.3mm increased NT,HP:0010880,Increased nuchal translucency,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,brachycephaly,HP:0000248,Brachycephaly,exact label,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,potentially absent stomach,HP:0010963,Absence of stomach bubble on fetal sonography,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 4",ODSY007,AMER1,,polyhydramnios,HP:0001561,Polyhydramnios,exact label,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (HR-FSA), row ODSY007",ODSY007,AMER1,,Femur less than 10th centile,HP:0011428,Short fetal femur length,adjudicated (B),,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 5",ODSY009,CDK13,,Unexplained IUGR,HP:0001511,Intrauterine growth retardation,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 4",ODSY010,WDR62,,Left Renal Cyst - spontaneously resolved,HP:0000107,Renal cyst,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 6",ODSY011,NONO,,Unexplained IUGR,HP:0001511,Intrauterine growth retardation,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 6",ODSY011,NONO,,asymmetrical growth,HP:0001507,Growth abnormality,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 6",ODSY011,NONO,,reduced movement,HP:0001558,Decreased fetal movement,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 5",ODSY014,PIEZO2,,Bilateral Talipes,HP:0001883,Talipes,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 5",ODSY014,PIEZO2,,oliogohydramnios,HP:0001562,Oligohydramnios,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 5",ODSY014,PIEZO2,,growth restriction,HP:0001511,Intrauterine growth retardation,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 5",ODSY014,PIEZO2,,placental insufficiency,HP:0001194,Abnormalities of placenta or umbilical cord,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (LR-FSA), row ODSY018",ODSY018,WT1,,Left microcystic lung lesion (resolved spontaneously at 29+4),HP:0032445,Pulmonary cyst,adjudicated (B),,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 7",ODSY021,MEF2C,,Low Amniotic Fluid,HP:0001562,Oligohydramnios,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 8",ODSY026,AUTS2,,IUGR at end of Pregnancy,HP:0001511,Intrauterine growth retardation,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 7",ODSY027,HK1,,Agenesis of Corpus Callosum,HP:0001274,Agenesis of corpus callosum,exact label,,,,Heterozyous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 9",ODSY032,KAT6A,,Left sided large diaphragmatic hernia with polyhydramnios,HP:0000776,Congenital diaphragmatic hernia,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 9",ODSY032,KAT6A,,Left sided large diaphragmatic hernia with polyhydramnios,HP:0001561,Polyhydramnios,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 10",ODSY033,ITPR1,,Queries over Increased Size,HP:0001520,Large for gestational age,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 11",ODSY034,CTNNB1,,Small for gestational Age,HP:0001518,Small for gestational age,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Situs Invertus - Stomach on incorrect side,HP:0003363,Abdominal situs inversus,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Increased NT,HP:0010880,Increased nuchal translucency,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Short femur,HP:0003097,Short femur,exact label,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Abnormal 4 heart chamber with possible VSD,HP:4000105,Abnormal four chamber view of the fetal heart,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Abnormal 4 heart chamber with possible VSD,HP:0001629,Ventricular septal defect,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 8",ODSY035,ZIC3,,Complex cardiac double outlet right ventricle,HP:0001719,Double outlet right ventricle,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 9",ODSY045,NRAS,,Cystic Hygroma and Pleural Effusion,HP:0000476,Cystic hygroma,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 9",ODSY045,NRAS,,Cystic Hygroma and Pleural Effusion,HP:0002202,Pleural effusion,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 9",ODSY045,NRAS,,Ascites,HP:0001541,Ascites,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 9",ODSY045,NRAS,,Hydrops Fetalis not due to Haemolytic disease,HP:0001790,Nonimmune hydrops fetalis,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (HR-FSA), row ODSY045",ODSY045,NRAS,,Abnormal echocardiogram,HP:0001626,Abnormality of the cardiovascular system,adjudicated (B),,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 12",ODSY047,CREBBP,,Cystic Hygroma,HP:0000476,Cystic hygroma,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 12",ODSY047,CREBBP,,Increased NT >10mm,HP:0010880,Increased nuchal translucency,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,Moderate bilateral vetriculomegaly (14-15mm) became aysmmetrical 43mm left side,HP:0002119,Ventriculomegaly,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,Moderate bilateral vetriculomegaly (14-15mm) became aysmmetrical 43mm left side,HP:0100960,Lateral ventricular asymmetry,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,moderately dilated 3rd ventricle,HP:0007082,Dilated third ventricle,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,head circumference above 90th percentile,HP:0040194,Increased head circumference,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,midline pushed to the side,HP:0012443,Abnormal brain morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,small hepatic cyst,HP:0001407,Hepatic cysts,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 10",ODSY053,POMT2,,few dilated loops of bowel,HP:4000140,Fetal bowel dilatation,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 13",ODSY057,SOX10,,Unspecified Fetal Oedema,HP:0000969,Edema,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 14",ODSY058,MID1,,Cleft lip and Palate (Difficult to diagnose),HP:0410030,Cleft lip,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 14",ODSY058,MID1,,Cleft lip and Palate (Difficult to diagnose),HP:0000175,Cleft palate,manual,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 11",ODSY061,ARID1B,,Abnormal cavum septum pellucidum,HP:0007375,Abnormal septum pellucidum morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 11",ODSY061,ARID1B,,absent corpus callosum,HP:0001274,Agenesis of corpus callosum,synonym,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (HR-FSA), row ODSY061",ODSY061,ARID1B,,venticulomegaly (3rd ventricle - 7mm),HP:0007082,Dilated third ventricle,adjudicated (B),,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 12",ODSY063,KMT2C,,Severe hydrocephalus,HP:0006882,Severe hydrocephalus,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 12",ODSY063,KMT2C,,third ventricle dilated,HP:0007082,Dilated third ventricle,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 12",ODSY063,KMT2C,,severe bilateral ventriculomegaly >15mm,HP:0002119,Ventriculomegaly,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 15",ODSY064,SMCHD1,,Abnormal eyes,HP:0012372,Abnormal eye morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 15",ODSY064,SMCHD1,,Flat facial profile,HP:0012368,Flat face,synonym,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 15",ODSY064,SMCHD1,,nasal bone not visible,HP:0025706,Absent fetal nasal bone,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 16",ODSY065,TRAF7,,Cleft Palate,HP:0000175,Cleft palate,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 13",ODSY067,SMC3,,Alobar Holoprosencephaly,HP:0006988,Alobar holoprosencephaly,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 14",ODSY069,ZIC2,,Holoprosencephaly,HP:0001360,Holoprosencephaly,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 15",ODSY071,CDK8,,mild left ventriculomegaly,HP:0010952,Mild fetal ventriculomegaly,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (HR-FSA), row ODSY071",ODSY071,CDK8,,Absent left AV valve,HP:0011560,Mitral atresia,adjudicated (B),,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (HR-FSA), row ODSY071",ODSY071,CDK8,,single ventricle,HP:0001750,Single ventricle,adjudicated (B),,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (HR-FSA), row ODSY071",ODSY071,CDK8,,double outlet ventricle,HP:0011563,Abnormal ventriculoarterial connection,adjudicated (B),,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 16",ODSY073,CREBBP,,"Congenital diaphragmatic hernia, left side contains stomach",HP:0000776,Congenital diaphragmatic hernia,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 16",ODSY073,CREBBP,,right kidney abnormal,HP:0012210,Abnormal renal morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,Prominent forehead,HP:0011220,Prominent forehead,exact label,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,Thorax lymph oedema,HP:0001004,Lymphedema,manual,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,partial agenesis of corpus callosum,HP:0001338,Partial agenesis of the corpus callosum,synonym,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,polyhydramnios,HP:0001561,Polyhydramnios,exact label,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,severe ventriculomegaly,HP:0002119,Ventriculomegaly,manual,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,frontal bossing,HP:0002007,Frontal bossing,exact label,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,hypercirculation in middle cerebral artery which would be in keeping with findings of lymphangioma,HP:0034191,Elevated fetal middle cerebral artery peak systolic velocity,manual,,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 17",ODSY074,PIK3CA,,hypercirculation in middle cerebral artery which would be in keeping with findings of lymphangioma,HP:0100764,Lymphangioma,adjudicated (B),,,,De Novo - Mosaic,
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,Lemon Shaped head,HP:0032269,Lemon sign,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,severe ventriculomegaly >15mm,HP:0002119,Ventriculomegaly,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,cerebellum abnormal shape inferiorly,HP:0001317,Abnormal cerebellum morphology,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,lemon shaped cranium,HP:0032269,Lemon sign,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,absent corpus callosum,HP:0001274,Agenesis of corpus callosum,synonym,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,congenital diaphragmatic hernia,HP:0000776,Congenital diaphragmatic hernia,exact label,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,stomach not visible,HP:0010963,Absence of stomach bubble on fetal sonography,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 18",ODSY075,OFD1,,Dandy Walker malformation,HP:0001305,Dandy-Walker malformation,manual,,,,Hemizygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 17",ODSY082,PPP2R1A,,Borderline Ventriculomegaly,HP:0010952,Mild fetal ventriculomegaly,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 18",ODSY084,LZTR1,,Large for Gestational Age,HP:0001520,Large for gestational age,exact label,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 19",ODSY087,SLC6A1,,IUGR,HP:0001511,Intrauterine growth retardation,synonym,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 20",ODSY088,SLC6A1,,IUGR,HP:0001511,Intrauterine growth retardation,synonym,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Septal Defect,HP:0001671,Abnormal cardiac septum morphology,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Moderate Ascites (12mm),HP:0001541,Ascites,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Bright kidneys,HP:0004719,Hyperechogenic kidneys,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Minimal pyelcatasis both sides,HP:0011129,Bilateral fetal pyelectasis,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Small bladder with surrounding ascites,HP:0010476,Aplasia/Hypoplasia of the bladder,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Small bladder with surrounding ascites,HP:0001541,Ascites,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,Hydroureter,HP:0000072,Hydroureter,exact label,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,hydronephrosis both sites with blunted calyces,HP:0000126,Hydronephrosis,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 21",ODSY095,UBA5,,some pressure on thorax due to increasing size of abdomen,HP:0003270,Abdominal distention,manual,,,,Unknown,Unknown
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 19",ODSY102,EP300,,Complex Cardiac - Unspecified,HP:0001627,Abnormal heart morphology,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 22",ODSY107,NYX,,IUGR,HP:0001511,Intrauterine growth retardation,synonym,,,,Hemizygous,Maternal
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 23",ODSY109,BBS10,,Bilateral enlarged kidneys with dilated collecting systems,HP:0000105,Enlarged kidney,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 23",ODSY109,BBS10,,Bilateral enlarged kidneys with dilated collecting systems,HP:0004742,Abnormal renal collecting system morphology,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 23",ODSY109,BBS10,,bilateral larger hydroureter,HP:0000072,Hydroureter,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 23",ODSY109,BBS10,,hydronephrosis and AVSD,HP:0000126,Hydronephrosis,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S2 (S2 - HR-FSA), row 23",ODSY109,BBS10,,hydronephrosis and AVSD,HP:0006695,Atrioventricular canal defect,manual,,,,Compound Heterozygous,Biparental
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 20",ODSY112,CHD7,,Tetraology of Fallot,HP:0001636,Tetralogy of Fallot,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 21",ODSY118,CTNND1,,Some IUGR - Likely placental insufficiency,HP:0001511,Intrauterine growth retardation,manual,,,,Heterozygous,De Novo
+uog_odyssey,"Table S3 (S3 - LR-FSA), row 21",ODSY118,CTNND1,,Some IUGR - Likely placental insufficiency,HP:0001194,Abnormalities of placenta or umbilical cord,manual,,,,Heterozygous,De Novo
+hydrops,"Table 2, row NIHF1-003; phenotype from Methods 2.3 inclusion criterion",NIHF1-003,HSPB1,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_001540.5,c.476_477del,Het,Dn
+hydrops,"Table 2, row NIHF1-004; phenotype from Methods 2.3 inclusion criterion",NIHF1-004,BICD2,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_001003800.2,c.2081G>A,Het,Dn
+hydrops,"Table 2, row NIHF1-006; phenotype from Methods 2.3 inclusion criterion",NIHF1-006,PTPN11,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_002834.5,c.923A>G,Het,Mat
+hydrops,"Table 2, row NIHF1-007; phenotype from Methods 2.3 inclusion criterion",NIHF1-007,KLF1,AD/AR,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_006563.5,c.973G>A,Het,Dn
+hydrops,"Table 2, row NIHF1-008; phenotype from Methods 2.3 inclusion criterion",NIHF1-008,RAF1,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_002880.4,c.779C>T,Het,Dn
+hydrops,"Table 2, row NIHF1-009; phenotype from Methods 2.3 inclusion criterion",NIHF1-009,SUMF1,AR,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_182760.4,c.691dup,Hom,Both
+hydrops,"Table 2, row NIHF1-011; phenotype from Methods 2.3 inclusion criterion",NIHF1-011,NEU1,AR,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_000434.4;NM_000434.4,c.238C>A;c.1230_1234delinsGCCAAA,Het;Het,Mat;Pat
+hydrops,"Table 2, row NIHF1-012; phenotype from Methods 2.3 inclusion criterion",NIHF1-012,RIT1,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_006912.6,c.270G>C,Het,Dn
+hydrops,"Table 2, row NIHF1-017; phenotype from Methods 2.3 inclusion criterion",NIHF1-017,KMT2D,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_003482.4,c.15239_15240del,Het,Dn
+hydrops,"Table 2, row NIHF1-018; phenotype from Methods 2.3 inclusion criterion",NIHF1-018,PIEZO1,AD; AR,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_001142864.4;NM_001142864.4,c.6328C>T;c.4556A>C,Het;Het,Mat;Pat
+hydrops,"Table 2, row NIHF1-020; phenotype from Methods 2.3 inclusion criterion",NIHF1-020,AMER1,XLD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_152424.4,c.1000G>T,Hemi,Dn
+hydrops,"Table 2, row NIHF2-021; phenotype from Methods 2.3 inclusion criterion",NIHF2-021,RYR1,"AD, AR",Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_000540.3,c.11778+1G>T,Hom,Both
+hydrops,"Table 2, row NIHF1-022; phenotype from Methods 2.3 inclusion criterion",NIHF1-022,RRAS2,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,,NM_012250.6,c.110A>T,Het,Dn
+hydrops,"Table 2, row NIHF1-025; phenotype from Methods 2.3 inclusion criterion",NIHF1-025,KMT2D,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,28w1d,NM_003482.4,c.16360C>T,Het,Dn
+hydrops,"Table 2, row NIHF1-029; phenotype from Methods 2.3 inclusion criterion",NIHF1-029,PUF60,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,30w4d,NM_078480.3,c.24+1G>T,Het,Dn
+hydrops,"Table 2, row NIHF2-031; phenotype from Methods 2.3 inclusion criterion",NIHF2-031,SOS1,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,15w4d,NM_005633.4;NM_005633.4,c.806T>C;c.2536G>A,Het;Het,Mat;Dn
+hydrops,"Table 2, row NIHF1-032; phenotype from Methods 2.3 inclusion criterion",NIHF1-032,RIT1,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,13w1d,NM_006912.6,c.245T>G,Het,Dn
+hydrops,"Table 2, row NIHF2-034; phenotype from Methods 2.3 inclusion criterion",NIHF2-034,RYR1,"AD, AR",Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,21w4d,NM_000540.3;NM_000540.3,c.7361G>A;c.6619del,Het;Het,Mat;Pat
+hydrops,"Table 2, row NIHF1-039; phenotype from Methods 2.3 inclusion criterion",NIHF1-039,BLTP1,AR,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,22w5d,NM_001384125.1;NM_001384125.1,c.4916+2T>C;c.10671-1G>C,Het;Het,Mat;Pat
+hydrops,"Table 2, row NIHF1-041; phenotype from Methods 2.3 inclusion criterion",NIHF1-041,FLT4,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,28w2d,NM_182925.5,c.3181G>C,Het,Dn
+hydrops,"Table 2, row NIHF1-045; phenotype from Methods 2.3 inclusion criterion",NIHF1-045,RIT1,AD,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,28w4d,NM_006912.6,c.170C>G,Het,Dn
+hydrops,"Table 2, row NIHF1-046; phenotype from Methods 2.3 inclusion criterion",NIHF1-046,LMOD2,AR,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,28w3d,NM_207163.3;NM_207163.3,c.702del;c.1446_1453dup,Het;Het,Mat;Pat
+hydrops,"Table 3, row NIHF1-038; phenotype from Methods 2.3 inclusion criterion",NIHF1-038,PIEZO1,AD/AR,Nonimmune hydrops fetalis,HP:0001790,Nonimmune hydrops fetalis,exact label,21w0d,NM_001142864.4;NM_001142864.4,c.7117C>T;c.3133del,Het;Het,Mat;Pat

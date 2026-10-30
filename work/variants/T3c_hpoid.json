@@ -1,0 +1,4498 @@
+[
+{
+"cohort": "fu2022",
+"case": "1",
+"genes": [
+"ARX"
+],
+"findings": [
+"HP:0001274",
+"HP:0002416"
+],
+"resnik_rank": 239.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "2",
+"genes": [
+"CHD7"
+],
+"findings": [
+"HP:0001305"
+],
+"resnik_rank": 69.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "3",
+"genes": [
+"TUBA1A"
+],
+"findings": [
+"HP:0000238"
+],
+"resnik_rank": 803.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "4",
+"genes": [
+"NFIA"
+],
+"findings": [
+"HP:0001274",
+"HP:0002119"
+],
+"resnik_rank": 98.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "5",
+"genes": [
+"TUBB2B"
+],
+"findings": [
+"HP:0001274",
+"HP:0002416",
+"HP:0002060"
+],
+"resnik_rank": 239.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "6",
+"genes": [
+"ASPM"
+],
+"findings": [
+"HP:0000252"
+],
+"resnik_rank": 588.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "7",
+"genes": [
+"EZH2"
+],
+"findings": [
+"HP:0005445"
+],
+"resnik_rank": 1170.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "8 #",
+"genes": [
+"CHD4"
+],
+"findings": [
+"HP:0002416",
+"HP:0002119"
+],
+"resnik_rank": 455.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "9",
+"genes": [
+"CSPP1"
+],
+"findings": [
+"HP:0001305"
+],
+"resnik_rank": 69.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "10",
+"genes": [
+"ANKRD11"
+],
+"findings": [
+"HP:0002119"
+],
+"resnik_rank": 341.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "11",
+"genes": [
+"ANKRD11"
+],
+"findings": [
+"HP:0000238"
+],
+"resnik_rank": 803.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "12",
+"genes": [
+"PPP2R1A"
+],
+"findings": [
+"HP:0002079",
+"HP:0002119"
+],
+"resnik_rank": 119.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "13",
+"genes": [
+"AHDC1"
+],
+"findings": [
+"HP:0002079"
+],
+"resnik_rank": 212.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "14",
+"genes": [
+"PAFAH1B1"
+],
+"findings": [
+"HP:0001302",
+"HP:0001339"
+],
+"resnik_rank": 74.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "15",
+"genes": [
+"AP4M1"
+],
+"findings": [
+"HP:0002079"
+],
+"resnik_rank": 212.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "16",
+"genes": [
+"COL4A1"
+],
+"findings": [
+"HP:0002132",
+"HP:0007291"
+],
+"resnik_rank": 5.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "17",
+"genes": [
+"PAFAH1B1"
+],
+"findings": [
+"HP:0001302"
+],
+"resnik_rank": 74.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "18",
+"genes": [
+"ARV1"
+],
+"findings": [
+"HP:0006956",
+"HP:0001561"
+],
+"resnik_rank": 3175.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "19",
+"genes": [
+"NFIA"
+],
+"findings": [
+"HP:0010880",
+"HP:0001274",
+"HP:0002119"
+],
+"resnik_rank": 519.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "20",
+"genes": [
+"ARID1B"
+],
+"findings": [
+"HP:0002079"
+],
+"resnik_rank": 212.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "21",
+"genes": [
+"ADNP"
+],
+"findings": [
+"HP:0010880",
+"HP:0002119"
+],
+"resnik_rank": 478.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "22",
+"genes": [
+"ARID1B"
+],
+"findings": [
+"HP:0001274"
+],
+"resnik_rank": 154.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "23",
+"genes": [
+"COL4A1"
+],
+"findings": [
+"HP:0002282",
+"HP:0002132"
+],
+"resnik_rank": 8.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "24",
+"genes": [
+"FGFR2"
+],
+"findings": [
+"HP:0010880",
+"HP:0000316",
+"HP:0002119"
+],
+"resnik_rank": 186.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "25",
+"genes": [
+"CC2D2A"
+],
+"findings": [
+"HP:0001320",
+"HP:0002198",
+"HP:0002700"
+],
+"resnik_rank": 85.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "26",
+"genes": [
+"DLL1"
+],
+"findings": [
+"HP:0002119"
+],
+"resnik_rank": 341.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "27",
+"genes": [
+"PDHA1"
+],
+"findings": [
+"HP:0000252"
+],
+"resnik_rank": 588.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "28",
+"genes": [
+"EPG5"
+],
+"findings": [
+"HP:0001274"
+],
+"resnik_rank": 154.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "29",
+"genes": [
+"FLNA"
+],
+"findings": [
+"HP:0005445",
+"HP:0100702"
+],
+"resnik_rank": 326.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "30",
+"genes": [
+"PPP2R1A"
+],
+"findings": [
+"HP:0000238",
+"HP:0002079"
+],
+"resnik_rank": 37.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "31",
+"genes": [
+"ZMYM2"
+],
+"findings": [
+"HP:0011426",
+"HP:0001195"
+],
+"resnik_rank": 4354.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "32",
+"genes": [
+"ASPM"
+],
+"findings": [
+"HP:0000252",
+"HP:0001511"
+],
+"resnik_rank": 787.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "33",
+"genes": [
+"PTCH1"
+],
+"findings": [
+"HP:0001520",
+"HP:0002119"
+],
+"resnik_rank": 7.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "34",
+"genes": [
+"COL11A1"
+],
+"findings": [
+"HP:0000347",
+"HP:0001561",
+"HP:0000175"
+],
+"resnik_rank": 296.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "35",
+"genes": [
+"ARHGAP29"
+],
+"findings": [
+"HP:0410030",
+"HP:0000175"
+],
+"resnik_rank": 507.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "36",
+"genes": [
+"IRF6"
+],
+"findings": [
+"HP:0410030",
+"HP:0000175"
+],
+"resnik_rank": 91.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "37",
+"genes": [
+"IRF6"
+],
+"findings": [
+"HP:0410030",
+"HP:0000175"
+],
+"resnik_rank": 91.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "38",
+"genes": [
+"KCNK9"
+],
+"findings": [
+"HP:0000347",
+"HP:0000175"
+],
+"resnik_rank": 181.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "39",
+"genes": [
+"FOXC2"
+],
+"findings": [
+"HP:0000316",
+"HP:0010880"
+],
+"resnik_rank": 592.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "40",
+"genes": [
+"CRYAA"
+],
+"findings": [
+"HP:0000519"
+],
+"resnik_rank": 63.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "41",
+"genes": [
+"RUNX2"
+],
+"findings": [
+"HP:0010941",
+"HP:0001561"
+],
+"resnik_rank": 1342.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "42",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0000175",
+"HP:0410030"
+],
+"resnik_rank": 91.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "43",
+"genes": [
+"TCOF1"
+],
+"findings": [
+"HP:0000347",
+"HP:0008551",
+"HP:0000316",
+"HP:0004646",
+"HP:0001561"
+],
+"resnik_rank": 333.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "44",
+"genes": [
+"SIX3"
+],
+"findings": [
+"HP:0100333",
+"HP:0100334"
+],
+"resnik_rank": 11.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "45",
+"genes": [
+"EYA1"
+],
+"findings": [
+"HP:0000175"
+],
+"resnik_rank": 287.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "46",
+"genes": [
+"ADNP"
+],
+"findings": [
+"HP:0001636"
+],
+"resnik_rank": 1366.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "47",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0001629"
+],
+"resnik_rank": 225.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "48",
+"genes": [
+"CHD7"
+],
+"findings": [
+"HP:0001636",
+"HP:0001653",
+"HP:0005180"
+],
+"resnik_rank": 144.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "49",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0011560",
+"HP:0001629"
+],
+"resnik_rank": 42.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "50",
+"genes": [
+"FBN1"
+],
+"findings": [
+"HP:0006698",
+"HP:0001711"
+],
+"resnik_rank": 384.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "51",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0001650"
+],
+"resnik_rank": 253.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "52",
+"genes": [
+"SMARCA4"
+],
+"findings": [
+"HP:0005301",
+"HP:0001629"
+],
+"resnik_rank": 274.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "53",
+"genes": [
+"ZEB2"
+],
+"findings": [
+"HP:0001629",
+"HP:0004415"
+],
+"resnik_rank": 23.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "54",
+"genes": [
+"FLNA"
+],
+"findings": [
+"HP:0001629",
+"HP:0001640"
+],
+"resnik_rank": 324.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "55",
+"genes": [
+"SHOC2"
+],
+"findings": [
+"HP:0001642"
+],
+"resnik_rank": 60.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "56",
+"genes": [
+"BRAF"
+],
+"findings": [
+"HP:0001636"
+],
+"resnik_rank": 81.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "57",
+"genes": [
+"HRAS"
+],
+"findings": [
+"HP:0001642",
+"HP:0001629"
+],
+"resnik_rank": 38.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "58",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0001680"
+],
+"resnik_rank": 71.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "59",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0001680",
+"HP:0001719"
+],
+"resnik_rank": 48.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "60",
+"genes": [
+"MYH7"
+],
+"findings": [
+"HP:0001644",
+"HP:0001629"
+],
+"resnik_rank": 9.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "61",
+"genes": [
+"NONO"
+],
+"findings": [
+"HP:0012817"
+],
+"resnik_rank": 9.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "62",
+"genes": [
+"EVC2"
+],
+"findings": [
+"HP:0011565",
+"HP:0001674",
+"HP:0001680"
+],
+"resnik_rank": 12.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "63",
+"genes": [
+"TSC2"
+],
+"findings": [
+"HP:0009729"
+],
+"resnik_rank": 3.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "64",
+"genes": [
+"TSC2"
+],
+"findings": [
+"HP:0009729"
+],
+"resnik_rank": 3.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "65 #",
+"genes": [
+"MAPK1"
+],
+"findings": [
+"HP:0001669"
+],
+"resnik_rank": 359.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "66",
+"genes": [
+"TSC2"
+],
+"findings": [
+"HP:0009729"
+],
+"resnik_rank": 3.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "67",
+"genes": [
+"KDM6A"
+],
+"findings": [
+"HP:0001680",
+"HP:0004415"
+],
+"resnik_rank": 52.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "68",
+"genes": [
+"TSC2"
+],
+"findings": [
+"HP:0009729"
+],
+"resnik_rank": 3.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "69",
+"genes": [
+"TSC1"
+],
+"findings": [
+"HP:0100544"
+],
+"resnik_rank": 8.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "70",
+"genes": [
+"CDH2"
+],
+"findings": [
+"HP:0001653",
+"HP:0005180",
+"HP:0011573",
+"HP:0001640"
+],
+"resnik_rank": 146.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "71",
+"genes": [
+"TPM1"
+],
+"findings": [
+"HP:0001640",
+"HP:0001638",
+"HP:0012816",
+"HP:0001789"
+],
+"resnik_rank": 16.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "72",
+"genes": [
+"TSC2"
+],
+"findings": [
+"HP:0009729"
+],
+"resnik_rank": 3.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "73",
+"genes": [
+"FBN1"
+],
+"findings": [
+"HP:0001640"
+],
+"resnik_rank": 59.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "74",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0001680",
+"HP:0001629"
+],
+"resnik_rank": 46.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "75",
+"genes": [
+"EFTUD2"
+],
+"findings": [
+"HP:0001629",
+"HP:0004415"
+],
+"resnik_rank": 733.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "76",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0001642",
+"HP:0005301"
+],
+"resnik_rank": 69.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "77",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0001680"
+],
+"resnik_rank": 71.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "78",
+"genes": [
+"TSC2"
+],
+"findings": [
+"HP:0009729"
+],
+"resnik_rank": 3.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "79",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0001680",
+"HP:0031253"
+],
+"resnik_rank": 79.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "80",
+"genes": [
+"MYH7"
+],
+"findings": [
+"HP:0004762"
+],
+"resnik_rank": 37.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "81",
+"genes": [
+"LZTR1"
+],
+"findings": [
+"HP:0010880",
+"HP:0000476",
+"HP:0004383"
+],
+"resnik_rank": 12.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "82",
+"genes": [
+"NR2F2"
+],
+"findings": [
+"HP:0001674",
+"HP:0001680",
+"HP:0010943"
+],
+"resnik_rank": 99.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "83 #",
+"genes": [
+"FOXF1"
+],
+"findings": [
+"HP:0002021",
+"HP:0002577"
+],
+"resnik_rank": 554.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "84",
+"genes": [
+"CDKN1C"
+],
+"findings": [
+"HP:0001539"
+],
+"resnik_rank": 40.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "85",
+"genes": [
+"UMOD"
+],
+"findings": [
+"HP:0000003"
+],
+"resnik_rank": 177.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "86",
+"genes": [
+"HNF1B"
+],
+"findings": [
+"HP:0004719",
+"HP:0000003"
+],
+"resnik_rank": 79.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "87",
+"genes": [
+"PKD1"
+],
+"findings": [
+"HP:0000105",
+"HP:0004719",
+"HP:0002190"
+],
+"resnik_rank": 62.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "88",
+"genes": [
+"JAG1"
+],
+"findings": [
+"HP:0000003"
+],
+"resnik_rank": 177.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "89",
+"genes": [
+"ACE"
+],
+"findings": [
+"HP:0000105",
+"HP:0004719",
+"HP:0001562"
+],
+"resnik_rank": 100.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "90",
+"genes": [
+"SRD5A2"
+],
+"findings": [
+"HP:0000054",
+"HP:0000047"
+],
+"resnik_rank": 48.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "91",
+"genes": [
+"PKD2"
+],
+"findings": [
+"HP:0000105",
+"HP:0004719"
+],
+"resnik_rank": 52.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "92",
+"genes": [
+"HNF1B"
+],
+"findings": [
+"HP:0000126"
+],
+"resnik_rank": 634.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "93",
+"genes": [
+"PKD2"
+],
+"findings": [
+"HP:0004719",
+"HP:0000105"
+],
+"resnik_rank": 52.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "94",
+"genes": [
+"HNF1B"
+],
+"findings": [
+"HP:0004719",
+"HP:0000107"
+],
+"resnik_rank": 154.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "95",
+"genes": [
+"HNF1B"
+],
+"findings": [
+"HP:0000003"
+],
+"resnik_rank": 48.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "96",
+"genes": [
+"PKHD1"
+],
+"findings": [
+"HP:0000105",
+"HP:0004719"
+],
+"resnik_rank": 4.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "97",
+"genes": [
+"PKHD1"
+],
+"findings": [
+"HP:0000105",
+"HP:0004719",
+"HP:0001562"
+],
+"resnik_rank": 3.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "98",
+"genes": [
+"PKD1"
+],
+"findings": [
+"HP:0000105",
+"HP:0004719"
+],
+"resnik_rank": 52.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "99",
+"genes": [
+"ACTG2"
+],
+"findings": [
+"HP:0000021"
+],
+"resnik_rank": 5.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "100",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0010880",
+"HP:0003026",
+"HP:0006487",
+"HP:0000774",
+"HP:0000929"
+],
+"resnik_rank": 2.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "101",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0000929",
+"HP:0002983"
+],
+"resnik_rank": 42.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "102",
+"genes": [
+"GDF5"
+],
+"findings": [
+"HP:0003026",
+"HP:0100531"
+],
+"resnik_rank": 104.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "103",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0005474",
+"HP:0005855"
+],
+"resnik_rank": 3.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "104",
+"genes": [
+"SHOX"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 133.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "105",
+"genes": [
+"FLNB"
+],
+"findings": [
+"HP:0001762"
+],
+"resnik_rank": 189.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "106",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 133.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "107",
+"genes": [
+"SCN4A"
+],
+"findings": [
+"HP:0005989",
+"HP:0002533",
+"HP:0001371"
+],
+"resnik_rank": 243.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "108",
+"genes": [
+"EZH2"
+],
+"findings": [
+"HP:0003022",
+"HP:0006433",
+"HP:0011297"
+],
+"resnik_rank": 298.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "109",
+"genes": [
+"COL1A2"
+],
+"findings": [
+"HP:0002980"
+],
+"resnik_rank": 24.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "110",
+"genes": [
+"PUF60"
+],
+"findings": [
+"HP:0009316",
+"HP:0004100",
+"HP:0001839"
+],
+"resnik_rank": 326.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "111",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 133.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "112",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 133.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "113",
+"genes": [
+"GNPTAB"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 133.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "114",
+"genes": [
+"ZC4H2"
+],
+"findings": [
+"HP:0001762",
+"HP:0001155"
+],
+"resnik_rank": 150.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "115",
+"genes": [
+"TNNI2"
+],
+"findings": [
+"HP:0001188",
+"HP:0040018",
+"HP:0001762"
+],
+"resnik_rank": 407.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "116",
+"genes": [
+"SMAD4"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 133.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "117",
+"genes": [
+"EBP"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 497.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "118",
+"genes": [
+"TPM2"
+],
+"findings": [
+"HP:0001762",
+"HP:0001188"
+],
+"resnik_rank": 10.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "119",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0012385",
+"HP:0001511"
+],
+"resnik_rank": 411.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "120",
+"genes": [
+"ASXL3"
+],
+"findings": [
+"HP:0002804"
+],
+"resnik_rank": 392.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "121",
+"genes": [
+"TRPV4"
+],
+"findings": [
+"HP:0003097"
+],
+"resnik_rank": 48.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "122",
+"genes": [
+"COL6A1"
+],
+"findings": [
+"HP:0001762"
+],
+"resnik_rank": 189.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "123",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0003097",
+"HP:0002980"
+],
+"resnik_rank": 58.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "124",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0000256",
+"HP:0002983"
+],
+"resnik_rank": 20.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "125",
+"genes": [
+"COL1A2"
+],
+"findings": [
+"HP:0003026",
+"HP:0003865",
+"HP:0002980"
+],
+"resnik_rank": 93.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "126",
+"genes": [
+"ATRX"
+],
+"findings": [
+"HP:0001161",
+"HP:0001558",
+"HP:0001511"
+],
+"resnik_rank": 1409.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "127",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0002983",
+"HP:0010880"
+],
+"resnik_rank": 6.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "128",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 133.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "129",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 133.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "130",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0003026",
+"HP:0002980"
+],
+"resnik_rank": 38.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "131",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0003026",
+"HP:0040194",
+"HP:0001561"
+],
+"resnik_rank": 10.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "132",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0003026",
+"HP:0002980",
+"HP:0003865"
+],
+"resnik_rank": 8.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "133",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0003026",
+"HP:0002980",
+"HP:0010943"
+],
+"resnik_rank": 38.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "134",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0031846"
+],
+"resnik_rank": 155.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "135",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0005855"
+],
+"resnik_rank": 9.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "136",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 133.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "137",
+"genes": [
+"COL1A2"
+],
+"findings": [
+"HP:0003097",
+"HP:0002980"
+],
+"resnik_rank": 58.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "138",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0003026",
+"HP:0002980"
+],
+"resnik_rank": 38.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "139",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0003026",
+"HP:0002980"
+],
+"resnik_rank": 38.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "140",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0003026",
+"HP:0006487"
+],
+"resnik_rank": 51.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "141",
+"genes": [
+"OBSL1"
+],
+"findings": [
+"HP:0003026",
+"HP:0002650"
+],
+"resnik_rank": 82.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "142",
+"genes": [
+"ALPL"
+],
+"findings": [
+"HP:0001561",
+"HP:0000925",
+"HP:0002980",
+"HP:0003865"
+],
+"resnik_rank": 71.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "143",
+"genes": [
+"TP63"
+],
+"findings": [
+"HP:0009380",
+"HP:0001770"
+],
+"resnik_rank": 21.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "144",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0002980",
+"HP:0003097"
+],
+"resnik_rank": 58.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "145",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0001762",
+"HP:0006487"
+],
+"resnik_rank": 41.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "146",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0001561",
+"HP:0003026",
+"HP:0000256"
+],
+"resnik_rank": 10.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "147",
+"genes": [
+"DYNC2H1"
+],
+"findings": [
+"HP:0003026",
+"HP:0003022",
+"HP:0003038",
+"HP:0005257"
+],
+"resnik_rank": 1.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "148",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0010880",
+"HP:0000256",
+"HP:0000774"
+],
+"resnik_rank": 2.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "149",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0010880",
+"HP:0002983"
+],
+"resnik_rank": 28.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "150",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0003026",
+"HP:0006487"
+],
+"resnik_rank": 355.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "151",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 497.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "152",
+"genes": [
+"ECEL1"
+],
+"findings": [
+"HP:0034391",
+"HP:0034672"
+],
+"resnik_rank": 69.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "153",
+"genes": [
+"ARSE"
+],
+"findings": [
+"HP:0005280",
+"HP:0010655"
+],
+"resnik_rank": 4354.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "154",
+"genes": [
+"KLHL40"
+],
+"findings": [
+"HP:0010557",
+"HP:0001762"
+],
+"resnik_rank": 310.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "155",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0003097",
+"HP:0040194"
+],
+"resnik_rank": 5.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "156",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0003026",
+"HP:0000256"
+],
+"resnik_rank": 34.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "157",
+"genes": [
+"COL1A2"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 497.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "158",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0010880",
+"HP:0000347",
+"HP:0001762",
+"HP:0003097"
+],
+"resnik_rank": 6.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "159",
+"genes": [
+"BRPF1"
+],
+"findings": [
+"HP:0001762"
+],
+"resnik_rank": 1951.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "160",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0003026",
+"HP:0006487"
+],
+"resnik_rank": 355.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "161",
+"genes": [
+"EVC"
+],
+"findings": [
+"HP:0010442"
+],
+"resnik_rank": 121.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "162",
+"genes": [
+"SHOX"
+],
+"findings": [
+"HP:0003026",
+"HP:0006487"
+],
+"resnik_rank": 51.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "163",
+"genes": [
+"KAT6A"
+],
+"findings": [
+"HP:0001511"
+],
+"resnik_rank": 285.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "164",
+"genes": [
+"NIPBL"
+],
+"findings": [
+"HP:0001511"
+],
+"resnik_rank": 285.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "165",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0002202",
+"HP:0001541",
+"HP:0001789"
+],
+"resnik_rank": 64.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "166",
+"genes": [
+"RYR1"
+],
+"findings": [
+"HP:0001789"
+],
+"resnik_rank": 60.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "167",
+"genes": [
+"SETD5"
+],
+"findings": [
+"HP:0010880"
+],
+"resnik_rank": 714.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "168",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0010880",
+"HP:0000476"
+],
+"resnik_rank": 14.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "169",
+"genes": [
+"KMT2C"
+],
+"findings": [
+"HP:0010880"
+],
+"resnik_rank": 3208.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "170",
+"genes": [
+"KCNT1"
+],
+"findings": [
+"HP:0010880",
+"HP:0011426"
+],
+"resnik_rank": 3208.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "171",
+"genes": [
+"HRAS"
+],
+"findings": [
+"HP:0010880",
+"HP:0000476"
+],
+"resnik_rank": 111.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "172",
+"genes": [
+"NFIB"
+],
+"findings": [
+"HP:0010880",
+"HP:0000476"
+],
+"resnik_rank": 2987.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "173",
+"genes": [
+"RAF1"
+],
+"findings": [
+"HP:0010880",
+"HP:0002119",
+"HP:0005922",
+"HP:0000054"
+],
+"resnik_rank": 47.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "174",
+"genes": [
+"FLNB"
+],
+"findings": [
+"HP:0002414",
+"HP:0002937"
+],
+"resnik_rank": 37.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "175",
+"genes": [
+"FLNA"
+],
+"findings": [
+"HP:0001539",
+"HP:0001760",
+"HP:0003026",
+"HP:0000774",
+"HP:0002990"
+],
+"resnik_rank": 1.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "176",
+"genes": [
+"L1CAM"
+],
+"findings": [
+"HP:0000238",
+"HP:0001762"
+],
+"resnik_rank": 37.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "177",
+"genes": [
+"EFTUD2"
+],
+"findings": [
+"HP:0002032",
+"HP:0012020"
+],
+"resnik_rank": 73.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "178",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0000104",
+"HP:0002089",
+"HP:0011595",
+"HP:0001698",
+"HP:0001562"
+],
+"resnik_rank": 34.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "179",
+"genes": [
+"SPECC1L"
+],
+"findings": [
+"HP:0000776",
+"HP:0002335",
+"HP:0005445"
+],
+"resnik_rank": 1304.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "180",
+"genes": [
+"MRPS22"
+],
+"findings": [
+"HP:0000238",
+"HP:0001629"
+],
+"resnik_rank": 1397.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "181",
+"genes": [
+"MID1"
+],
+"findings": [
+"HP:0001305",
+"HP:0000175",
+"HP:0410030"
+],
+"resnik_rank": 16.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "182",
+"genes": [
+"CHD7"
+],
+"findings": [
+"HP:0011611",
+"HP:0002032",
+"HP:0005301"
+],
+"resnik_rank": 5.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "183",
+"genes": [
+"MYH7"
+],
+"findings": [
+"HP:0001640",
+"HP:0004415",
+"HP:0001541",
+"HP:0001698"
+],
+"resnik_rank": 416.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "184",
+"genes": [
+"NEK8"
+],
+"findings": [
+"HP:0001669",
+"HP:0002089",
+"HP:4000139",
+"HP:0000105",
+"HP:0001562"
+],
+"resnik_rank": 5.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "185",
+"genes": [
+"FGFR2"
+],
+"findings": [
+"HP:0001274",
+"HP:0010557",
+"HP:0001845",
+"HP:0001188"
+],
+"resnik_rank": 25.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "186",
+"genes": [
+"BBS7"
+],
+"findings": [
+"HP:0000003",
+"HP:0010442"
+],
+"resnik_rank": 63.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "187",
+"genes": [
+"FRAS1"
+],
+"findings": [
+"HP:0000104",
+"HP:0002089",
+"HP:0001562",
+"HP:0001541"
+],
+"resnik_rank": 99.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "188",
+"genes": [
+"FGFR2"
+],
+"findings": [
+"HP:0000347",
+"HP:0001629"
+],
+"resnik_rank": 122.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "189",
+"genes": [
+"UBA1"
+],
+"findings": [
+"HP:0000347",
+"HP:0002804",
+"HP:0001511"
+],
+"resnik_rank": 228.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "190",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0001629",
+"HP:0000175"
+],
+"resnik_rank": 105.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "191",
+"genes": [
+"NIPBL"
+],
+"findings": [
+"HP:0003026",
+"HP:0001680",
+"HP:0001511"
+],
+"resnik_rank": 77.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "192",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0001680",
+"HP:0000175"
+],
+"resnik_rank": 39.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "193",
+"genes": [
+"NIPBL"
+],
+"findings": [
+"HP:0000175",
+"HP:0000047",
+"HP:0000054"
+],
+"resnik_rank": 65.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "194",
+"genes": [
+"USP9X"
+],
+"findings": [
+"HP:0012488",
+"HP:0001629",
+"HP:0002119",
+"HP:0001762"
+],
+"resnik_rank": 145.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "195",
+"genes": [
+"FGFR2"
+],
+"findings": [
+"HP:0001159",
+"HP:0000175",
+"HP:0000262"
+],
+"resnik_rank": 2.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "196",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0001629",
+"HP:0001680",
+"HP:0000086"
+],
+"resnik_rank": 6.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "197",
+"genes": [
+"NIPBL"
+],
+"findings": [
+"HP:0005301",
+"HP:0000347",
+"HP:0001511",
+"HP:0001561"
+],
+"resnik_rank": 178.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "198",
+"genes": [
+"CEP290"
+],
+"findings": [
+"HP:0001305",
+"HP:0000238",
+"HP:0000105",
+"HP:0004719"
+],
+"resnik_rank": 57.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "199",
+"genes": [
+"CEP290"
+],
+"findings": [
+"HP:0001305",
+"HP:0006956",
+"HP:0000003",
+"HP:0001562"
+],
+"resnik_rank": 13.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "200",
+"genes": [
+"SOX9"
+],
+"findings": [
+"HP:0000476",
+"HP:0100702",
+"HP:0002119",
+"HP:0000347",
+"HP:0001629",
+"HP:0001762"
+],
+"resnik_rank": 125.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "201",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0003026",
+"HP:0002119"
+],
+"resnik_rank": 49.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "202",
+"genes": [
+"RAF1"
+],
+"findings": [
+"HP:0010880",
+"HP:0001629",
+"HP:0001360",
+"HP:0000316"
+],
+"resnik_rank": 95.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "203",
+"genes": [
+"MAGEL2"
+],
+"findings": [
+"HP:0001762",
+"HP:0001239",
+"HP:0000811",
+"HP:0100871"
+],
+"resnik_rank": 196.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "204",
+"genes": [
+"ABCA12"
+],
+"findings": [
+"HP:0001072",
+"HP:0002533",
+"HP:0000194"
+],
+"resnik_rank": 459.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "205",
+"genes": [
+"TMEM231"
+],
+"findings": [
+"HP:0001305",
+"HP:0000943"
+],
+"resnik_rank": 90.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "206",
+"genes": [
+"PLOD3"
+],
+"findings": [
+"HP:0010880",
+"HP:0001155",
+"HP:0002170",
+"HP:0005445",
+"HP:0002132"
+],
+"resnik_rank": 48.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "207",
+"genes": [
+"CRB2"
+],
+"findings": [
+"HP:0012618",
+"HP:0001539",
+"HP:0004719",
+"HP:0002119"
+],
+"resnik_rank": 91.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "208",
+"genes": [
+"RET"
+],
+"findings": [
+"HP:0000086",
+"HP:0001629"
+],
+"resnik_rank": 774.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "209",
+"genes": [
+"BBS7"
+],
+"findings": [
+"HP:0000003",
+"HP:0010442"
+],
+"resnik_rank": 63.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "210",
+"genes": [
+"WDR60"
+],
+"findings": [
+"HP:0001539",
+"HP:0000126",
+"HP:0002983"
+],
+"resnik_rank": 4354.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "211",
+"genes": [
+"BBS2"
+],
+"findings": [
+"HP:0000003",
+"HP:0001541",
+"HP:0001562"
+],
+"resnik_rank": 451.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "212",
+"genes": [
+"RAPSN"
+],
+"findings": [
+"HP:0002089",
+"HP:0004719",
+"HP:0000347",
+"HP:0001789"
+],
+"resnik_rank": 120.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "213",
+"genes": [
+"ACTA1"
+],
+"findings": [
+"HP:0001789",
+"HP:0000347",
+"HP:0001762",
+"HP:0001561"
+],
+"resnik_rank": 68.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "214",
+"genes": [
+"MID1"
+],
+"findings": [
+"HP:0000175",
+"HP:0410030",
+"HP:0005301",
+"HP:0005445"
+],
+"resnik_rank": 1.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "215",
+"genes": [
+"FLNA"
+],
+"findings": [
+"HP:0010880",
+"HP:0001541",
+"HP:0004719",
+"HP:0005180"
+],
+"resnik_rank": 17.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "216",
+"genes": [
+"GBA"
+],
+"findings": [
+"HP:0001511",
+"HP:0002202",
+"HP:0001558"
+],
+"resnik_rank": 4354.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "217",
+"genes": [
+"FANCI"
+],
+"findings": [
+"HP:0002119",
+"HP:0000122",
+"HP:0000075",
+"HP:0001629",
+"HP:0005301",
+"HP:0001518"
+],
+"resnik_rank": 136.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "218",
+"genes": [
+"MTOR"
+],
+"findings": [
+"HP:0002119",
+"HP:0001636",
+"HP:0012020"
+],
+"resnik_rank": 1082.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "219",
+"genes": [
+"KMT2A"
+],
+"findings": [
+"HP:0001561",
+"HP:0003026",
+"HP:0001640"
+],
+"resnik_rank": 1384.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "220",
+"genes": [
+"PEX1"
+],
+"findings": [
+"HP:0006956",
+"HP:0001629",
+"HP:0007082"
+],
+"resnik_rank": 154.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "221",
+"genes": [
+"ARID1A"
+],
+"findings": [
+"HP:0010941",
+"HP:0010947",
+"HP:0001195",
+"HP:0002119",
+"HP:0001305",
+"HP:0000776"
+],
+"resnik_rank": 372.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "222",
+"genes": [
+"FGFR2"
+],
+"findings": [
+"HP:0002119",
+"HP:0002007",
+"HP:0032269",
+"HP:0001762",
+"HP:0000104",
+"HP:0008518"
+],
+"resnik_rank": 81.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "223",
+"genes": [
+"MYH3"
+],
+"findings": [
+"HP:0000175",
+"HP:0003097"
+],
+"resnik_rank": 360.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "224",
+"genes": [
+"KRAS"
+],
+"findings": [
+"HP:0002119",
+"HP:0002202"
+],
+"resnik_rank": 189.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "225",
+"genes": [
+"CSNK2A1"
+],
+"findings": [
+"HP:0004755",
+"HP:0002280",
+"HP:0001541",
+"HP:0002202",
+"HP:0001561"
+],
+"resnik_rank": 1051.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "226",
+"genes": [
+"PBX1"
+],
+"findings": [
+"HP:0002089",
+"HP:0000122",
+"HP:0008718",
+"HP:0001562"
+],
+"resnik_rank": 16.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "227",
+"genes": [
+"CDKN1C"
+],
+"findings": [
+"HP:0001539",
+"HP:0005180",
+"HP:0001561",
+"HP:0003026",
+"HP:0002240"
+],
+"resnik_rank": 59.0,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "228",
+"genes": [
+"ZEB2"
+],
+"findings": [
+"HP:0000252",
+"HP:0100731",
+"HP:0001511"
+],
+"resnik_rank": 280.5,
+"period": "pre"
+},
+{
+"cohort": "fu2022",
+"case": "229",
+"genes": [
+"CLCN5"
+],
+"findings": [
+"HP:0001520",
+"HP:0001561"
+],
+"resnik_rank": 2246.0,
+"period": "pre"
+},
+{
+"cohort": "graham2026",
+"case": "1",
+"genes": [
+"ALPL"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 497.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "2",
+"genes": [
+"CNOT1"
+],
+"findings": [
+"HP:0001561",
+"HP:0001317",
+"HP:0010950"
+],
+"resnik_rank": 2174.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "3",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0003097",
+"HP:0002980"
+],
+"resnik_rank": 58.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "4",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:4000142",
+"HP:0005257",
+"HP:0003026",
+"HP:0006487"
+],
+"resnik_rank": 85.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "5",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0003026",
+"HP:0002980",
+"HP:0031846"
+],
+"resnik_rank": 54.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "6",
+"genes": [
+"COL1A2"
+],
+"findings": [
+"HP:0003026",
+"HP:0001547",
+"HP:0002980",
+"HP:0031846"
+],
+"resnik_rank": 41.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "7",
+"genes": [
+"COL1A2"
+],
+"findings": [
+"HP:0003026",
+"HP:0100555",
+"HP:0000773",
+"HP:0002979"
+],
+"resnik_rank": 197.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "8",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0003026",
+"HP:0000347",
+"HP:0002937"
+],
+"resnik_rank": 24.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "9",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0003026",
+"HP:0010880"
+],
+"resnik_rank": 53.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "10",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0003026",
+"HP:0000347"
+],
+"resnik_rank": 78.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "11",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 133.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "12",
+"genes": [
+"EPHB4"
+],
+"findings": [
+"HP:0000474",
+"HP:0002202"
+],
+"resnik_rank": 9.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "13",
+"genes": [
+"FBN1"
+],
+"findings": [
+"HP:0000253",
+"HP:0001338",
+"HP:0034672",
+"HP:0001321",
+"HP:0000047"
+],
+"resnik_rank": 521.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "14",
+"genes": [
+"KRAS"
+],
+"findings": [
+"HP:0010880",
+"HP:0002202",
+"HP:0001791",
+"HP:0025672"
+],
+"resnik_rank": 110.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "15",
+"genes": [
+"KRAS"
+],
+"findings": [
+"HP:0003026",
+"HP:0034250",
+"HP:0034349",
+"HP:0010878",
+"HP:0001629",
+"HP:0001646"
+],
+"resnik_rank": 9.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "16",
+"genes": [
+"MYH7"
+],
+"findings": [
+"HP:0001629",
+"HP:0001680",
+"HP:0012304",
+"HP:0001698"
+],
+"resnik_rank": 117.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "17",
+"genes": [
+"MYH7"
+],
+"findings": [
+"HP:0010880",
+"HP:0001629",
+"HP:0001680"
+],
+"resnik_rank": 68.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "18",
+"genes": [
+"PIEZO1",
+"GLI2"
+],
+"findings": [
+"HP:0001629",
+"HP:0001791",
+"HP:0002202",
+"HP:0025672",
+"HP:0010943",
+"HP:0001195"
+],
+"resnik_rank": 31.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "19",
+"genes": [
+"PKD1"
+],
+"findings": [
+"HP:0004719",
+"HP:0001274",
+"HP:0002119",
+"HP:0007633",
+"HP:0001660",
+"HP:0005148",
+"HP:0001629"
+],
+"resnik_rank": 781.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "20",
+"genes": [
+"PLAG1"
+],
+"findings": [
+"HP:0003026",
+"HP:0001511"
+],
+"resnik_rank": 473.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "21",
+"genes": [
+"POLR1A"
+],
+"findings": [
+"HP:0001539",
+"HP:0001629"
+],
+"resnik_rank": 146.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "22",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0010878",
+"HP:0003026",
+"HP:0000316"
+],
+"resnik_rank": 26.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "23",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0010878",
+"HP:0025678",
+"HP:0000969",
+"HP:0001698",
+"HP:0010943",
+"HP:0000104",
+"HP:0001639"
+],
+"resnik_rank": 3.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "24",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0001561",
+"HP:0001520",
+"HP:0000256"
+],
+"resnik_rank": 217.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "25",
+"genes": [
+"RAF1"
+],
+"findings": [
+"HP:0010878",
+"HP:0000925",
+"HP:0001719",
+"HP:0001629",
+"HP:0002623"
+],
+"resnik_rank": 45.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "26",
+"genes": [
+"RASA1"
+],
+"findings": [
+"HP:0001698",
+"HP:0000474"
+],
+"resnik_rank": 2523.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "27",
+"genes": [
+"RASA1"
+],
+"findings": [
+"HP:0000474",
+"HP:0001640",
+"HP:0034196",
+"HP:0012368",
+"HP:0025706"
+],
+"resnik_rank": 2534.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "28",
+"genes": [
+"RASA1"
+],
+"findings": [
+"HP:0001790",
+"HP:0025676"
+],
+"resnik_rank": 2344.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "29",
+"genes": [
+"RIT1"
+],
+"findings": [
+"HP:0001698",
+"HP:0010878",
+"HP:0025672"
+],
+"resnik_rank": 43.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "30",
+"genes": [
+"RUNX2"
+],
+"findings": [
+"HP:0003026",
+"HP:0000773",
+"HP:0001561"
+],
+"resnik_rank": 118.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "31",
+"genes": [
+"SHH"
+],
+"findings": [
+"HP:0002507"
+],
+"resnik_rank": 43.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "32",
+"genes": [
+"SOS1"
+],
+"findings": [
+"HP:0025676",
+"HP:0034250",
+"HP:0000126"
+],
+"resnik_rank": 36.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "33",
+"genes": [
+"SOX9"
+],
+"findings": [
+"HP:0000347"
+],
+"resnik_rank": 377.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "34",
+"genes": [
+"TCF12"
+],
+"findings": [
+"HP:0010952",
+"HP:0007068",
+"HP:0000932",
+"HP:0004719"
+],
+"resnik_rank": 1775.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "35",
+"genes": [
+"TFAP2A"
+],
+"findings": [
+"HP:0100336",
+"HP:0100337"
+],
+"resnik_rank": 39.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "36",
+"genes": [
+"TUBB2B"
+],
+"findings": [
+"HP:0006989",
+"HP:0002119",
+"HP:0002536",
+"HP:0000252",
+"HP:0033379"
+],
+"resnik_rank": 454.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "37",
+"genes": [
+"ZFHX4"
+],
+"findings": [
+"HP:0025672",
+"HP:0002202",
+"HP:0001789",
+"HP:0002088",
+"HP:0003026"
+],
+"resnik_rank": 4354.0,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "38",
+"genes": [
+"ZIC2"
+],
+"findings": [
+"HP:0001360",
+"HP:0002119",
+"HP:0006989",
+"HP:0030048"
+],
+"resnik_rank": 12.5,
+"period": "post"
+},
+{
+"cohort": "graham2026",
+"case": "39",
+"genes": [
+"ZIC2"
+],
+"findings": [
+"HP:0006988"
+],
+"resnik_rank": 4.5,
+"period": "post"
+},
+{
+"cohort": "smogavec2022",
+"case": "1",
+"genes": [
+"SF3B4"
+],
+"findings": [
+"HP:0010880",
+"HP:0000306",
+"HP:0003027",
+"HP:0006101"
+],
+"resnik_rank": 188.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "2",
+"genes": [
+"MPDZ"
+],
+"findings": [
+"HP:0000238"
+],
+"resnik_rank": 193.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "3",
+"genes": [
+"ANOS1"
+],
+"findings": [
+"HP:0010958"
+],
+"resnik_rank": 101.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "4",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0000776",
+"HP:0001541",
+"HP:0002202",
+"HP:0000075"
+],
+"resnik_rank": 61.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "5",
+"genes": [
+"COL1A2"
+],
+"findings": [
+"HP:0009826",
+"HP:0005855"
+],
+"resnik_rank": 4.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "6",
+"genes": [
+"COL27A1",
+"PKD1"
+],
+"findings": [
+"HP:0010880",
+"HP:0001627",
+"HP:0000003",
+"HP:0003026",
+"HP:0001776",
+"HP:0000929"
+],
+"resnik_rank": 1742.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "7",
+"genes": [
+"GUSB"
+],
+"findings": [
+"HP:0001789"
+],
+"resnik_rank": 60.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "8",
+"genes": [
+"CUL7"
+],
+"findings": [
+"HP:0002652",
+"HP:0001511",
+"HP:0003026",
+"HP:0005257"
+],
+"resnik_rank": 72.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "9",
+"genes": [
+"COG6"
+],
+"findings": [
+"HP:0001274",
+"HP:0001321",
+"HP:0030048",
+"HP:0001669",
+"HP:0000054",
+"HP:0001188",
+"HP:0006385",
+"HP:0001760"
+],
+"resnik_rank": 599.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "10",
+"genes": [
+"SLC26A2"
+],
+"findings": [
+"HP:0002652",
+"HP:0003026",
+"HP:0001776"
+],
+"resnik_rank": 3.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "11",
+"genes": [
+"SLC26A2"
+],
+"findings": [
+"HP:0002652",
+"HP:0003026"
+],
+"resnik_rank": 37.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "12",
+"genes": [
+"HNF1B"
+],
+"findings": [
+"HP:0000113",
+"HP:0001561"
+],
+"resnik_rank": 88.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "13",
+"genes": [
+"KAT6B"
+],
+"findings": [
+"HP:0001274",
+"HP:0000126",
+"HP:0001776",
+"HP:0005922"
+],
+"resnik_rank": 24.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "14",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0000003",
+"HP:0000105",
+"HP:0001562"
+],
+"resnik_rank": 62.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "15",
+"genes": [
+"BBS2"
+],
+"findings": [
+"HP:0000113",
+"HP:0001651"
+],
+"resnik_rank": 229.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "16",
+"genes": [
+"COL2A1"
+],
+"findings": [
+"HP:0005716"
+],
+"resnik_rank": 5.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "17",
+"genes": [
+"VANGL1"
+],
+"findings": [
+"HP:0012443",
+"HP:0001776",
+"HP:0001698"
+],
+"resnik_rank": 48.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "18",
+"genes": [
+"MN1"
+],
+"findings": [
+"HP:0003026"
+],
+"resnik_rank": 2242.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "19",
+"genes": [
+"GPC3"
+],
+"findings": [
+"HP:0010880",
+"HP:0000126",
+"HP:0000113",
+"HP:0001762",
+"HP:0001520"
+],
+"resnik_rank": 112.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "20",
+"genes": [
+"NBN"
+],
+"findings": [
+"HP:0000252",
+"HP:0000122"
+],
+"resnik_rank": 432.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "21",
+"genes": [
+"TREX1"
+],
+"findings": [
+"HP:0012443",
+"HP:0001640"
+],
+"resnik_rank": 44.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "22",
+"genes": [
+"EXOC3L2"
+],
+"findings": [
+"HP:0001320",
+"HP:0004719",
+"HP:0000105",
+"HP:0001562"
+],
+"resnik_rank": 4354.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "23",
+"genes": [
+"PEX1"
+],
+"findings": [
+"HP:0001339"
+],
+"resnik_rank": 259.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "24",
+"genes": [
+"FRAS1"
+],
+"findings": [
+"HP:0001789",
+"HP:0010952",
+"HP:0000160",
+"HP:0009381",
+"HP:0006101",
+"HP:0001627",
+"HP:0003026",
+"HP:0002980"
+],
+"resnik_rank": 224.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "25",
+"genes": [
+"PTPN11",
+"PTEN"
+],
+"findings": [
+"HP:0012443",
+"HP:0100659"
+],
+"resnik_rank": 164.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "26",
+"genes": [
+"CDK10"
+],
+"findings": [
+"HP:0001789",
+"HP:0000238",
+"HP:0000003",
+"HP:0002089",
+"HP:0001638",
+"HP:0000278"
+],
+"resnik_rank": 2112.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "27",
+"genes": [
+"KMT2D"
+],
+"findings": [
+"HP:0001627"
+],
+"resnik_rank": 692.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "28",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0002652",
+"HP:0003026",
+"HP:0002980",
+"HP:0000765",
+"HP:0000772"
+],
+"resnik_rank": 116.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "29",
+"genes": [
+"DCC"
+],
+"findings": [
+"HP:0001274"
+],
+"resnik_rank": 154.0,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "30",
+"genes": [
+"COL1A1"
+],
+"findings": [
+"HP:0002652"
+],
+"resnik_rank": 1489.5,
+"period": "pre"
+},
+{
+"cohort": "smogavec2022",
+"case": "31",
+"genes": [
+"NEB"
+],
+"findings": [
+"HP:0009473",
+"HP:0001776",
+"HP:0025672"
+],
+"resnik_rank": 52.5,
+"period": "pre"
+},
+{
+"cohort": "aogs2026",
+"case": "1",
+"genes": [
+"CPLANE1"
+],
+"findings": [
+"HP:0002335"
+],
+"resnik_rank": 153.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "2",
+"genes": [
+"PDHA1"
+],
+"findings": [
+"HP:0001274"
+],
+"resnik_rank": 154.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "3",
+"genes": [
+"ASPM"
+],
+"findings": [
+"HP:0000252"
+],
+"resnik_rank": 588.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "4",
+"genes": [
+"CEP135"
+],
+"findings": [
+"HP:0000252"
+],
+"resnik_rank": 588.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "5",
+"genes": [
+"DLL1"
+],
+"findings": [
+"HP:0002119"
+],
+"resnik_rank": 341.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "6",
+"genes": [
+"PPP1R12A"
+],
+"findings": [
+"HP:0030769"
+],
+"resnik_rank": 1406.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "7",
+"genes": [
+"AR"
+],
+"findings": [
+"HP:0002119",
+"HP:0000929",
+"HP:0000126",
+"HP:0001561"
+],
+"resnik_rank": 1996.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "8",
+"genes": [
+"CC2D2A"
+],
+"findings": [
+"HP:0002435",
+"HP:0000113",
+"HP:0001562",
+"HP:0010442"
+],
+"resnik_rank": 30.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "9",
+"genes": [
+"TMEM67"
+],
+"findings": [
+"HP:0002084",
+"HP:0000113",
+"HP:0001167"
+],
+"resnik_rank": 29.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "10",
+"genes": [
+"FAM111A"
+],
+"findings": [
+"HP:0002536",
+"HP:0000929"
+],
+"resnik_rank": 1136.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "11",
+"genes": [
+"COL4A1"
+],
+"findings": [
+"HP:0000238",
+"HP:0001789",
+"HP:0001627",
+"HP:0001698",
+"HP:0001762"
+],
+"resnik_rank": 712.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "12",
+"genes": [
+"CHD7"
+],
+"findings": [
+"HP:0002119",
+"HP:0000175",
+"HP:0010289",
+"HP:0001627"
+],
+"resnik_rank": 87.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "13",
+"genes": [
+"TMEM231"
+],
+"findings": [
+"HP:0002085",
+"HP:0000113",
+"HP:0010442"
+],
+"resnik_rank": 3.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "14",
+"genes": [
+"TREX1"
+],
+"findings": [
+"HP:0002119",
+"HP:0001273",
+"HP:0025015",
+"HP:0012443"
+],
+"resnik_rank": 85.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "15",
+"genes": [
+"TREX1"
+],
+"findings": [
+"HP:0005445",
+"HP:0010663"
+],
+"resnik_rank": 938.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "16",
+"genes": [
+"SMC1A"
+],
+"findings": [
+"HP:4000138",
+"HP:0001274",
+"HP:0002539",
+"HP:0012718",
+"HP:0001561",
+"HP:0011732"
+],
+"resnik_rank": 153.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "17",
+"genes": [
+"VANGL2"
+],
+"findings": [
+"HP:0002414",
+"HP:0002435",
+"HP:0010866",
+"HP:0100645",
+"HP:0010880"
+],
+"resnik_rank": 114.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "18",
+"genes": [
+"PIK3CA"
+],
+"findings": [
+"HP:0002119"
+],
+"resnik_rank": 341.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "19",
+"genes": [
+"ACO2"
+],
+"findings": [
+"HP:0002119"
+],
+"resnik_rank": 1598.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "20",
+"genes": [
+"AP5Z1"
+],
+"findings": [
+"HP:0002119"
+],
+"resnik_rank": 1598.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "21",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0002119"
+],
+"resnik_rank": 341.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "22",
+"genes": [
+"L1CAM"
+],
+"findings": [
+"HP:0001274"
+],
+"resnik_rank": 154.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "23",
+"genes": [
+"SMC1A"
+],
+"findings": [
+"HP:0001274"
+],
+"resnik_rank": 154.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "24",
+"genes": [
+"PEX6"
+],
+"findings": [
+"HP:0002536",
+"HP:0002539"
+],
+"resnik_rank": 212.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "25",
+"genes": [
+"OCRL"
+],
+"findings": [
+"HP:0002119",
+"HP:0000518"
+],
+"resnik_rank": 98.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "26",
+"genes": [
+"FGFR3"
+],
+"findings": [
+"HP:0002119",
+"HP:0003097"
+],
+"resnik_rank": 6.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "27",
+"genes": [
+"SMS"
+],
+"findings": [
+"HP:0002119",
+"HP:0000086"
+],
+"resnik_rank": 112.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "28",
+"genes": [
+"CHD7"
+],
+"findings": [
+"HP:0002119",
+"HP:0008428"
+],
+"resnik_rank": 76.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "29",
+"genes": [
+"RARS2"
+],
+"findings": [
+"HP:0002119"
+],
+"resnik_rank": 1598.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "30",
+"genes": [
+"NOTCH2"
+],
+"findings": [
+"HP:0002119"
+],
+"resnik_rank": 774.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "31",
+"genes": [
+"KMT2A"
+],
+"findings": [
+"HP:0001274"
+],
+"resnik_rank": 768.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "32",
+"genes": [
+"KCNQ1"
+],
+"findings": [
+"HP:0005445"
+],
+"resnik_rank": 92.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "33",
+"genes": [
+"TCF12"
+],
+"findings": [
+"HP:0005445"
+],
+"resnik_rank": 1170.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "34",
+"genes": [
+"COL4A1"
+],
+"findings": [
+"HP:0002335"
+],
+"resnik_rank": 153.5,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "35",
+"genes": [
+"TSC2"
+],
+"findings": [
+"HP:0009729",
+"HP:0009717"
+],
+"resnik_rank": 2.0,
+"period": "post"
+},
+{
+"cohort": "aogs2026",
+"case": "36",
+"genes": [
+"PTPN11"
+],
+"findings": [
+"HP:0001274"
+],
+"resnik_rank": 2432.5,
+"period": "post"
+}
+]

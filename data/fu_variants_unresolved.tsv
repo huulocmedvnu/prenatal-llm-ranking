@@ -1,0 +1,43 @@
+case	gene	hgvs	chrom	pos	ref	alt	zygosity	origin	variant_type
+6		c.1789C>T					Het	Mat	nonsense
+9		c.3127C>T					Het	Mat	nonsense
+15		c.1025+4A>T**					Het	Pat	splice region
+18		c.518dupA					Het	Mat	frameshift
+25		c.4465_4468delGACA					Het	Pat	frameshift
+28		c.3481C>T					Het	Mat	nonsense
+32		c.1761_1762delAG**					Het	Mat	frameshift
+62		c.2965_2967delCTC					Het	Pat	In-frame
+81		c.1785+1G>A					Het	Mat	splice donor
+89		c.1028G>A					Het	Mat	nonsense
+90		c.16C>T					Het	Pat	nonsense
+96		c.2341C>T					Het	Mat	nonsense
+97		c.107C>T					Het	Mat	missense
+107		c.3395G>C**					Het	De novo	missense
+113		c.1090C>T					Het	Mat	nonsense
+122		c.1057-2A>G**					Het	De novo	splice acceptor
+126	ATRX	1035 bp deletion**					Hemi	Mat	structural variant
+137	COL1A2	NM_000089:c.3305G>A					Het	De novo	missense
+141		c.409C>T**					Het	Pat	nonsense
+142		c.346G>A					Het	Mat	missense
+152		c.633G>C**					Het	Pat	missense
+154		c.1516A>C					Het	Mat	missense
+161		c.2014C>T					Het	Pat	nonsense
+162	SHOX	13.5 kb deletion (X1)**					Het	Mat(affected)	structural variant
+166		c.6158delC**					Het	Pat	frameshift
+180		c.1009C>T					Het	Pat	nonsense
+186		c.1002delT					Het	Pat	frameshift
+187		c.10597C>T					Het	Pat	nonsense
+198		c.4156delA					Het	Pat	frameshift
+199		c.2340_2341delGA					Het	Mat	frameshift
+204		c.3456G>A					Het	Mat	synonymous
+205		c.597+1G>A					Het	Pat	splice donor
+206		c.1354C>T					Het	Pat	nonsense
+207		c.3548T>A**					Het	Pat	nonsense
+209		c.849+1G>C**					Het	Mat	splice donor
+210		c.2095-1G>A**					Het	Mat	splice acceptor
+211		c.534+1G>T					Het	Mat	splice donor
+212		c.149_153delinsAGATGGGCCGCTACAAGGAGATGG**					Het	Mat	frameshift
+216	GBA	NM_000157.4:c.1448T>C(Sanger sequencing)					Het	Mat	missense
+216		c.521A>G					Het	Pat	missense
+217		c.3187-2A>G**					Het	Mat	splice acceptor
+220		c.5G>A					Het	Pat	nonsense

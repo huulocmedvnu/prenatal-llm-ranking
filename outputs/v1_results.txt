@@ -1,0 +1,3 @@
+v1_rerank_haiku-5-5 n 185 in top50 184 {"exomiser": {"top1": 123, "top5": 172, "top10": 179}, "llm_rerank": {"top1": 133, "top5": 178, "top10": 180}, "fusion": {"top1": 157, "top5": 179, "top10": 182}}
+v1_rerank_opus-5-5 n 185 in top50 184 {"exomiser": {"top1": 123, "top5": 172, "top10": 179}, "llm_rerank": {"top1": 151, "top5": 182, "top10": 184}, "fusion": {"top1": 161, "top5": 182, "top10": 182}}
+v1_rerank_sonnet-5-5 n 185 in top50 184 {"exomiser": {"top1": 123, "top5": 172, "top10": 179}, "llm_rerank": {"top1": 141, "top5": 183, "top10": 183}, "fusion": {"top1": 160, "top5": 182, "top10": 182}}

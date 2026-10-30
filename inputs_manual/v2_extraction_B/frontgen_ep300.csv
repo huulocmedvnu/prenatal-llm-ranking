@@ -1,0 +1,7 @@
+cohort,source_location,case,genes,inheritance,finding,hpo_id,hpo_name,map_rule,gestational_age,transcript,hgvs_c,zygosity,origin
+frontgen_ep300,"Table 1, row 1; Table 2, row 1",1,EP300,AD,Exencephaly,HP:0030769,Exencephaly,exact label,12 weeks,NM_001429.3,c.4795delC,,de novo
+frontgen_ep300,"Table 1, row 2; Table 2, row 2",2,EP300,AD,Rhabdomyoma,HP:0009730,Rhabdomyoma,exact label,24 weeks,NM_001429.3,c.6816delT,,de novo
+frontgen_ep300,"Table 1, row 3; Table 2, row 3",3,EP300,AD,FL: M - 2.1SD,HP:0011428,Short fetal femur length,manual,27 weeks,NM_001429.3,c.1111A>G,,de novo
+frontgen_ep300,"Table 1, row 3; Table 2, row 3",3,EP300,AD,HL: M - 3.1SD,HP:0011429,Short fetal humerus length,manual,27 weeks,NM_001429.3,c.1111A>G,,de novo
+frontgen_ep300,"Table 1, row 3; Table 2, row 3",3,EP300,AD,Bilateral thick plantar surfaces,HP:0100872,Abnormality of the plantar skin of foot,manual,27 weeks,NM_001429.3,c.1111A>G,,de novo
+frontgen_ep300,"Table 1, row 3; Table 2, row 3",3,EP300,AD,Bilateral talipes equinovarus,HP:0001776,Bilateral talipes equinovarus,exact label,27 weeks,NM_001429.3,c.1111A>G,,de novo

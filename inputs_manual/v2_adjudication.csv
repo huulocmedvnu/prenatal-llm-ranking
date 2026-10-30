@@ -1,0 +1,21 @@
+fetus,finding,decision,reason
+frontgen_ep300|3,FL: M - 2.1SD,extraction B term(s),fetal-specific femur length term
+frontgen_ep300|3,HL: M - 3.1SD,extraction B term(s),fetal-specific humerus length term
+frontgen_ep300|3,Bilateral thick plantar surfaces,extraction B term(s),more specific (plantar skin)
+frontgen_wes_us|20,hydrops,Edema -> Hydrops fetalis,"fetal hydrops, not generalised oedema"
+pd_rnu4atac|2,Microencephaly,extraction B term(s),"microencephaly = small brain, not small head"
+pd_rnu4atac|2,Dilated cisterna magna,extraction B term(s),fetal-specific cisterna magna term
+pd_rnu4atac|3,Microencephaly,extraction B term(s),"microencephaly = small brain, not small head"
+pd_rnu4atac|4,Microencephaly,extraction B term(s),"microencephaly = small brain, not small head"
+pd_rnu4atac|5,Microencephaly,extraction B term(s),"microencephaly = small brain, not small head"
+pd_rnu4atac|5,Dilated cisterna magna,extraction B term(s),fetal-specific cisterna magna term
+uog_odyssey|ODSY007,Femur less than 10th centile,extraction B term(s),fetal-specific femur length term
+uog_odyssey|ODSY018,Left microcystic lung lesion (resolved spontaneously at 29+4),extraction B term(s),more specific (pulmonary cyst)
+uog_odyssey|ODSY045,Abnormal echocardiogram,extraction B term(s),phenotype term rather than test term
+uog_odyssey|ODSY061,venticulomegaly (3rd ventricle - 7mm),extraction B term(s),third ventricle named in source
+uog_odyssey|ODSY071,Absent left AV valve,extraction B term(s),B split the compound finding into specific terms
+uog_odyssey|ODSY074,hypercirculation in middle cerebral artery which would be in keeping with findings of lymphangioma,add Lymphangioma,keep A's MCA term and add B's lymphangioma (see ADD)
+frontgen_wes_us|15,,excluded,"homozygous HBA1/HBA2 --SEA deletion: CNV-type allele, CNV rule (as A)"
+ajogmfm_nihf_gs|2,,excluded,biallelic LARGE1 deletions labelled CNV by authors: CNV rule (as A)
+frontgen_wes_us|32,,excluded,"SDHB called incidental by the authors, does not explain phenotype (as B)"
+hydrops (all),,included from B only (23 fetuses),"A could not access the full text; single extraction, checked against source_note.md"

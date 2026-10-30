@@ -1,0 +1,36 @@
+Loading required package: Matrix
+== Model 1: post-cutoff fetuses, method fixed, random fetus and gene
+                     OR 2.5 %   97.5 %
+methodhaiku_r1   418.04 32.78  5331.84
+methodopus_r1    840.26 59.91 11785.32
+methodsonnet_r1 1382.85 92.08 20766.98
+ Groups Name        Std.Dev.
+ fetus  (Intercept)  2.7601 
+ gene   (Intercept) 11.6824 
+singular: FALSE 
+                Estimate Std. Error z value Pr(>|z|)
+(Intercept)     -15.5163     1.9297 -8.0406        0
+methodhaiku_r1    6.0356     1.2989  4.6465        0
+methodopus_r1     6.7337     1.3474  4.9975        0
+methodsonnet_r1   7.2319     1.3823  5.2319        0
+== Model 2: all fetuses, method x period, random fetus and gene
+                                OR  2.5 %  97.5 %
+methodhaiku_r1              353.69 113.30 1104.13
+methodopus_r1              1351.74 375.83 4861.72
+methodsonnet_r1            1206.96 339.55 4290.22
+methodhaiku_r1:periodpost     0.37   0.05    2.86
+methodopus_r1:periodpost      0.18   0.02    1.46
+methodsonnet_r1:periodpost    0.32   0.04    2.58
+ Groups Name        Std.Dev.
+ fetus  (Intercept) 2.5563  
+ gene   (Intercept) 8.8458  
+singular: FALSE 
+                           Estimate Std. Error  z value Pr(>|z|)
+(Intercept)                -13.4914     1.0824 -12.4638   0.0000
+methodhaiku_r1               5.8684     0.5808  10.1035   0.0000
+methodopus_r1                7.2091     0.6531  11.0388   0.0000
+methodsonnet_r1              7.0959     0.6471  10.9661   0.0000
+periodpost                  -0.5382     1.0116  -0.5320   0.5947
+methodhaiku_r1:periodpost   -0.9882     1.0397  -0.9504   0.3419
+methodopus_r1:periodpost    -1.7010     1.0612  -1.6030   0.1089
+methodsonnet_r1:periodpost  -1.1343     1.0628  -1.0673   0.2859

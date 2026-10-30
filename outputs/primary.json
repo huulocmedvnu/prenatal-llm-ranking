@@ -1,0 +1,192 @@
+{
+ "n_post": 153,
+ "by_source": {
+  "ajogmfm_nihf_gs": {
+   "exomiser_hiphive": "0/1",
+   "exomiser_human": "0/1",
+   "resnik": "0/1",
+   "opus_r1": "0/1",
+   "sonnet_r1": "0/1",
+   "haiku_r1": "0/1",
+   "opus_r2": "0/1",
+   "opus_r3": "0/1"
+  },
+  "aogs2026": {
+   "exomiser_hiphive": "2/36",
+   "exomiser_human": "4/36",
+   "resnik": "3/36",
+   "opus_r1": "13/36",
+   "sonnet_r1": "13/36",
+   "haiku_r1": "11/36",
+   "opus_r2": "10/36",
+   "opus_r3": "12/36"
+  },
+  "frontgen_ep300": {
+   "exomiser_hiphive": "0/3",
+   "exomiser_human": "0/3",
+   "resnik": "0/3",
+   "opus_r1": "0/3",
+   "sonnet_r1": "0/3",
+   "haiku_r1": "0/3",
+   "opus_r2": "0/3",
+   "opus_r3": "0/3"
+  },
+  "frontgen_wes_us": {
+   "exomiser_hiphive": "2/31",
+   "exomiser_human": "2/31",
+   "resnik": "3/31",
+   "opus_r1": "6/31",
+   "sonnet_r1": "6/31",
+   "haiku_r1": "5/31",
+   "opus_r2": "6/31",
+   "opus_r3": "6/31"
+  },
+  "hydrops": {
+   "exomiser_hiphive": "0/23",
+   "exomiser_human": "0/23",
+   "resnik": "0/23",
+   "opus_r1": "3/23",
+   "sonnet_r1": "6/23",
+   "haiku_r1": "4/23",
+   "opus_r2": "3/23",
+   "opus_r3": "3/23"
+  },
+  "jcla_karyo_wes": {
+   "exomiser_hiphive": "2/8",
+   "exomiser_human": "2/8",
+   "resnik": "2/8",
+   "opus_r1": "3/8",
+   "sonnet_r1": "4/8",
+   "haiku_r1": "3/8",
+   "opus_r2": "3/8",
+   "opus_r3": "3/8"
+  },
+  "jml_romania": {
+   "exomiser_hiphive": "1/5",
+   "exomiser_human": "1/5",
+   "resnik": "0/5",
+   "opus_r1": "3/5",
+   "sonnet_r1": "3/5",
+   "haiku_r1": "3/5",
+   "opus_r2": "3/5",
+   "opus_r3": "3/5"
+  },
+  "pd_rnu4atac": {
+   "exomiser_hiphive": "0/4",
+   "exomiser_human": "0/4",
+   "resnik": "1/4",
+   "opus_r1": "0/4",
+   "sonnet_r1": "0/4",
+   "haiku_r1": "0/4",
+   "opus_r2": "0/4",
+   "opus_r3": "0/4"
+  },
+  "uog_odyssey": {
+   "exomiser_hiphive": "2/42",
+   "exomiser_human": "3/42",
+   "resnik": "2/42",
+   "opus_r1": "5/42",
+   "sonnet_r1": "4/42",
+   "haiku_r1": "3/42",
+   "opus_r2": "5/42",
+   "opus_r3": "4/42"
+  }
+ },
+ "topk": {
+  "exomiser_hiphive": {
+   "top1": 2,
+   "top5": 7,
+   "top10": 9,
+   "top50": 19
+  },
+  "exomiser_human": {
+   "top1": 2,
+   "top5": 7,
+   "top10": 12,
+   "top50": 23
+  },
+  "resnik": {
+   "top1": 1,
+   "top5": 5,
+   "top10": 11,
+   "top50": 27
+  },
+  "opus_r1": {
+   "top1": 16,
+   "top5": 28,
+   "top10": 33,
+   "top50": 62
+  },
+  "sonnet_r1": {
+   "top1": 15,
+   "top5": 29,
+   "top10": 36,
+   "top50": 56
+  },
+  "haiku_r1": {
+   "top1": 12,
+   "top5": 21,
+   "top10": 29,
+   "top50": 49
+  },
+  "opus_r2": {
+   "top1": 14,
+   "top5": 25,
+   "top10": 30,
+   "top50": 56
+  },
+  "opus_r3": {
+   "top1": 15,
+   "top5": 24,
+   "top10": 31,
+   "top50": 57
+  }
+ },
+ "primary": {
+  "sonnet_r1": {
+   "diff": 17.6,
+   "ci": [
+    11.5,
+    24.4
+   ],
+   "p": 1.1175870895385742e-07,
+   "p_holm": 3.3527612686157227e-07,
+   "llm_only": 28,
+   "exomiser_only": 1,
+   "gene_cluster_boot": [
+    10.2,
+    25.5
+   ]
+  },
+  "opus_r1": {
+   "diff": 15.7,
+   "ci": [
+    10.2,
+    22.0
+   ],
+   "p": 1.1920928955078125e-07,
+   "p_holm": 3.3527612686157227e-07,
+   "llm_only": 24,
+   "exomiser_only": 0,
+   "gene_cluster_boot": [
+    9.8,
+    21.8
+   ]
+  },
+  "haiku_r1": {
+   "diff": 13.1,
+   "ci": [
+    7.6,
+    19.3
+   ],
+   "p": 1.0967254638671875e-05,
+   "p_holm": 1.0967254638671875e-05,
+   "llm_only": 21,
+   "exomiser_only": 1,
+   "gene_cluster_boot": [
+    7.6,
+    18.8
+   ]
+  }
+ }
+}

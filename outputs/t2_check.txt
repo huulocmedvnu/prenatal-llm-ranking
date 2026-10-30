@@ -1,0 +1,12 @@
+fu2022        n=229  B1(other cohorts)  28  B1w(same cohort)  61  haiku T2 top10   2 top1 1  sonnet T2 top10  64 top1 7  opus T2 top10  62 top1 5
+smogavec2022  n= 31  B1(other cohorts)   8  B1w(same cohort)   0  haiku T2 top10   3 top1 1  sonnet T2 top10   7 top1 2  opus T2 top10   7 top1 0
+graham2026    n= 39  B1(other cohorts)  12  B1w(same cohort)  13  haiku T2 top10   0 top1 0  sonnet T2 top10  11 top1 1  opus T2 top10   7 top1 1
+aogs2026      n= 36  B1(other cohorts)   4  B1w(same cohort)   0  haiku T2 top10   1 top1 1  sonnet T2 top10   3 top1 0  opus T2 top10   3 top1 0
+opus aogs2026 distinct top-10 lists: 33 of 36
+opus fu2022 distinct top-10 lists: 92 of 229
+opus graham2026 distinct top-10 lists: 39 of 39
+opus smogavec2022 distinct top-10 lists: 29 of 31
+sonnet graham2026 distinct top-10 lists: 32 of 39
+sonnet fu2022 distinct top-10 lists: 141 of 229
+sonnet aogs2026 distinct top-10 lists: 32 of 36
+sonnet smogavec2022 distinct top-10 lists: 24 of 31

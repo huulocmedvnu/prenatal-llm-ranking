@@ -1,0 +1,30 @@
+all      Resnik (HPO 2026)      top1   1 top10  43 (12.8%)  top50  98 p_exo 0.14961
+all      Exomiser hiPHIVE       top1   4 top10  34 (10.1%)  top50 101 p_exo 1.0
+all      Exomiser human only    top1   3 top10  42 (12.5%)  top50 113 p_exo 0.07681
+all      claude-haiku-5-5       top1  55 top10 135 (40.3%)  top50 197 p_exo 0.0
+all      claude-opus-5-5        top1  64 top10 161 (48.1%)  top50 226 p_exo 0.0
+all      claude-sonnet-5-5      top1  69 top10 159 (47.5%)  top50 219 p_exo 0.0
+all      gemma3:12b             top1   9 top10  43 (12.8%)  top50  79 p_exo 0.2976
+all      gpt-oss:20b            top1  23 top10  80 (23.9%)  top50 120 p_exo 0.0
+all      llama3.1:8b            top1  14 top10  47 (14.0%)  top50  57 p_exo 0.07894
+all      qwen3:14b              top1  18 top10  74 (22.1%)  top50  81 p_exo 0.0
+post     Resnik (HPO 2026)      top1   0 top10   7 (9.3%)   top50  19 p_exo 1.0
+post     Exomiser hiPHIVE       top1   1 top10   6 (8.0%)   top50  15 p_exo 1.0
+post     Exomiser human only    top1   1 top10   9 (12.0%)  top50  20 p_exo 0.375
+post     claude-haiku-5-5       top1  10 top10  33 (44.0%)  top50  43 p_exo 0.0
+post     claude-opus-5-5        top1   9 top10  35 (46.7%)  top50  45 p_exo 0.0
+post     claude-sonnet-5-5      top1  12 top10  34 (45.3%)  top50  41 p_exo 0.0
+post     gemma3:12b             top1   1 top10   7 (9.3%)   top50  14 p_exo 1.0
+post     gpt-oss:20b            top1   3 top10  17 (22.7%)  top50  21 p_exo 0.00739
+post     llama3.1:8b            top1   0 top10   8 (10.7%)  top50   9 p_exo 0.72656
+post     qwen3:14b              top1   1 top10  12 (16.0%)  top50  12 p_exo 0.10938
+aogs2026 Resnik (HPO 2026)      top1   0 top10   3 (8.3%)   top50   5 p_exo 1.0
+aogs2026 Exomiser hiPHIVE       top1   1 top10   2 (5.6%)   top50   3 p_exo 1.0
+aogs2026 Exomiser human only    top1   1 top10   4 (11.1%)  top50   5 p_exo 0.5
+aogs2026 claude-haiku-5-5       top1   3 top10  11 (30.6%)  top50  14 p_exo 0.00391
+aogs2026 claude-opus-5-5        top1   4 top10  13 (36.1%)  top50  19 p_exo 0.00098
+aogs2026 claude-sonnet-5-5      top1   6 top10  13 (36.1%)  top50  14 p_exo 0.00098
+aogs2026 gemma3:12b             top1   1 top10   3 (8.3%)   top50   5 p_exo 1.0
+aogs2026 gpt-oss:20b            top1   1 top10   4 (11.1%)  top50   5 p_exo 0.625
+aogs2026 llama3.1:8b            top1   0 top10   2 (5.6%)   top50   2 p_exo 1.0
+aogs2026 qwen3:14b              top1   0 top10   1 (2.8%)   top50   1 p_exo 1.0

@@ -1,0 +1,11 @@
+cohort,source_location,case,genes,inheritance,finding,hpo_id,hpo_name,map_rule,gestational_age,transcript,hgvs_c,zygosity,origin
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,Pleural effusion,HP:0002202,Pleural effusion,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,pericardial effusion,HP:0001698,Pericardial effusion,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,ascites,HP:0001541,Ascites,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,skin edema,HP:0025672,Fetal skin edema,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,elevated MCA Doppler,HP:0034191,Elevated fetal middle cerebral artery peak systolic velocity,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,cardiomegaly,HP:0001640,Cardiomegaly,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,enlarged right atrium,HP:0030718,Right atrial enlargement,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,hyperplastic myocardium,HP:0001714,Ventricular hypertrophy,manual,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,tricuspid regurgitation,HP:0005180,Tricuspid regurgitation,exact label,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
+ajogmfm_nihf_gs,"Table 3, rows 1-2",1,HBA2;HBA1,AR,aortic arch hypoplasia,HP:0012304,Hypoplastic aortic arch,synonym,,;NM_000517.6,NC_000016.10:151619_182295del;c.179G>A,,paternal;maternal
